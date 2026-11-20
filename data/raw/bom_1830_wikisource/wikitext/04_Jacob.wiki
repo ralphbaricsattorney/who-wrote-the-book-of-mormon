@@ -1,0 +1,21 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = Book of Jacob
+ | previous    = [[Book of Mormon (1830)/2 Nephi|2 Nephi]]
+ | next        = [[Book of Mormon (1830)/Enos|Enos]]
+ | year        = 1830 
+ | notes       = <br>{{engine|The Book of Mormon|work=Book of Mormon (1830)}}
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" include="127" onlysection="TITLE" />
+
+{{AuxTOC|title=Chapters:|{{TOC begin}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Jacob/Chapter 1|Chapter I]]|123}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Jacob/Chapter 2|Chapter II]]|124}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Jacob/Chapter 3|Chapter III]]|129}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Jacob/Chapter 4|Chapter IV]]|139}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Jacob/Chapter 5|Chapter V]]|140}}
+{{TOC end}}}}
+
+{{dhr}}

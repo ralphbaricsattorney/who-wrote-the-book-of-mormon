@@ -1,0 +1,11 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = Testimony of Three Witnesses
+ | previous    = [[Book of Mormon (1830)/Moroni|Moroni]]
+ | next        = [[Book of Mormon (1830)/Eight Witnesses|Eight Witnesses]]
+ | year        = 1830 
+ | notes       = <br>{{engine|The Book of Mormon|work=Book of Mormon (1830)}}
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" include="593" />

@@ -1,0 +1,71 @@
+{"alternate_locations":{"servers":[{"server":"dn720406.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750"}],"workable":[{"server":"dn720406.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750"}]},"created":1794778235,"d1":"ia600901.us.archive.org","d2":"ia800901.us.archive.org","dir":"/35/items/bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1691785325","size":"17236","md5":"df97f79490d42729286b7c9fcfbd4d0c","crc32":"f84859f1","sha1":"820a376eb589320b94672bbdea186761c6631b70","format":"Item Tile","rotation":"0"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_page_numbers.json","mtime":"1691785012","size":"2887608","md5":"c4ab5524813852c90e62dbe9a5562bac","crc32":"823811f9","sha1":"43aa8f95e180cfc6c142aece453912e2d4a63bcc"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_archive.torrent","source":"metadata","btih":"bdeff12c1b8d874aaed5b14b827eec52f898310a","mtime":"1783446127","size":"8377","md5":"6ba8d3f38f2ed7414e442cc796b958b1","crc32":"10f665de","sha1":"c4883ddf2e32e9f84b7d50067b6456a2b287ed2c","format":"Archive BitTorrent"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_jp2.zip","mtime":"1691781346","size":"71647","md5":"dfe6b15532c556246b4157d0d255b48f","crc32":"a69b9992","sha1":"e17f8d147c8c71321afc99d3b773dda136f78a34"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_djvu.txt","source":"derivative","format":"DjVuTXT","original":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_djvu.xml","mtime":"1691784146","size":"4476","md5":"d5b6cf4ef96d7284bbc801e2a6fcac7d","crc32":"9dd4bd8b","sha1":"f3574864f51a0fbb9a994e350d4f70c3cc461d81"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_djvu.xml","source":"derivative","format":"Djvu XML","original":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_hocr.html","mtime":"1691782424","size":"77491","md5":"bd44fb7ba1229bb6a5da29aa21f251ed","crc32":"68d46e9b","sha1":"77910cac36a02bfe6aaec1a359ca189064db8d94"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_files.xml","source":"original","format":"Metadata","md5":"4b0ace72a5cef8a1d068e170b8b7dea7","summation":"md5"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_frame-md.json","source":"original","mtime":"1691729233","size":"227","md5":"20227699cdaa259019db10d4d8fcd3c7","crc32":"257ca5b5","sha1":"c9d7163488234468ed564df17ef72ee44d659e91","format":"JSON"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_chocr.html.gz","mtime":"1691781950","size":"161839","md5":"3e892bf72a58a0ed934ce5bbb72f1d43","crc32":"33eceb62","sha1":"4d3549dedf7f47b54778838a71eb4619fad7df3a"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_hocr.html","mtime":"1691783209","size":"130","md5":"d7e737126a4f53edbe8a644a3fb9a6c0","crc32":"30c12e89","sha1":"0c47ececa114132b0bb8078857d206f869031924"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"12","word_conf_11_20":"8","word_conf_21_30":"15","word_conf_31_40":"15","word_conf_41_50":"18","word_conf_51_60":"30","word_conf_61_70":"26","word_conf_71_80":"27","word_conf_81_90":"72","word_conf_91_100":"605","format":"OCR Search Text","original":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_hocr.html","mtime":"1691784080","size":"2281","md5":"32ea64ebb6b6e8f65133a4a10802c7c3","crc32":"42941d1a","sha1":"67bca547683fed961bbb547d4db180febc08604a"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_itemimage.png","source":"original","mtime":"1691729238","size":"5322605","md5":"0444c5cd2dd16707281e3b7890aa1520","crc32":"7ce232ff","sha1":"30b52bd7fa8b43f17fc78d788de49fd128839f80","format":"Item Image"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_jp2.zip","source":"original","mtime":"1691729220","size":"41716861","md5":"c71be90ecb25d5095265b08dc4fc9301","crc32":"6a5f3f68","sha1":"9702222858ab2893ab1f4d440d22cb2c0bd5441a","preview-image":"n0","format":"Single Page Processed JP2 ZIP","filecount":"9"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_meta.sqlite","source":"original","mtime":"1691729283","size":"61440","md5":"44c26bc302775c8fc2a63192e03fed25","crc32":"bfeb01ec","sha1":"3b1a2d25ba71766bf224218202f79c4bf7ce0420","format":"Metadata"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_meta.xml","source":"original","mtime":"1783446124","size":"3729","md5":"a44fd5993c148f565b52e56736c8f101","crc32":"370e36c3","sha1":"826151f7ce321128202a9a9a10d3212cda61c972","format":"Metadata"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.53","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_hocr.html","mtime":"1691784635","size":"1712","md5":"b7cbdb6d04bf28b654995a1243163fc7","crc32":"e4ce5600","sha1":"e294bdc9e0f6b04c1c035c054aef56a8d801af4d"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_rotations.json","source":"original","mtime":"1691729244","size":"963","md5":"5db4f8943c804c98b46be39f7e4e21fc","crc32":"9be3a4c8","sha1":"d3a38e1c2eb86ae5b1b7f3147fa0a55f441dfab9","format":"JSON"},{"name":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_scandata.xml","source":"derivative","format":"Scandata","original":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_djvu.xml","mtime":"1691784636","size":"3185","md5":"b95b80096eeded509d536096c2162ebb","crc32":"dbe1e7dc","sha1":"a5ac1ef9dc534507d1bef54af5654525d1db0ae8"},{"name":"header\/header_0000.jp2","source":"original","mtime":"1691729248","size":"476811","md5":"2537d81bb519432e109e3c63c199bd2f","crc32":"1fb203e8","sha1":"043d819e180ac9581669907d061a5b50cb5acc54","format":"JPEG 2000"},{"name":"header\/header_0001.jp2","source":"original","mtime":"1691729257","size":"5407605","md5":"cd685b7d9b67dc24789a02662c5a08de","crc32":"00bf7cc7","sha1":"11b2764c5ae2583a0fee7f50bbfd11789fe153d3","format":"JPEG 2000"},{"name":"header\/header_0002.jp2","source":"original","mtime":"1691729261","size":"5457880","md5":"48d0acfa1f8673a52ace9bccfa906993","crc32":"afa0a5fb","sha1":"d4f58902fdc2fd210a78e60bb585242aa9cbe89b","format":"JPEG 2000"},{"name":"header\/header_0003.jp2","source":"original","mtime":"1691729252","size":"5441731","md5":"c2aeb132a9d722d05c936715aac1446d","crc32":"2d22806f","sha1":"c60b12469fc86e5cd7981e36808f7c65831d0c20","format":"JPEG 2000"}],"files_count":22,"frame-md":{"header": {"right_to_left": null, "frame_start": 1, "frame_end": 4}, "issue": {"right_to_left": null, "frame_start": 1204, "frame_cover": 1204, "frame_end": 1212, "cover_reverse_handedness": false, "split_start_frame": false}},"item_last_updated":1783446127,"item_size":67125834,"metadata":{"identifier":"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750","adaptive_ocr":"true","auditor":"associate-jonathan-balignot@archive.org","betterpdf":"true","boxid":"IA40310415","canister":"IA40310415-39","collection":["pub_eighteenth-century","bim_microfilm","microfilm"],"collection-catalog-number":"t055165","contrast_max":"147","contrast_min":"1","contributor":"Internet Archive","copies":"2","creator":"Ilive, Jacob","date":"1750","derive_version":"0.0.22","description":"The speech of Mr. Jacob Ilive to his brethren the master-printers: on the great utility of the art of printing, at a general meeting, Wednesday, the 18th of July, 1750. 1750..<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40310415-39/page/n458\" rel=\"ugc nofollow\">IA40310415-39</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_the-case-of-the-corporat_harris-william_1736\" rel=\"ugc nofollow\">bim_eighteenth-century_the-case-of-the-corporat_harris-william_1736</a>.<br />Next issue: <a href=\"https://archive.org/details/bim_eighteenth-century_a-plan-for-raising-the-s_1798\" rel=\"ugc nofollow\">bim_eighteenth-century_a-plan-for-raising-the-s_1798</a>.","language":"English","mediatype":"texts","metadata_operator":"associate-jannine-ompad@archive.org","next_item":"bim_eighteenth-century_a-plan-for-raising-the-s_1798","ppi":"800","previous_item":"bim_eighteenth-century_the-case-of-the-corporat_harris-william_1736","pub_type":"Books","scanner":"microfilm04.cebu.archive.org","scanningcenter":"cebu","sim_pubid":"24073","software_version":"nextStar 4.5.0.20626","source":["IA40310415-39","microfilm"],"subject":["Language & Literature","Literary And Political Reviews","General Interest Periodicals--United Kingdom","Law","Philosophy & Religion","Fine & Performing Arts","Social Sciences","History","History--History of North And South America","Books","microfilm"],"title":"The speech of Mr. Jacob Ilive to his brethren the master-printers: on the great utility of the art of printing, at a general meeting, Wednesday, the 18th of July, 1750.  1750","uploader":"merlijn+microfilmderiver@archive.org","publicdate":"2023-08-11 04:47:44","addeddate":"2023-08-11 04:47:44","identifier-access":"http://archive.org/details/bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750","identifier-ark":"ark:/13960/s2jnp58zbz0","imagecount":"9","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"-l enm+Fraktur","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"0","page_number_module_version":"1.0.3","pdf_module_version":"0.0.23"},"page_numbers":{
+    "identifier": "bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.53",
+    "confidence": 0,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"rotations":{"issue": {"mean": -0.40550766666666666, "std": 0.49921906857599996, "lh_mean": -0.669147, "lh_std": 0.47912600000000005, "rh_mean": -0.27368800000000004, "rh_std": 0.45488392161792224}, "pages": {"bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_0000.jp2": 0.136292, "bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_0001.jp2": null, "bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_0002.jp2": -0.782641, "bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_0003.jp2": -0.190021, "bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_0004.jp2": 0.220581, "bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_0005.jp2": -1.148273, "bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_0006.jp2": -0.668984, "bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_0007.jp2": null, "bim_eighteenth-century_the-speech-of-mr-jacob-_ilive-jacob_1750_0008.jp2": null}},"server":"ia600901.us.archive.org","uniq":2131883834,"workable_servers":["ia600901.us.archive.org","ia800901.us.archive.org"]}

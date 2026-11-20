@@ -1,0 +1,17 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = Book of Jarom
+ | previous    = [[Book of Mormon (1830)/Enos|Enos]]
+ | next        = [[Book of Mormon (1830)/Omni|Omni]]
+ | year        = 1830 
+ | notes       = <br>{{engine|The Book of Mormon|work=Book of Mormon (1830)}}
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" include="150" onlysection="TITLE" />
+
+{{AuxTOC|title=Chapters:|{{TOC begin}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Jarom/Chapter 1|Chapter I]]|146}}
+{{TOC end}}}}
+
+{{dhr}}

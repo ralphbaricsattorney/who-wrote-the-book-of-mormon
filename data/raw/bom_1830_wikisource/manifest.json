@@ -1,0 +1,821 @@
+[
+ {
+  "file": "txt/01_Preface_ch00.txt",
+  "book": "Preface",
+  "chapter_1830": 0,
+  "wikisource_page": "Book of Mormon (1830)/Preface",
+  "words": 338
+ },
+ {
+  "file": "txt/02_1_Nephi_ch01.txt",
+  "book": "1 Nephi",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/1 Nephi/Chapter 1",
+  "words": 5047
+ },
+ {
+  "file": "txt/02_1_Nephi_ch02.txt",
+  "book": "1 Nephi",
+  "chapter_1830": 2,
+  "wikisource_page": "Book of Mormon (1830)/1 Nephi/Chapter 2",
+  "words": 2687
+ },
+ {
+  "file": "txt/02_1_Nephi_ch03.txt",
+  "book": "1 Nephi",
+  "chapter_1830": 3,
+  "wikisource_page": "Book of Mormon (1830)/1 Nephi/Chapter 3",
+  "words": 6342
+ },
+ {
+  "file": "txt/02_1_Nephi_ch04.txt",
+  "book": "1 Nephi",
+  "chapter_1830": 4,
+  "wikisource_page": "Book of Mormon (1830)/1 Nephi/Chapter 4",
+  "words": 1494
+ },
+ {
+  "file": "txt/02_1_Nephi_ch05.txt",
+  "book": "1 Nephi",
+  "chapter_1830": 5,
+  "wikisource_page": "Book of Mormon (1830)/1 Nephi/Chapter 5",
+  "words": 6492
+ },
+ {
+  "file": "txt/02_1_Nephi_ch06.txt",
+  "book": "1 Nephi",
+  "chapter_1830": 6,
+  "wikisource_page": "Book of Mormon (1830)/1 Nephi/Chapter 6",
+  "words": 1835
+ },
+ {
+  "file": "txt/02_1_Nephi_ch07.txt",
+  "book": "1 Nephi",
+  "chapter_1830": 7,
+  "wikisource_page": "Book of Mormon (1830)/1 Nephi/Chapter 7",
+  "words": 1515
+ },
+ {
+  "file": "txt/03_2_Nephi_ch01.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 1",
+  "words": 3031
+ },
+ {
+  "file": "txt/03_2_Nephi_ch02.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 2,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 2",
+  "words": 1174
+ },
+ {
+  "file": "txt/03_2_Nephi_ch03.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 3,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 3",
+  "words": 1308
+ },
+ {
+  "file": "txt/03_2_Nephi_ch04.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 4,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 4",
+  "words": 1181
+ },
+ {
+  "file": "txt/03_2_Nephi_ch05.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 5,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 5",
+  "words": 2121
+ },
+ {
+  "file": "txt/03_2_Nephi_ch06.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 6,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 6",
+  "words": 2398
+ },
+ {
+  "file": "txt/03_2_Nephi_ch07.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 7,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 7",
+  "words": 968
+ },
+ {
+  "file": "txt/03_2_Nephi_ch08.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 8,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 8",
+  "words": 2621
+ },
+ {
+  "file": "txt/03_2_Nephi_ch09.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 9,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 9",
+  "words": 3774
+ },
+ {
+  "file": "txt/03_2_Nephi_ch10.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 10,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 10",
+  "words": 1473
+ },
+ {
+  "file": "txt/03_2_Nephi_ch11.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 11,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 11",
+  "words": 4661
+ },
+ {
+  "file": "txt/03_2_Nephi_ch12.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 12,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 12",
+  "words": 2752
+ },
+ {
+  "file": "txt/03_2_Nephi_ch13.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 13,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 13",
+  "words": 993
+ },
+ {
+  "file": "txt/03_2_Nephi_ch14.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 14,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 14",
+  "words": 430
+ },
+ {
+  "file": "txt/03_2_Nephi_ch15.txt",
+  "book": "2 Nephi",
+  "chapter_1830": 15,
+  "wikisource_page": "Book of Mormon (1830)/2 Nephi/Chapter 15",
+  "words": 648
+ },
+ {
+  "file": "txt/04_Jacob_ch01.txt",
+  "book": "Jacob",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/Jacob/Chapter 1",
+  "words": 748
+ },
+ {
+  "file": "txt/04_Jacob_ch02.txt",
+  "book": "Jacob",
+  "chapter_1830": 2,
+  "wikisource_page": "Book of Mormon (1830)/Jacob/Chapter 2",
+  "words": 1992
+ },
+ {
+  "file": "txt/04_Jacob_ch03.txt",
+  "book": "Jacob",
+  "chapter_1830": 3,
+  "wikisource_page": "Book of Mormon (1830)/Jacob/Chapter 3",
+  "words": 4693
+ },
+ {
+  "file": "txt/04_Jacob_ch04.txt",
+  "book": "Jacob",
+  "chapter_1830": 4,
+  "wikisource_page": "Book of Mormon (1830)/Jacob/Chapter 4",
+  "words": 516
+ },
+ {
+  "file": "txt/04_Jacob_ch05.txt",
+  "book": "Jacob",
+  "chapter_1830": 5,
+  "wikisource_page": "Book of Mormon (1830)/Jacob/Chapter 5",
+  "words": 1250
+ },
+ {
+  "file": "txt/05_Enos_ch01.txt",
+  "book": "Enos",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/Enos/Chapter 1",
+  "words": 1169
+ },
+ {
+  "file": "txt/06_Jarom_ch01.txt",
+  "book": "Jarom",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/Jarom/Chapter 1",
+  "words": 736
+ },
+ {
+  "file": "txt/07_Omni_ch01.txt",
+  "book": "Omni",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/Omni/Chapter 1",
+  "words": 1402
+ },
+ {
+  "file": "txt/08_Words_of_Mormon_ch01.txt",
+  "book": "Words of Mormon",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/Words of Mormon/Chapter 1",
+  "words": 862
+ },
+ {
+  "file": "txt/09_Mosiah_ch01.txt",
+  "book": "Mosiah",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 1",
+  "words": 4202
+ },
+ {
+  "file": "txt/09_Mosiah_ch02.txt",
+  "book": "Mosiah",
+  "chapter_1830": 2,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 2",
+  "words": 1615
+ },
+ {
+  "file": "txt/09_Mosiah_ch03.txt",
+  "book": "Mosiah",
+  "chapter_1830": 3,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 3",
+  "words": 742
+ },
+ {
+  "file": "txt/09_Mosiah_ch04.txt",
+  "book": "Mosiah",
+  "chapter_1830": 4,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 4",
+  "words": 309
+ },
+ {
+  "file": "txt/09_Mosiah_ch05.txt",
+  "book": "Mosiah",
+  "chapter_1830": 5,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 5",
+  "words": 2489
+ },
+ {
+  "file": "txt/09_Mosiah_ch06.txt",
+  "book": "Mosiah",
+  "chapter_1830": 6,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 6",
+  "words": 1853
+ },
+ {
+  "file": "txt/09_Mosiah_ch07.txt",
+  "book": "Mosiah",
+  "chapter_1830": 7,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 7",
+  "words": 3210
+ },
+ {
+  "file": "txt/09_Mosiah_ch08.txt",
+  "book": "Mosiah",
+  "chapter_1830": 8,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 8",
+  "words": 2435
+ },
+ {
+  "file": "txt/09_Mosiah_ch09.txt",
+  "book": "Mosiah",
+  "chapter_1830": 9,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 9",
+  "words": 5304
+ },
+ {
+  "file": "txt/09_Mosiah_ch10.txt",
+  "book": "Mosiah",
+  "chapter_1830": 10,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 10",
+  "words": 627
+ },
+ {
+  "file": "txt/09_Mosiah_ch11.txt",
+  "book": "Mosiah",
+  "chapter_1830": 11,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 11",
+  "words": 5858
+ },
+ {
+  "file": "txt/09_Mosiah_ch12.txt",
+  "book": "Mosiah",
+  "chapter_1830": 12,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 12",
+  "words": 726
+ },
+ {
+  "file": "txt/09_Mosiah_ch13.txt",
+  "book": "Mosiah",
+  "chapter_1830": 13,
+  "wikisource_page": "Book of Mormon (1830)/Mosiah/Chapter 13",
+  "words": 1975
+ },
+ {
+  "file": "txt/10_Alma_ch01.txt",
+  "book": "Alma",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 1",
+  "words": 4023
+ },
+ {
+  "file": "txt/10_Alma_ch02.txt",
+  "book": "Alma",
+  "chapter_1830": 2,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 2",
+  "words": 1035
+ },
+ {
+  "file": "txt/10_Alma_ch03.txt",
+  "book": "Alma",
+  "chapter_1830": 3,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 3",
+  "words": 2820
+ },
+ {
+  "file": "txt/10_Alma_ch04.txt",
+  "book": "Alma",
+  "chapter_1830": 4,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 4",
+  "words": 394
+ },
+ {
+  "file": "txt/10_Alma_ch05.txt",
+  "book": "Alma",
+  "chapter_1830": 5,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 5",
+  "words": 1466
+ },
+ {
+  "file": "txt/10_Alma_ch06.txt",
+  "book": "Alma",
+  "chapter_1830": 6,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 6",
+  "words": 1259
+ },
+ {
+  "file": "txt/10_Alma_ch07.txt",
+  "book": "Alma",
+  "chapter_1830": 7,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 7",
+  "words": 1565
+ },
+ {
+  "file": "txt/10_Alma_ch08.txt",
+  "book": "Alma",
+  "chapter_1830": 8,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 8",
+  "words": 2917
+ },
+ {
+  "file": "txt/10_Alma_ch09.txt",
+  "book": "Alma",
+  "chapter_1830": 9,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 9",
+  "words": 2296
+ },
+ {
+  "file": "txt/10_Alma_ch10.txt",
+  "book": "Alma",
+  "chapter_1830": 10,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 10",
+  "words": 3194
+ },
+ {
+  "file": "txt/10_Alma_ch11.txt",
+  "book": "Alma",
+  "chapter_1830": 11,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 11",
+  "words": 1021
+ },
+ {
+  "file": "txt/10_Alma_ch12.txt",
+  "book": "Alma",
+  "chapter_1830": 12,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 12",
+  "words": 6523
+ },
+ {
+  "file": "txt/10_Alma_ch13.txt",
+  "book": "Alma",
+  "chapter_1830": 13,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 13",
+  "words": 2844
+ },
+ {
+  "file": "txt/10_Alma_ch14.txt",
+  "book": "Alma",
+  "chapter_1830": 14,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 14",
+  "words": 4690
+ },
+ {
+  "file": "txt/10_Alma_ch15.txt",
+  "book": "Alma",
+  "chapter_1830": 15,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 15",
+  "words": 2558
+ },
+ {
+  "file": "txt/10_Alma_ch16.txt",
+  "book": "Alma",
+  "chapter_1830": 16,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 16",
+  "words": 9092
+ },
+ {
+  "file": "txt/10_Alma_ch17.txt",
+  "book": "Alma",
+  "chapter_1830": 17,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 17",
+  "words": 3265
+ },
+ {
+  "file": "txt/10_Alma_ch18.txt",
+  "book": "Alma",
+  "chapter_1830": 18,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 18",
+  "words": 660
+ },
+ {
+  "file": "txt/10_Alma_ch19.txt",
+  "book": "Alma",
+  "chapter_1830": 19,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 19",
+  "words": 3884
+ },
+ {
+  "file": "txt/10_Alma_ch20.txt",
+  "book": "Alma",
+  "chapter_1830": 20,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 20",
+  "words": 3494
+ },
+ {
+  "file": "txt/10_Alma_ch21.txt",
+  "book": "Alma",
+  "chapter_1830": 21,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 21",
+  "words": 6752
+ },
+ {
+  "file": "txt/10_Alma_ch22.txt",
+  "book": "Alma",
+  "chapter_1830": 22,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 22",
+  "words": 1744
+ },
+ {
+  "file": "txt/10_Alma_ch23.txt",
+  "book": "Alma",
+  "chapter_1830": 23,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 23",
+  "words": 1683
+ },
+ {
+  "file": "txt/10_Alma_ch24.txt",
+  "book": "Alma",
+  "chapter_1830": 24,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 24",
+  "words": 2849
+ },
+ {
+  "file": "txt/10_Alma_ch25.txt",
+  "book": "Alma",
+  "chapter_1830": 25,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 25",
+  "words": 2217
+ },
+ {
+  "file": "txt/10_Alma_ch26.txt",
+  "book": "Alma",
+  "chapter_1830": 26,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 26",
+  "words": 5460
+ },
+ {
+  "file": "txt/10_Alma_ch27.txt",
+  "book": "Alma",
+  "chapter_1830": 27,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 27",
+  "words": 2264
+ },
+ {
+  "file": "txt/10_Alma_ch28.txt",
+  "book": "Alma",
+  "chapter_1830": 28,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 28",
+  "words": 860
+ },
+ {
+  "file": "txt/10_Alma_ch29.txt",
+  "book": "Alma",
+  "chapter_1830": 29,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 29",
+  "words": 2218
+ },
+ {
+  "file": "txt/10_Alma_ch30.txt",
+  "book": "Alma",
+  "chapter_1830": 30,
+  "wikisource_page": "Book of Mormon (1830)/Alma/Chapter 30",
+  "words": 624
+ },
+ {
+  "file": "txt/11_Helaman_ch01.txt",
+  "book": "Helaman",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/Helaman/Chapter 1",
+  "words": 2135
+ },
+ {
+  "file": "txt/11_Helaman_ch02.txt",
+  "book": "Helaman",
+  "chapter_1830": 2,
+  "wikisource_page": "Book of Mormon (1830)/Helaman/Chapter 2",
+  "words": 6496
+ },
+ {
+  "file": "txt/11_Helaman_ch03.txt",
+  "book": "Helaman",
+  "chapter_1830": 3,
+  "wikisource_page": "Book of Mormon (1830)/Helaman/Chapter 3",
+  "words": 4608
+ },
+ {
+  "file": "txt/11_Helaman_ch04.txt",
+  "book": "Helaman",
+  "chapter_1830": 4,
+  "wikisource_page": "Book of Mormon (1830)/Helaman/Chapter 4",
+  "words": 2434
+ },
+ {
+  "file": "txt/11_Helaman_ch05.txt",
+  "book": "Helaman",
+  "chapter_1830": 5,
+  "wikisource_page": "Book of Mormon (1830)/Helaman/Chapter 5",
+  "words": 4966
+ },
+ {
+  "file": "txt/12_3_Nephi_ch01.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 1",
+  "words": 2159
+ },
+ {
+  "file": "txt/12_3_Nephi_ch02.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 2,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 2",
+  "words": 3811
+ },
+ {
+  "file": "txt/12_3_Nephi_ch03.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 3,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 3",
+  "words": 2339
+ },
+ {
+  "file": "txt/12_3_Nephi_ch04.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 4,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 4",
+  "words": 2656
+ },
+ {
+  "file": "txt/12_3_Nephi_ch05.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 5,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 5",
+  "words": 3314
+ },
+ {
+  "file": "txt/12_3_Nephi_ch06.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 6,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 6",
+  "words": 917
+ },
+ {
+  "file": "txt/12_3_Nephi_ch07.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 7,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 7",
+  "words": 1648
+ },
+ {
+  "file": "txt/12_3_Nephi_ch08.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 8,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 8",
+  "words": 2226
+ },
+ {
+  "file": "txt/12_3_Nephi_ch09.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 9,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 9",
+  "words": 3632
+ },
+ {
+  "file": "txt/12_3_Nephi_ch10.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 10,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 10",
+  "words": 1176
+ },
+ {
+  "file": "txt/12_3_Nephi_ch11.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 11,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 11",
+  "words": 1058
+ },
+ {
+  "file": "txt/12_3_Nephi_ch12.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 12,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 12",
+  "words": 1454
+ },
+ {
+  "file": "txt/12_3_Nephi_ch13.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 13,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 13",
+  "words": 2252
+ },
+ {
+  "file": "txt/12_3_Nephi_ch14.txt",
+  "book": "3 Nephi",
+  "chapter_1830": 14,
+  "wikisource_page": "Book of Mormon (1830)/3 Nephi/Chapter 14",
+  "words": 133
+ },
+ {
+  "file": "txt/13_4_Nephi_ch01.txt",
+  "book": "4 Nephi",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/4 Nephi/Chapter 1",
+  "words": 1965
+ },
+ {
+  "file": "txt/14_Mormon_ch01.txt",
+  "book": "Mormon",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/Mormon/Chapter 1",
+  "words": 2914
+ },
+ {
+  "file": "txt/14_Mormon_ch02.txt",
+  "book": "Mormon",
+  "chapter_1830": 2,
+  "wikisource_page": "Book of Mormon (1830)/Mormon/Chapter 2",
+  "words": 1898
+ },
+ {
+  "file": "txt/14_Mormon_ch03.txt",
+  "book": "Mormon",
+  "chapter_1830": 3,
+  "wikisource_page": "Book of Mormon (1830)/Mormon/Chapter 3",
+  "words": 1372
+ },
+ {
+  "file": "txt/14_Mormon_ch04.txt",
+  "book": "Mormon",
+  "chapter_1830": 4,
+  "wikisource_page": "Book of Mormon (1830)/Mormon/Chapter 4",
+  "words": 3289
+ },
+ {
+  "file": "txt/15_Ether_ch01.txt",
+  "book": "Ether",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/Ether/Chapter 1",
+  "words": 4432
+ },
+ {
+  "file": "txt/15_Ether_ch02.txt",
+  "book": "Ether",
+  "chapter_1830": 2,
+  "wikisource_page": "Book of Mormon (1830)/Ether/Chapter 2",
+  "words": 228
+ },
+ {
+  "file": "txt/15_Ether_ch03.txt",
+  "book": "Ether",
+  "chapter_1830": 3,
+  "wikisource_page": "Book of Mormon (1830)/Ether/Chapter 3",
+  "words": 3198
+ },
+ {
+  "file": "txt/15_Ether_ch04.txt",
+  "book": "Ether",
+  "chapter_1830": 4,
+  "wikisource_page": "Book of Mormon (1830)/Ether/Chapter 4",
+  "words": 3618
+ },
+ {
+  "file": "txt/15_Ether_ch05.txt",
+  "book": "Ether",
+  "chapter_1830": 5,
+  "wikisource_page": "Book of Mormon (1830)/Ether/Chapter 5",
+  "words": 1543
+ },
+ {
+  "file": "txt/15_Ether_ch06.txt",
+  "book": "Ether",
+  "chapter_1830": 6,
+  "wikisource_page": "Book of Mormon (1830)/Ether/Chapter 6",
+  "words": 3681
+ },
+ {
+  "file": "txt/16_Moroni_ch01.txt",
+  "book": "Moroni",
+  "chapter_1830": 1,
+  "wikisource_page": "Book of Mormon (1830)/Moroni/Chapter 1",
+  "words": 149
+ },
+ {
+  "file": "txt/16_Moroni_ch02.txt",
+  "book": "Moroni",
+  "chapter_1830": 2,
+  "wikisource_page": "Book of Mormon (1830)/Moroni/Chapter 2",
+  "words": 121
+ },
+ {
+  "file": "txt/16_Moroni_ch03.txt",
+  "book": "Moroni",
+  "chapter_1830": 3,
+  "wikisource_page": "Book of Mormon (1830)/Moroni/Chapter 3",
+  "words": 122
+ },
+ {
+  "file": "txt/16_Moroni_ch04.txt",
+  "book": "Moroni",
+  "chapter_1830": 4,
+  "wikisource_page": "Book of Mormon (1830)/Moroni/Chapter 4",
+  "words": 155
+ },
+ {
+  "file": "txt/16_Moroni_ch05.txt",
+  "book": "Moroni",
+  "chapter_1830": 5,
+  "wikisource_page": "Book of Mormon (1830)/Moroni/Chapter 5",
+  "words": 93
+ },
+ {
+  "file": "txt/16_Moroni_ch06.txt",
+  "book": "Moroni",
+  "chapter_1830": 6,
+  "wikisource_page": "Book of Mormon (1830)/Moroni/Chapter 6",
+  "words": 338
+ },
+ {
+  "file": "txt/16_Moroni_ch07.txt",
+  "book": "Moroni",
+  "chapter_1830": 7,
+  "wikisource_page": "Book of Mormon (1830)/Moroni/Chapter 7",
+  "words": 1932
+ },
+ {
+  "file": "txt/16_Moroni_ch08.txt",
+  "book": "Moroni",
+  "chapter_1830": 8,
+  "wikisource_page": "Book of Mormon (1830)/Moroni/Chapter 8",
+  "words": 1066
+ },
+ {
+  "file": "txt/16_Moroni_ch09.txt",
+  "book": "Moroni",
+  "chapter_1830": 9,
+  "wikisource_page": "Book of Mormon (1830)/Moroni/Chapter 9",
+  "words": 1028
+ },
+ {
+  "file": "txt/16_Moroni_ch10.txt",
+  "book": "Moroni",
+  "chapter_1830": 10,
+  "wikisource_page": "Book of Mormon (1830)/Moroni/Chapter 10",
+  "words": 1156
+ },
+ {
+  "file": "txt/17_Three_Witnesses_ch00.txt",
+  "book": "Three Witnesses",
+  "chapter_1830": 0,
+  "wikisource_page": "Book of Mormon (1830)/Three Witnesses",
+  "words": 309
+ },
+ {
+  "file": "txt/18_Eight_Witnesses_ch00.txt",
+  "book": "Eight Witnesses",
+  "chapter_1830": 0,
+  "wikisource_page": "Book of Mormon (1830)/Eight Witnesses",
+  "words": 176
+ }
+]

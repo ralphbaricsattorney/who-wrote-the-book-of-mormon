@@ -1,0 +1,421 @@
+{"alternate_locations":{"servers":[{"server":"dn720409.ca.archive.org","dir":"/0/items/bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757"}],"workable":[{"server":"dn720409.ca.archive.org","dir":"/0/items/bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757"}]},"created":1794778209,"d1":"ia600505.us.archive.org","d2":"ia800505.us.archive.org","dir":"/28/items/bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1783436542","size":"21033","md5":"f6ad981c85bc8f2c2c0629fe4c0a7047","crc32":"8c5467f4","sha1":"fabc9d694c9d5b8b244c6612e75d78608e2de951","format":"Item Tile","rotation":"0"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_page_numbers.json","mtime":"1696910061","size":"46642816","md5":"05acb4572d064e7fd301cfb392c300d8","crc32":"3291fb7b","sha1":"452a35edd216160316cb18fe624ac2fb023b38af"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_archive.torrent","source":"metadata","btih":"f896373778d3d13453e60264b65eb6ea0370ef9a","mtime":"1783436546","size":"17292","md5":"f8b2921d63be3fcffbbc6c8c8fc8030d","crc32":"b722dc81","sha1":"4c60b7de42f5c2cdb433f31925e841a742e496d6","format":"Archive BitTorrent"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"lang-Fraktur;lang-enm;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_jp2.zip","mtime":"1696904212","size":"1849833","md5":"5ed712ca49badbd95abf62b42161f6da","crc32":"36d2e454","sha1":"9d48285abc6398e29ad84dcac4465dc72b346c54"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_djvu.txt","source":"derivative","format":"DjVuTXT","original":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_djvu.xml","mtime":"1696906973","size":"121059","md5":"3c9fcf61436d53007e956d7b0954ee30","crc32":"9ec77fb1","sha1":"0e61ad9876e5de00b824892b9c77e1148af4a1ca"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_djvu.xml","source":"derivative","format":"Djvu XML","original":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_hocr.html","mtime":"1696905309","size":"1892470","md5":"4f3e892fb10ffa72c83df57a9c143a66","crc32":"e7456f7f","sha1":"113d1f2e4f947776e095cf94ce70aeefc7838f70"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_files.xml","source":"original","format":"Metadata","md5":"7c09db0d540cd07ad02ee747ffbe88dd","summation":"md5"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_frame-md.json","source":"original","mtime":"1696080817","size":"224","md5":"52d64af07a48b4c208b3e158724a7b6f","crc32":"74711176","sha1":"1414173b18ea23a82163dd82e69f8bd49157e6ff","format":"JSON"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_parameters":"lang-Fraktur;lang-enm;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_chocr.html.gz","mtime":"1696904571","size":"3854061","md5":"675d2da74dd9ba324ce0d2632493f494","crc32":"8c3f602c","sha1":"5aa9fe42fb4f47a60548ca504f50c4033cad3c56"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_hocr.html","mtime":"1696905677","size":"700","md5":"21cb73fd0d86bd2dce0810e6c8d9ada0","crc32":"5cbb91c7","sha1":"1bec87a88beeb9d91d8fb35a674a00d87d0c6001"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"497","word_conf_11_20":"384","word_conf_21_30":"613","word_conf_31_40":"613","word_conf_41_50":"663","word_conf_51_60":"702","word_conf_61_70":"725","word_conf_71_80":"881","word_conf_81_90":"2152","word_conf_91_100":"15843","format":"OCR Search Text","original":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_hocr.html","mtime":"1696906509","size":"47911","md5":"897afee13e5cb6996f55817defdce47a","crc32":"3fefa8f2","sha1":"94e2a07f15f55c9cbcdecc9af52611fe44f4a5c5"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_itemimage.png","source":"original","mtime":"1696080818","size":"5991694","md5":"6c95892e60c9b581652fbed07b8297ae","crc32":"edfb73df","sha1":"4014d709865fef3aedc0a95852c1f5c988865b10","format":"Item Image"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_jp2.zip","source":"original","mtime":"1696080804","size":"223272911","md5":"645e0d588cac9f263152004fe0f79c7f","crc32":"c2e86de2","sha1":"ced2399ac590a0ff56d9bcd527c24aa6f3d61ebf","preview-image":"n0","format":"Single Page Processed JP2 ZIP","filecount":"59"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_meta.sqlite","source":"original","mtime":"1696080844","size":"69632","md5":"7df10a1b19dfa7b8d5f26ca7f3a89825","crc32":"dc7b6d87","sha1":"b850a2e33d8a44b14c2735048a9641419f71767a","format":"Metadata"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_meta.xml","source":"original","mtime":"1783436539","size":"4031","md5":"8dd995722ad9de3b6f83eec2e8256f7f","crc32":"a036a6ee","sha1":"48972be19a911d0b5b524acb8a1f2207588040cf","format":"Metadata"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"35","format":"Page Numbers JSON","original":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_hocr.html","mtime":"1696908336","size":"10165","md5":"a7fe43fdf540fe3b864c67879ff90e06","crc32":"51dd2b45","sha1":"54a5440cc9f936986c9351a4d3d7a35bbd50c7be"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_rotations.json","source":"original","mtime":"1696080820","size":"5354","md5":"5b8224c2e2a2d9f7565ee8e60ad47284","crc32":"737e1cd8","sha1":"b3b8ebc14f7d4465819ef72c2658effecfebe51c","format":"JSON"},{"name":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_scandata.xml","source":"derivative","format":"Scandata","original":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_djvu.xml","mtime":"1696908336","size":"20038","md5":"4c45c5c91a99e3531e93288149d8353a","crc32":"c8f562c1","sha1":"b975516895a4aed85b8d66d158b78ae2479f5e6d"},{"name":"header\/header_0000.jp2","source":"original","mtime":"1696080828","size":"876171","md5":"a602badd462b51f79072089337835d24","crc32":"5d896330","sha1":"c0ff16a159487764fd10d13ccba23eaa939ce43b","format":"JPEG 2000"},{"name":"header\/header_0001.jp2","source":"original","mtime":"1696080822","size":"2714866","md5":"fefa838f1d2661aa1c8d8bfcf0c96dde","crc32":"f7f301cc","sha1":"700d8ccb10db8e8a757938e6eba9438e9b5091b7","format":"JPEG 2000"},{"name":"header\/header_0002.jp2","source":"original","mtime":"1696080830","size":"2914531","md5":"98bdfdd8efac74b1ed9f58af4b3022e3","crc32":"cab0130c","sha1":"0eec1d4da4980ee022ee33bdef8652106d86064d","format":"JPEG 2000"},{"name":"header\/header_0003.jp2","source":"original","mtime":"1696080824","size":"2646250","md5":"f4008df6fc40fdb0af10c081c81c6750","crc32":"b1ab2ebb","sha1":"cd35d1e7d404c05bb2a2538452ff3ca60870130a","format":"JPEG 2000"},{"name":"header\/header_0004.jp2","source":"original","mtime":"1696080826","size":"2471683","md5":"5580a8e1939ffe0ed14a9a97fbe538df","crc32":"254aeccb","sha1":"4af700a217df57b760667fc35ec0a15cf253aac8","format":"JPEG 2000"}],"files_count":23,"frame-md":{"header": {"right_to_left": null, "frame_start": 1, "frame_end": 5}, "issue": {"right_to_left": null, "frame_start": 118, "frame_cover": 118, "frame_end": 176, "cover_reverse_handedness": false, "split_start_frame": false}},"item_last_updated":1783436546,"item_size":295444725,"metadata":{"identifier":"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757","adaptive_ocr":"true","auditor":"associate-jonathan-balignot@archive.org","betterpdf":"true","boxid":"IA40316201","canister":"IA40316201-33","collection":["pub_eighteenth-century","bim_microfilm","microfilm"],"collection-catalog-number":"t076838","contrast_max":"164","contrast_min":"27","contributor":"Internet Archive","copies":"2","creator":"Ilive, Jacob","date":"1757","derive_version":"0.0.22","description":"Reasons offered for the reformation of the House of Correction in Clerkenwell: shewing, I. The present state of this goal, ... II. Proposals in what manner these evils may be prevented for the future; ... To which is prefixed, a plan of the said prison, ... 1757..<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40316201-33/page/n127\" rel=\"ugc nofollow\">IA40316201-33</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_continuation-des-loix-de_socit-des-suisses-lon_1723\" rel=\"ugc nofollow\">bim_eighteenth-century_continuation-des-loix-de_socit-des-suisses-lon_1723</a>.<br />Next issue: <a href=\"https://archive.org/details/bim_eighteenth-century_gilberts-law-directory-_gilbert-william_1775\" rel=\"ugc nofollow\">bim_eighteenth-century_gilberts-law-directory-_gilbert-william_1775</a>.","language":"English","mediatype":"texts","metadata_operator":"associate-russelpamela-maglasang@archive.org","next_item":"bim_eighteenth-century_gilberts-law-directory-_gilbert-william_1775","notes":"Anonymous. By Jacob Ilive.","ppi":"800","previous_item":"bim_eighteenth-century_continuation-des-loix-de_socit-des-suisses-lon_1723","pub_type":"Books","scanner":"microfilm03.cebu.archive.org","scanningcenter":"cebu","sim_pubid":"24073","software_version":"nextStar 4.5.0.20626","source":["IA40316201-33","microfilm"],"subject":["Language & Literature","Literary And Political Reviews","General Interest Periodicals--United Kingdom","Law","Philosophy & Religion","Fine & Performing Arts","Social Sciences","History","History--History of North And South America","Books","microfilm"],"title":"Reasons offered for the reformation of the House of Correction in Clerkenwell: shewing, I. The present state of this goal, ... II. Proposals in what manner these evils may be prevented for the future; ... To which is prefixed, a plan of the said prison, ...  1757","uploader":"merlijn+microfilmderiver@archive.org","publicdate":"2023-09-30 13:33:36","addeddate":"2023-09-30 13:33:36","identifier-access":"http://archive.org/details/bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757","identifier-ark":"ark:/13960/s24pt044ht2","imagecount":"59","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"-l Fraktur+enm","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"35","page_number_module_version":"1.0.3","pdf_module_version":"0.0.23"},"page_numbers":{
+    "identifier": "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 35,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 19,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 20,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 21,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 22,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 23,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 24,
+            "confidence": 64,
+            "pageNumber": "23",
+            "pageProb": 54,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 25,
+            "confidence": 63,
+            "pageNumber": "24",
+            "pageProb": 53,
+            "wordConf": 70
+        },
+        {
+            "leafNum": 26,
+            "confidence": null,
+            "pageNumber": "25",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 27,
+            "confidence": null,
+            "pageNumber": "26",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 28,
+            "confidence": 74,
+            "pageNumber": "27",
+            "pageProb": 64,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 29,
+            "confidence": null,
+            "pageNumber": "28",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 30,
+            "confidence": null,
+            "pageNumber": "29",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 31,
+            "confidence": null,
+            "pageNumber": "30",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 32,
+            "confidence": null,
+            "pageNumber": "31",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 33,
+            "confidence": 72,
+            "pageNumber": "32",
+            "pageProb": 62,
+            "wordConf": 81
+        },
+        {
+            "leafNum": 34,
+            "confidence": null,
+            "pageNumber": "33",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 35,
+            "confidence": null,
+            "pageNumber": "34",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 36,
+            "confidence": null,
+            "pageNumber": "35",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 37,
+            "confidence": 76,
+            "pageNumber": "36",
+            "pageProb": 66,
+            "wordConf": 73
+        },
+        {
+            "leafNum": 38,
+            "confidence": null,
+            "pageNumber": "37",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 39,
+            "confidence": null,
+            "pageNumber": "38",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 40,
+            "confidence": null,
+            "pageNumber": "39",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 41,
+            "confidence": null,
+            "pageNumber": "40",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 42,
+            "confidence": null,
+            "pageNumber": "41",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 43,
+            "confidence": null,
+            "pageNumber": "42",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 44,
+            "confidence": null,
+            "pageNumber": "43",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 45,
+            "confidence": 73,
+            "pageNumber": "44",
+            "pageProb": 63,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 46,
+            "confidence": null,
+            "pageNumber": "45",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 47,
+            "confidence": 70,
+            "pageNumber": "46",
+            "pageProb": 60,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 48,
+            "confidence": 61,
+            "pageNumber": "47",
+            "pageProb": 51,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 49,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 50,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 51,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 52,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 53,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 54,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 55,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 56,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 57,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 58,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"rotations":{"issue": {"mean": -1.2697703571428571, "std": 1.4468751952338708, "lh_mean": -2.484305185185185, "lh_std": 0.8874187685650354, "rh_mean": -0.13899655172413794, "rh_std": 0.810743786203227}, "pages": {"bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0000.jp2": 0.032602, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0001.jp2": null, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0002.jp2": 0.395447, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0003.jp2": null, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0004.jp2": -0.45204, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0005.jp2": -1.765293, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0006.jp2": -1.468446, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0007.jp2": -1.541325, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0008.jp2": 0.185179, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0009.jp2": -2.802165, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0010.jp2": -0.09354, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0011.jp2": -3.015302, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0012.jp2": -1.774108, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0013.jp2": -0.703942, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0014.jp2": 1.481624, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0015.jp2": -4.256677, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0016.jp2": 0.154797, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0017.jp2": -3.088655, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0018.jp2": 1.878065, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0019.jp2": -3.88739, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0020.jp2": -0.770531, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0021.jp2": -1.555697, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0022.jp2": 0.471579, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0023.jp2": -1.742594, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0024.jp2": -0.979805, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0025.jp2": -0.7608, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0026.jp2": 0.988179, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0027.jp2": -3.134552, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0028.jp2": -0.205453, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0029.jp2": -1.834878, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0030.jp2": -0.162752, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0031.jp2": -3.265201, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0032.jp2": 0.066418, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0033.jp2": -2.789368, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0034.jp2": -0.764155, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0035.jp2": -3.116314, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0036.jp2": -0.241446, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0037.jp2": -2.33562, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0038.jp2": -0.375707, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0039.jp2": -2.810498, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0040.jp2": -0.635197, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0041.jp2": -2.761337, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0042.jp2": 0.772182, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0043.jp2": -3.68105, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0044.jp2": -0.647289, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0045.jp2": -1.57163, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0046.jp2": 0.452016, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0047.jp2": -2.752317, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0048.jp2": -1.34523, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0049.jp2": -1.420004, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0050.jp2": -0.436157, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0051.jp2": -2.852751, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0052.jp2": -0.929595, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0053.jp2": -2.118314, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0054.jp2": 0.15725, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0055.jp2": -3.20702, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0056.jp2": 0.215213, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0057.jp2": -2.305546, "bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757_0058.jp2": null}},"server":"ia800505.us.archive.org","uniq":143499018,"workable_servers":["ia800505.us.archive.org","ia600505.us.archive.org"]}

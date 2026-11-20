@@ -1,0 +1,19 @@
+{
+ "uri": "letter-to-john-smith-2-july-1833",
+ "url": "https://www.josephsmithpapers.org/paper-summary/letter-to-john-smith-2-july-1833/1",
+ "title": "Letter to John Smith, 2 July 1833",
+ "date": "July 2, 1833",
+ "handwriting": "Handwriting of JS and Frederick G. Williams",
+ "classification": "Documents",
+ "numberOfPages": "2",
+ "pages_fetched": 2,
+ "pages_failed": [],
+ "word_count": 255,
+ "words_by_scribe": {
+  "Joseph Smith Jr.": 237,
+  "Frederick G. Williams": 18
+ },
+ "js_hand_words": 241,
+ "source_note": "JS and Frederick G. Williams, Letter, Kirtland Township, Geauga Co., OH, to John Smith, Eugene, IN, 2 July 1833. Retained copy, [ca. 2 July 1833], in JS Letterbook 1, pp. 50–51; handwriting of JS and Frederick G. Williams; JS Collection, CHL. For more complete source information, see the source note for JS Letterbook 1.",
+ "fetched": "2026-11-12"
+}

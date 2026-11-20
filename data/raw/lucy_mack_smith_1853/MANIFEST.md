@@ -1,0 +1,7 @@
+# Lucy Mack Smith, *Biographical Sketches of Joseph Smith the Prophet, and His Progenitors for Many Generations* (Liverpool: S. W. Richards, 1853)
+
+- **Source:** https://archive.org/details/BiographicalSketchesOfJosephSmithTheProphet (uploader-supplied scan; creator field "Orson Pratt, Lucy Mack Smith").
+- **Fetched:** 2026-11-12 from archive.org (metadata API + `_djvu.txt` OCR download) via `scripts/ia_get.sh` (or direct curl for items whose OCR filename contains spaces). Generic client.
+- **Cleaning:** `*.clean.txt` made by `scripts/build_cowdery_and_ocr.py`: de-hyphenation across line breaks and joining of wrapped lines only. OCR errors, running heads, page numbers and library stamps are NOT removed. Raw OCR kept as `*.djvu.txt`.
+- **Files:** `BiographicalSketchesOfJosephSmithTheProphet.djvu.txt` (raw OCR, ~104,500 words), `.clean.txt` (~103,600 words), `.metadata.json`.
+- **Authorship caveats (important):** dictated in 1844–45 by Lucy Mack Smith to scribes **Martha Jane Knowlton Coray and Howard Coray**, who also edited/organised it; the 1853 printing was prepared by **Orson Pratt** and includes long inserted documents (JS history extracts, revelations, letters, Lucy's own early poetry) not by Lucy. Brigham Young later repudiated it. The 1844–45 rough-draft manuscript (closer to Lucy's oral style) is **not** included (not on archive.org as text; edited in Anderson, *Lucy's Book*, 2001).

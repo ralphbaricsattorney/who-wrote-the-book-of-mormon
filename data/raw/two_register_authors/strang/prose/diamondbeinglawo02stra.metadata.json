@@ -1,0 +1,176 @@
+{"alternate_locations":{"servers":[{"server":"dn721600.ca.archive.org","dir":"/0/items/diamondbeinglawo02stra"},{"server":"dn760108.eu.archive.org","dir":"/0/items/diamondbeinglawo02stra"}],"workable":[{"server":"dn721600.ca.archive.org","dir":"/0/items/diamondbeinglawo02stra"},{"server":"dn760108.eu.archive.org","dir":"/0/items/diamondbeinglawo02stra"}]},"created":1794778122,"d1":"ia600507.us.archive.org","d2":"ia800507.us.archive.org","dir":"/31/items/diamondbeinglawo02stra","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1699478150","size":"19855","md5":"30765e387cc11fdcaaf3bde4fe031a51","crc32":"bd53a3fc","sha1":"1c52e848c5af84f8eb801b0d8f5bee67826e38ef","format":"Item Tile","rotation":"0"},{"name":"diamondbeinglawo02stra.djvu","source":"derivative","format":"DjVu","original":"diamondbeinglawo02stra_djvu.xml","mtime":"1306344812","size":"1014224","md5":"f57330889a732e54008507336266ccf7","crc32":"3d458c","sha1":"17c002ff865eb4b239222d8252a0de8af733491f"},{"name":"diamondbeinglawo02stra.gif","source":"derivative","format":"Animated GIF","original":"diamondbeinglawo02stra_jp2.zip","mtime":"1306317870","size":"292383","md5":"92a4a2a152fb2da06d03a497409d08aa","crc32":"db883fa7","sha1":"bfcd9c860c22f97920e13887b4eee7fb56d29ee7"},{"name":"diamondbeinglawo02stra.pdf","source":"derivative","format":"Text PDF","original":"diamondbeinglawo02stra_page_numbers.json","mtime":"1699478173","size":"1317335","md5":"d8ccd644982313f6521a5408b77d5784","crc32":"cca8caa3","sha1":"61b87e1fbaef82ea2954840d07e9a1bc0718a9bf"},{"name":"diamondbeinglawo02stra_abbyy.gz","source":"derivative","format":"Abbyy GZ","original":"diamondbeinglawo02stra_jp2.zip","mtime":"1306344748","size":"954379","md5":"2d4f89a74e6119d66510870099cc8d59","crc32":"812bedac","sha1":"b14eef4cf2f055113c09667850d97b6d179a1f61"},{"name":"diamondbeinglawo02stra_archive.torrent","source":"metadata","btih":"56c7613268bf9582f2ee948b2cb4b66b54f69ee8","mtime":"1746007826","size":"5390","md5":"526ce6aa67645e5caf18b9f7e2ba8317","crc32":"7df6b8db","sha1":"8b0815204f1c1cf9b4bcc8e14d61ce75178200c5","format":"Archive BitTorrent"},{"name":"diamondbeinglawo02stra_bw.pdf","source":"derivative","format":"Grayscale PDF","original":"diamondbeinglawo02stra_page_numbers.json","mtime":"1699478173","size":"1126193","md5":"aa9ad466d7fdd48765bc4d882a86fdff","crc32":"159f74a8","sha1":"c127b13912eec94ab9ed40506cde04d68b5e5780"},{"name":"diamondbeinglawo02stra_chocr.html.gz","source":"derivative","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","format":"chOCR","original":"diamondbeinglawo02stra_abbyy.gz","mtime":"1699478069","size":"748014","md5":"424e086b486aa6697df1c39e81a5984b","crc32":"78984296","sha1":"63e8f118266b10d47e85a99fe88fa585ad977c12"},{"name":"diamondbeinglawo02stra_cloth_detection.log","source":"derivative","cloth_cover_detection_module_version":"1.2","format":"Cloth Cover Detection Log","original":"diamondbeinglawo02stra_scandata.xml","mtime":"1699478280","size":"779","md5":"ca92f3f6ea5ea9fc8be69aa5cbcd8324","crc32":"f2f01e17","sha1":"32f41cf9394a8ddf39c002f00d239e2987c5fc68"},{"name":"diamondbeinglawo02stra_djvu.txt","source":"derivative","format":"DjVuTXT","original":"diamondbeinglawo02stra_djvu.xml","mtime":"1699478139","size":"67316","md5":"1cddda74531e99772b5e1219153132e8","crc32":"a5c9cedf","sha1":"9b2f35eff0e42b796a07645ba51f8c2646c4ae30"},{"name":"diamondbeinglawo02stra_djvu.xml","source":"derivative","format":"Djvu XML","original":"diamondbeinglawo02stra_hocr.html","mtime":"1699478097","size":"794936","md5":"f7cbac4958d6b90b53d0f255d3ff99f8","crc32":"64c77961","sha1":"f194746e9fa7e625bcb74fe25cc5d9f3759132c3"},{"name":"diamondbeinglawo02stra_files.xml","source":"original","format":"Metadata","md5":"8deee4c0f0c37dbbd07b342bccd64dfc","summation":"md5"},{"name":"diamondbeinglawo02stra_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","format":"hOCR","original":"diamondbeinglawo02stra_chocr.html.gz","mtime":"1699478090","size":"1459411","md5":"67c22e3d28752abebd8926a2570c64ea","crc32":"7cc74ebe","sha1":"54e2ed49b529092234da0ed5f9e72f90806db599"},{"name":"diamondbeinglawo02stra_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"diamondbeinglawo02stra_hocr.html","mtime":"1699478100","size":"323","md5":"847d1bb18bcb311b0ae8fdffe09ffd5f","crc32":"3c782f47","sha1":"9d33684f07098edb045915d91588219c643d48fa"},{"name":"diamondbeinglawo02stra_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"3339","word_conf_11_20":"2352","word_conf_21_30":"1687","word_conf_31_40":"1236","word_conf_41_50":"983","word_conf_51_60":"538","word_conf_61_70":"189","word_conf_71_80":"61","word_conf_81_90":"19","word_conf_91_100":"31","format":"OCR Search Text","original":"diamondbeinglawo02stra_hocr.html","mtime":"1699478110","size":"25621","md5":"867b860a1efeb295ddd816d9b45b9069","crc32":"29503855","sha1":"bcf1404948853dc145fce2c59e23f92c5f9b65bd"},{"name":"diamondbeinglawo02stra_jp2.zip","source":"derivative","format":"Single Page Processed JP2 ZIP","original":"diamondbeinglawo02stra_orig_jp2.tar","mtime":"1306317844","size":"9260214","md5":"80ba7040f28e818ff01e419504672543","crc32":"c995d465","sha1":"d1977137d812883724b9f1264d1c940876608b17","filecount":"28"},{"name":"diamondbeinglawo02stra_meta.sqlite","source":"original","mtime":"1464801046","size":"6144","format":"Metadata","md5":"fe9cdedb888082fd7176e6fbf19beffa","crc32":"b6b7c7a7","sha1":"9ee67ace60d8ae1fa7c1303f8d437ff8f512bbd1"},{"name":"diamondbeinglawo02stra_meta.xml","source":"original","format":"Metadata","mtime":"1746007822","size":"2177","md5":"c0e4f0fbaa264d8a683f05de0c77d058","crc32":"bc214cd7","sha1":"31810cac28f9dee2b90dd40699159fd8b56d698c"},{"name":"diamondbeinglawo02stra_metasource.xml","source":"original","format":"MARC Source","mtime":"1306241445","size":"232","md5":"50f1bf7d623affae30ee95d77a10b46e","crc32":"9d6f83a0","sha1":"ec6f172258f7da2d9ff29843b235984669d75fc2"},{"name":"diamondbeinglawo02stra_orig_jp2.tar","source":"original","format":"Single Page Original JP2 Tar","mtime":"1306270244","size":"18800640","md5":"8a204ae937865a1642d88f317f60a1df","crc32":"23ff3f0d","sha1":"f54bcf4954632acb930e9657b26a968c89e44780","filecount":"28"},{"name":"diamondbeinglawo02stra_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"diamondbeinglawo02stra_hocr.html","mtime":"1699478129","size":"4206","md5":"ec82573cdd1eef2c67c71730576a2030","crc32":"aab4eea7","sha1":"d151a215d7cbbef3759121aa5bfb9ed51b9de4ca"},{"name":"diamondbeinglawo02stra_scandata.xml","source":"original","format":"Scandata","mtime":"1699478280","size":"16546","md5":"ccb95a62151f21fd85d3c440721d5649","crc32":"4e6ac339","sha1":"03f0d9a3d3519acf6d9594dc6959af665d1e7f5b"}],"files_count":22,"item_last_updated":1746007827,"item_size":35916318,"metadata":{"title":"The diamond being the law of prophetic succession, and a defence [sic] of the calling of James J. Strang as successor to Joseph Smith James J. Strang","creator":"Strang, James Jesse 1813-1856","description":"20 p. 18 cm.","publisher":"Voree, Wis. Gospel Herald Print","date":"1848","language":"eng","page-progression":"lr","sponsor":"Corporation of the Presiding Bishop, The Church of Jesus Christ of Latter-day Saints","contributor":"Church History Library, The Church of Jesus Christ of Latter-day Saints","scanningcenter":"saltlakecity","mediatype":"texts","collection":["churchhistorylibrary","americana"],"call_number":"M292.4 S8968d 1848","repub_state":"4","updatedate":"2011-05-24 12:50:45","updater":"jim_niderost","identifier":"diamondbeinglawo02stra","uploader":"jim.n@archive.org","addeddate":"2011-05-24 12:50:47","publicdate":"2011-05-24 12:50:52","scanner":"scribe1.saltlakecity.archive.org","ppi":"400","camera":"Canon 5D","operator":"jim.n@archive.org","scandate":"20110524204201","imagecount":"26","foldoutcount":"0","identifier-access":"http://www.archive.org/details/diamondbeinglawo02stra","identifier-ark":"ark:/13960/t9669b848","curation":"[curator]callie@archive.org[/curator][date]20110602183257[/date][state]approved[/state]","scanfee":"20","sponsordate":"20110531","backup_location":"ia903700_10","filesxml":"Thu Dec 24 0:40:21 UTC 2020","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","page_number_confidence":"0","page_number_module_version":"1.0.3","openlibrary_work":"OL43177820W","openlibrary_edition":"OL58804890M"},"page_numbers":{
+    "identifier": "diamondbeinglawo02stra",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 0,
+    "pages": [
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 19,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 20,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 21,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 22,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 23,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 24,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"server":"ia600507.us.archive.org","uniq":1967818376,"workable_servers":["ia600507.us.archive.org","ia800507.us.archive.org"]}

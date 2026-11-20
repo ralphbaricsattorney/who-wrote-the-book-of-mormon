@@ -1,0 +1,309 @@
+{"alternate_locations":{"servers":[{"server":"dn720403.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738"},{"server":"dn760001.eu.archive.org","dir":"/0/items/bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738"}],"workable":[{"server":"dn720403.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738"},{"server":"dn760001.eu.archive.org","dir":"/0/items/bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738"}]},"created":1794778230,"d1":"ia600402.us.archive.org","d2":"ia800402.us.archive.org","dir":"/5/items/bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1688516679","size":"23822","md5":"6cced4bb36ab7d171b8141f3fbc6480f","crc32":"bbac6ac9","sha1":"1729fcb683d828753f6247a32834e77d2280a312","format":"Item Tile","rotation":"0"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_page_numbers.json","mtime":"1688516018","size":"39973358","md5":"9cdd90a456147da82511e8d0799e9d17","crc32":"879fadf6","sha1":"6407642ac943bec0ba5cb97a16296312d0d335bb"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_archive.torrent","source":"metadata","btih":"c55cda7da9c0b33806d00eba1dc735470c6060be","mtime":"1783445021","size":"13310","md5":"e760b66de0a1f3fc1169f94229cdfcdb","crc32":"4ab842cc","sha1":"bd8a5caf1fc89b45dff8a763048764e035697d9a","format":"Archive BitTorrent"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_jp2.zip","mtime":"1688507873","size":"1095884","md5":"c1b406f029caf10cf58b61d68435baee","crc32":"a09a38ba","sha1":"4bbe8ef29a335582e299ecffa35671c4d18a96e8"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_djvu.txt","source":"derivative","format":"DjVuTXT","original":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_djvu.xml","mtime":"1688511771","size":"71295","md5":"ddb4e4dd96c631fe036a3c2d567c3a98","crc32":"da163555","sha1":"af7de30b9fcdfe0a1529aaafe532d35d945bc338"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_djvu.xml","source":"derivative","format":"Djvu XML","original":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_hocr.html","mtime":"1688510276","size":"1040904","md5":"4a41712dc1564f8f1b81b4e3e1abce43","crc32":"11fd775e","sha1":"04ecadd160d712cf25e6201c1cf2d688123e6fd7"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_files.xml","source":"original","format":"Metadata","md5":"4f3377a5d7893d580f90101804f78bb5","summation":"md5"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_frame-md.json","source":"original","mtime":"1688015286","size":"225","md5":"6a13c90e8b3e13ce75cfd974c2900d0b","crc32":"d0ae35e0","sha1":"2f2d3b9f3e3ca1ad299a4b1cdd7c3052fa044082","format":"JSON"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.1.0","hocr_char_to_word_hocr_version":"1.1.15","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_chocr.html.gz","mtime":"1688509202","size":"2098475","md5":"0e8a1ba52b291cd4ba3a26e240ca2715","crc32":"89d7ea6e","sha1":"ade80df1046c62db98a95811de6fe813ca5fb977"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_hocr.html","mtime":"1688510702","size":"496","md5":"2d39363bff68f3ae045dc2d2ac6e5878","crc32":"ead62c10","sha1":"18a7b6e18281f73892385ff6b6b684c533618ed4"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"129","word_conf_11_20":"103","word_conf_21_30":"122","word_conf_31_40":"183","word_conf_41_50":"230","word_conf_51_60":"251","word_conf_61_70":"301","word_conf_71_80":"410","word_conf_81_90":"1018","word_conf_91_100":"9823","format":"OCR Search Text","original":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_hocr.html","mtime":"1688511086","size":"25182","md5":"7de2dd66f69bb1985af6a1bf20c211fb","crc32":"6cc62419","sha1":"7e2793651a172a837bc62845f87118ca6f935d8b"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_itemimage.png","source":"original","mtime":"1688015283","size":"7013372","md5":"7f6b77883c56f26cd5f5a600806c76ed","crc32":"816b20c6","sha1":"1c0ecd375045933d3a557bbe2d59d7926a2dbe84","format":"Item Image"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_jp2.zip","source":"original","mtime":"1688015268","size":"150645053","md5":"0c576be15ba8fc9bf1184f7003bf1df8","crc32":"8732aa2b","sha1":"e17cb085b457454721a8789ddfbca5503b339b9c","preview-image":"n0","format":"Single Page Processed JP2 ZIP","filecount":"43"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_meta.sqlite","source":"original","mtime":"1688015297","size":"53248","md5":"36a297d0ae19f4b3879d8e0a0c54edd2","crc32":"03098155","sha1":"58104c57b0ab30e78c097869ce9c2f67511dc69d","format":"Metadata"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_meta.xml","source":"original","mtime":"1783445019","size":"3555","md5":"94efc37074fa5021dc7e951188ebc1b9","crc32":"af9c298b","sha1":"0f54b37edd54a9ffce39ba7049152bed9ffda1f5","format":"Metadata"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.0","hocr_pagenumber_hocr_version":"1.1.44","hocr_pagenumber_confidence":"92","format":"Page Numbers JSON","original":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_hocr.html","mtime":"1688512625","size":"7343","md5":"858e6d58b8e4a95b85dbcaacc211c5be","crc32":"3196887d","sha1":"31c0c64249279ef25b55fb2e15800b0290e7b2b9"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_rotations.json","source":"original","mtime":"1688015281","size":"3940","md5":"d217e7bcfd4c90bd5f27d205aaff7d5d","crc32":"74abc3a5","sha1":"6fffbbec1eac56bbd65906d20e9de75f3065d75b","format":"JSON"},{"name":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_scandata.xml","source":"derivative","format":"Scandata","original":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_djvu.xml","mtime":"1688512625","size":"15368","md5":"78d157375988f3fffda2c99293cfb35c","crc32":"82689183","sha1":"00ee0b4b4f4ecc701d4eea0d5231bc03d8a1f377"},{"name":"header\/header_0000.jp2","source":"original","mtime":"1688015288","size":"636159","md5":"880cf64dfaeed26960d66b1b066c4462","crc32":"bd32a912","sha1":"25e542cc1b92f60de63bc36ec51301b527045f7b","format":"JPEG 2000"},{"name":"header\/header_0001.jp2","source":"original","mtime":"1688015289","size":"2416267","md5":"18cea2535adff724029f41e0ee8e3565","crc32":"dbc6017b","sha1":"abc5c8a478e9117a3df5066d5102b72e02f2b2d4","format":"JPEG 2000"}],"files_count":20,"frame-md":{"header": {"right_to_left": null, "frame_start": 1, "frame_end": 2}, "issue": {"right_to_left": null, "frame_start": 827, "frame_cover": 827, "frame_end": null, "cover_reverse_handedness": false, "split_start_frame": false}},"item_last_updated":1783445021,"item_size":205137256,"metadata":{"identifier":"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738","adaptive_ocr":"true","auditor":"associate-jonathan-balignot@archive.org","betterpdf":"true","boxid":"IA40310715","canister":"IA40310715-45","collection":["pub_eighteenth-century","bim_microfilm","microfilm"],"contrast_max":"168","contrast_min":"33","contributor":"Internet Archive","copies":"2","creator":"Ilive, Jacob","date":"1738","derive_version":"0.0.22","description":"The oration spoke at Trinity-Hall in Aldersgate-street: on Monday, Jan. 9. 1738. Before the gentlemen of the grand inquest of the ward of Aldersgate: in answer to Dr. Felton's two discourses on the resurrection of the same body. ... By Jacob Ilive 1738..<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40310715-45/page/n366\" rel=\"ugc nofollow\">IA40310715-45</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_considerations-on-paroch_vincent-william_1787\" rel=\"ugc nofollow\">bim_eighteenth-century_considerations-on-paroch_vincent-william_1787</a>.","language":"English","mediatype":"texts","metadata_operator":"associate-kierstinshane-wagas@archive.org","ppi":"800","previous_item":"bim_eighteenth-century_considerations-on-paroch_vincent-william_1787","pub_type":"Books","scanner":"microfilm04.cebu.archive.org","scanningcenter":"cebu","sim_pubid":"24073","software_version":"nextStar 4.5.0.20626","source":["IA40310715-45","microfilm"],"subject":["Language & Literature","Literary And Political Reviews","General Interest Periodicals--United Kingdom","Law","Philosophy & Religion","Fine & Performing Arts","Social Sciences","History","History--History of North And South America","Books","microfilm"],"title":"The oration spoke at Trinity-Hall in Aldersgate-street: on Monday, Jan. 9. 1738. Before the gentlemen of the grand inquest of the ward of Aldersgate: in answer to Dr. Felton's two discourses on the resurrection of the same body. ... By Jacob Ilive  1738","uploader":"merlijn+microfilmderiver@archive.org","publicdate":"2023-06-29 05:07:58","addeddate":"2023-06-29 05:07:58","identifier-access":"http://archive.org/details/bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738","identifier-ark":"ark:/13960/s22m8d9tn31","imagecount":"43","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"-l enm+Fraktur","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"92","page_number_module_version":"1.0.0","pdf_module_version":"0.0.23"},"page_numbers":{
+    "identifier": "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.44",
+    "confidence": 92,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": 99,
+            "pageNumber": "2",
+            "pageProb": 89,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 4,
+            "confidence": 72,
+            "pageNumber": "3",
+            "pageProb": 62,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 5,
+            "confidence": 98,
+            "pageNumber": "4",
+            "pageProb": 88,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 6,
+            "confidence": 100,
+            "pageNumber": "5",
+            "pageProb": 97,
+            "wordConf": 78
+        },
+        {
+            "leafNum": 7,
+            "confidence": 91,
+            "pageNumber": "6",
+            "pageProb": 81,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 8,
+            "confidence": 84,
+            "pageNumber": "7",
+            "pageProb": 74,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 9,
+            "confidence": 78,
+            "pageNumber": "8",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 10,
+            "confidence": 66,
+            "pageNumber": "9",
+            "pageProb": 56,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 11,
+            "confidence": 64,
+            "pageNumber": "10",
+            "pageProb": 54,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "11",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": 82,
+            "pageNumber": "12",
+            "pageProb": 72,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 14,
+            "confidence": 100,
+            "pageNumber": "13",
+            "pageProb": 95,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "14",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": 100,
+            "pageNumber": "15",
+            "pageProb": 94,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 17,
+            "confidence": 82,
+            "pageNumber": "16",
+            "pageProb": 72,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 18,
+            "confidence": 100,
+            "pageNumber": "17",
+            "pageProb": 93,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 19,
+            "confidence": 68,
+            "pageNumber": "18",
+            "pageProb": 58,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 20,
+            "confidence": 100,
+            "pageNumber": "19",
+            "pageProb": 96,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 21,
+            "confidence": 100,
+            "pageNumber": "20",
+            "pageProb": 90,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 22,
+            "confidence": 100,
+            "pageNumber": "21",
+            "pageProb": 94,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 23,
+            "confidence": 98,
+            "pageNumber": "22",
+            "pageProb": 88,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 24,
+            "confidence": 99,
+            "pageNumber": "23",
+            "pageProb": 89,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 25,
+            "confidence": 100,
+            "pageNumber": "24",
+            "pageProb": 90,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 26,
+            "confidence": 90,
+            "pageNumber": "25",
+            "pageProb": 80,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 27,
+            "confidence": 86,
+            "pageNumber": "26",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 28,
+            "confidence": 100,
+            "pageNumber": "27",
+            "pageProb": 95,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 29,
+            "confidence": 100,
+            "pageNumber": "28",
+            "pageProb": 99,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 30,
+            "confidence": 100,
+            "pageNumber": "29",
+            "pageProb": 91,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 31,
+            "confidence": 99,
+            "pageNumber": "30",
+            "pageProb": 89,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 32,
+            "confidence": null,
+            "pageNumber": "31",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 33,
+            "confidence": 100,
+            "pageNumber": "32",
+            "pageProb": 98,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 34,
+            "confidence": 67,
+            "pageNumber": "33",
+            "pageProb": 57,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 35,
+            "confidence": null,
+            "pageNumber": "34",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 36,
+            "confidence": 91,
+            "pageNumber": "35",
+            "pageProb": 81,
+            "wordConf": 80
+        },
+        {
+            "leafNum": 37,
+            "confidence": 80,
+            "pageNumber": "36",
+            "pageProb": 70,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 38,
+            "confidence": 91,
+            "pageNumber": "37",
+            "pageProb": 81,
+            "wordConf": 73
+        },
+        {
+            "leafNum": 39,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 40,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 41,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 42,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"rotations":{"issue": {"mean": -0.31287905, "std": 0.6658893729689246, "lh_mean": -0.47872555000000006, "lh_std": 0.6664713306267925, "rh_mean": -0.14703255, "rh_std": 0.6225938936368935}, "pages": {"bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0000.jp2": -0.682112, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0001.jp2": 0.154578, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0002.jp2": -0.807695, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0003.jp2": -0.155935, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0004.jp2": -0.741209, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0005.jp2": 0.132894, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0006.jp2": -0.628013, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0007.jp2": -0.486637, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0008.jp2": -0.111886, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0009.jp2": -1.039544, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0010.jp2": -0.998601, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0011.jp2": -0.350881, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0012.jp2": -1.272755, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0013.jp2": 0.731638, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0014.jp2": 0.295519, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0015.jp2": -0.413067, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0016.jp2": 0.04888, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0017.jp2": -0.947843, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0018.jp2": -0.931621, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0019.jp2": -0.341671, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0020.jp2": 0.232884, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0021.jp2": -1.007831, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0022.jp2": 0.249585, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0023.jp2": -0.852466, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0024.jp2": 0.59233, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0025.jp2": -1.458806, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0026.jp2": 0.333551, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0027.jp2": -0.086752, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0028.jp2": -0.103059, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0029.jp2": 0.990304, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0030.jp2": 0.68726, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0031.jp2": -1.214912, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0032.jp2": -0.167479, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0033.jp2": -0.517514, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0034.jp2": -0.489436, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0035.jp2": -0.020751, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0036.jp2": 0.757605, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0037.jp2": -1.445874, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0038.jp2": 0.795601, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0039.jp2": -1.243441, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0040.jp2": null, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0041.jp2": null, "bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738_0042.jp2": null}},"server":"ia600402.us.archive.org","uniq":364894502,"workable_servers":["ia600402.us.archive.org","ia800402.us.archive.org"]}

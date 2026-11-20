@@ -1,0 +1,29 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = The Book of Mosiah
+ | previous    = [[Book of Mormon (1830)/Words of Mormon|Words of Mormon]]
+ | next        = [[Book of Mormon (1830)/Alma|Alma]]
+ | year        = 1830 
+ | notes       = <br>{{engine|The Book of Mormon|work=Book of Mormon (1830)}}
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" include="157" onlysection="TITLE" />
+
+{{AuxTOC|title=Chapters:|{{TOC begin}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 1|Chapter I]]|153}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 2|Chapter II]]|162}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 3|Chapter III]]|166}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 4|Chapter IV]]|167}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 5|Chapter V]]|168}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 6|Chapter VI]]|173}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 7|Chapter VII]]|177}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 8|Chapter VIII]]|184}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 9|Chapter IX]]|190}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 10|Chapter X]]|201}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 11|Chapter XI]]|202}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 12|Chapter XII]]|215}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Mosiah/Chapter 13|Chapter XIII]]|217}}
+{{TOC end}}}}
+
+{{dhr}}

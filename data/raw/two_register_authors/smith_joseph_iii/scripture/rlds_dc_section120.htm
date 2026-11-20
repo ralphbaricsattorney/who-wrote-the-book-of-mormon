@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SECTION 120 - Doctrine and Covenants</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script src="../../lib/soundmanager/script/soundmanager2.js"></script>
+	<script src="../../js/bar-ui.js"></script>
+	<script src="../../js/sidebar.js"></script>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css'>
+	<link rel="stylesheet" type="text/css" href="../../css/site.css">
+	<link rel="stylesheet" href="../../css/bar-ui.css" />
+	<link rel="stylesheet" href="../../css/bootstrap_5_0_0_sidebar.css">
+	<script src="../js/chapterdata.js"></script>
+	<script src="../js/navscripts.js"></script>
+	<script>document.addEventListener('copy', (event) => {copyAddBook();} );</script>
+	<style>
+html {
+    height: 100%;
+	min-height: 100%;
+    padding: 0px 0px;
+} 
+body {
+    height: 100%;
+	overflow: hidden;
+    padding: 0px 0px;
+    margin: 0px 0px;	
+}
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px; 
+	z-index: 1;
+	background-color: skyblue;
+	text-align: center;
+}
+.header-padding {
+	padding-top: 70px; 
+}
+.content {
+    position: relative;
+    height: 100%;
+    height: -webkit-calc(100% - 60px);
+    height: -moz-calc(100% - 60px);
+    height: calc(100% - 60px);
+	overflow-y: auto;
+	padding: 0px 2px 50px 3px; 
+	margin: 0px 0px 0px 0px; 	
+ }
+	</style>
+</head>
+<body onload="setupNav();">
+<header>
+	<span id="BkName"><b>DC</b></span>&nbsp;
+	<select id="selectedBook" onChange="updateBook()">
+		<option value="../../library/default.asp">Home</option>
+	</select>
+	<select id="selectedChapter" onchange="updateChapter()">
+	</select>
+	<input id="selectedVerse" type="hidden" value="1"><br>
+
+	<div class="sm2-bar-ui">
+	 <div class="bd sm2-main-controls">
+	  <div class="sm2-inline-element sm2-button-element">
+	   <div class="sm2-button-bd">
+		<a href="#play" class="sm2-inline-button sm2-icon-play-pause">Play / pause</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-inline-status">
+	   <div class="sm2-playlist">
+		<div class="sm2-playlist-target">
+		 <!-- playlist <ul> + <li> markup will be injected here -->
+		 <noscript><p>JavaScript is required.</p></noscript>
+		</div>
+	   </div>
+
+	   <div class="sm2-progress">
+		<div class="sm2-row">
+		<div class="sm2-inline-time">0:00</div>
+		 <div class="sm2-progress-bd">
+		  <div class="sm2-progress-track">
+		   <div class="sm2-progress-bar"></div>
+		   <div class="sm2-progress-ball"><div class="icon-overlay"></div></div>
+		  </div>
+		 </div>
+		 <div class="sm2-inline-duration">0:00</div>
+		</div>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-volume">
+	   <div class="sm2-button-bd">
+		<span class="sm2-inline-button sm2-volume-control volume-shade"></span>
+		<a href="#volume" class="sm2-inline-button sm2-volume-control">volume</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-menu">
+	   <div class="sm2-button-bd">
+		<a href="#menu" class="sm2-inline-button sm2-icon-menu">menu</a>
+	   </div>
+	  </div>
+	 </div>
+	 <div class="bd sm2-playlist-drawer sm2-element">
+	  <!-- playlist content is mirrored here -->
+	  <div class="sm2-playlist-wrapper">
+		<ul id="listAudioLinks" class="sm2-playlist-bd">
+		</ul>
+	  </div>
+	 </div>
+	</div>
+</header>
+<div class="header-padding"></div>
+<div class="content">
+<br>
+<h2 class="Book text-center" data-abbr="D&C">Doctrine and Covenants</h2><h3 class="text-center">Section 120</h3>
+<p class="Pcope red">April 8, 1890-Lamoni, Iowa. Revelation through Joseph Smith III addressed to the First Presidency and the Quorum of Twelve regarding differences of opinion concerning an "Epistle" issued by the Twelve, which discussed the duties of branch and district presidents. The General Conference also sought divine guidance on questions regarding the call and ordination of high priests.</p>
+<p class="Pcope red">The organization of branches and districts-Roles of traveling and standing ministry-Ordination of high priests-Vacancies to be filled in the high council and the First Quorum of Seventy</p>
+<p class="Pcope red">Unto my servants, the First Presidency and the traveling High Council of my Church, thus saith the Spirit:</p>
+<a name="v1a"><p class="Verse">D&C 120:1a The epistle is to be left without approval or disapproval by the conference, as the judgment of the Quorum of the Twelve, until further experience shall have tested the matters therein stated.</p></a>
+<a name="v1b"><p class="Verse">D&C 120:1b In the meantime, branches and their officers and districts and their officers are to be considered as provided for by my law to carry on the work of the ministry in caring for the membership of the church and to relieve the Twelve and Seventy from the vexation and anxiety of looking after local organizations when effected.</p></a>
+<a name="v1c"><p class="Verse">D&C 120:1c When branches and districts are organized, they should be so organized by direction of the conferences, or by the personal presence and direction of the Twelve, or some member of that quorum who may be in charge, if practicable;</p></a>
+<a name="v1d"><p class="Verse">D&C 120:1d or, if a branch, by the president of the district with the consent, knowledge, and direction of the missionary in charge, when circumstances prevent the missionary in charge being present.</p></a>
+<a name="v2a"><p class="Verse">D&C 120:2a A branch may be presided over by a high priest, an elder, priest, teacher, or deacon chosen and sustained by the vote of the branch.</p></a>
+<a name="v2b"><p class="Verse">D&C 120:2b Districts may be presided over by a high priest or an elder, who shall be received and sustained in his office by the vote of the district.</p></a>
+<a name="v2c"><p class="Verse">D&C 120:2c If a branch or district be large, he who is chosen to preside should be a high priest, if there be one possessed of the spirit of wisdom to administer in the office of president;</p></a>
+<a name="v2d"><p class="Verse">D&C 120:2d or if an elder be chosen who may by experience be found qualified to preside, as soon as practicable thereafter he should be ordained a high priest by the spirit of wisdom and revelation in the one ordaining and by direction of a high council or General Conference, as required in the law.</p></a>
+<a name="v3a"><p class="Verse">D&C 120:3a There should be no conflict or jealousy of authority between the quorums of the church; all are necessary and equally honorable, each in its place.</p></a>
+<a name="v3b"><p class="Verse">D&C 120:3b The Twelve and Seventy are traveling ministers and preachers of the gospel, to persuade men to obey the truth;</p></a>
+<a name="v3c"><p class="Verse">D&C 120:3c the high priests and elders, holding the same priesthood, are the standing ministers of the church, having the watchcare of the membership and nurturing and sustaining them, under the direction and instruction of the Presidency and the Twelve.</p></a>
+<a name="v3d"><p class="Verse">D&C 120:3d The Seventy, when traveling by the voice of the church or sent by the Twelve to minister the word where the Twelve cannot go, are in the powers of their ministration apostles-those sent-and in meetings where no organization exists should preside if no member of the Twelve or Presidency be present.</p></a>
+<a name="v4a"><p class="Verse">D&C 120:4a In both branches and districts the presiding officers should be considered and respected in their offices;</p></a>
+<a name="v4b"><p class="Verse">D&C 120:4b nevertheless, the traveling presiding councils of the church being made by the law, their calling, and the voice of the church the directing, regulating, and advising authorities of the church, and representing it abroad-should, when present in either district or branch, be regarded and considered as the leading representative authorities of the church and be respected as such, their counsel and advice be sought and respected when given;</p></a>
+<a name="v4c"><p class="Verse">D&C 120:4c and in cases of conflict or extremity, their decision should be listened to and regarded, subject to the appeal and adjudication provided for in the law.</p></a>
+<a name="v5"><p class="Verse">D&C 120:5 He that heareth him that is sent, heareth the Lord who sent him-if he be called of God and be sent by the voice of the church.</p></a>
+<a name="v6"><p class="Verse">D&C 120:6 In these matters there is no conflict in the law.</p></a>
+<a name="v7a"><p class="Verse">D&C 120:7a In matters of personal importance and conduct arising in branches or districts, the authorities of those branches and districts should be authorized and permitted to settle them-</p></a>
+<a name="v7b"><p class="Verse">D&C 120:7b the traveling councils taking cognizance of those only in which the law and usages of the church are involved and the general interests of the church are concerned.</p></a>
+<a name="v7c"><p class="Verse">D&C 120:7c Where cases of difficulty are of long standing, the council may require local authorities to adjust them; and in case of failure to do so, may regulate them as required by their office and duty-and this that the work and church may not be put to shame and the preaching of the word be hindered.</p></a>
+<a name="v8"><p class="Verse">D&C 120:8 That the traveling council of the Twelve may be better prepared to act as a quorum, my servant A. H. Smith may be chosen president of the Twelve and any one of the council be chosen to act as its secretary until the quorum be filled or other instruction be given.</p></a>
+<a name="v9a"><p class="Verse">D&C 120:9a Those who were presented by the high priests for ordination to their number, if approved by the council of the high priests now present and the conference, may be ordained;</p></a>
+<a name="v9b"><p class="Verse">D&C 120:9b and from their number there may be selected by a committee of conference-composed of one of the First Presidency, the president of the Twelve, and one other to be chosen by the Council of Twelve, the president of the high priests, and one other to be chosen by that council of their number-</p></a>
+<a name="v9c"><p class="Verse">D&C 120:9c a sufficient number to fill the vacancies now existing in the high council, that the high council may be properly organized and prepared to hear matters of grave importance when presented to them.</p></a>
+<a name="v9d"><p class="Verse">D&C 120:9d And this committee shall make these selections according to the spirit of wisdom and revelation that shall be given unto them, to provide that such council may be convened at any General Conference when emergency may demand, by reason of their residing at or near to places where conferences may be held.</p></a>
+<a name="v10a"><p class="Verse">D&C 120:10a The presidents of Seventy are instructed to select from the several quorums of elders such as are qualified and in a condition to take upon them the office of Seventy, that they may be ordained unto the filling of the first quorum of Seventy.</p></a>
+<a name="v10b"><p class="Verse">D&C 120:10b In making these selections, the presidents of Seventy should confer with the several quorums before so selecting and be guided by wisdom and the spirit of revelation, choosing none but men of good repute.</p></a>
+</div>
+</body>
+</html>

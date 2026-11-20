@@ -1,0 +1,267 @@
+{"alternate_locations":{"servers":[{"server":"dn720207.ca.archive.org","dir":"/0/items/bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797"}],"workable":[{"server":"dn720207.ca.archive.org","dir":"/0/items/bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797"}]},"created":1794778195,"d1":"ia600502.us.archive.org","d2":"ia800502.us.archive.org","dir":"/2/items/bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1783433237","size":"17473","md5":"03a58e14e37ec0c55330adfc0b050c85","crc32":"29edf1d2","sha1":"38736407d8730c0047c0fc4afe7e90494efa8710","format":"Item Tile","rotation":"0"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_page_numbers.json","mtime":"1696879224","size":"38822921","md5":"7f0db3c38cb99d64a7b6c0b3f1c4d8fa","crc32":"415fc23a","sha1":"076244acf7f424dd056975bbfa0342f0389f5af4"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_archive.torrent","source":"metadata","btih":"bf34bf40e743a3c7586e05445905040eee8ec588","mtime":"1783433240","size":"18142","md5":"7c61100f210acb7d213e7959247b15e6","crc32":"9de6fa6a","sha1":"5ce5852bf52010055996125f31c067aeec5618a9","format":"Archive BitTorrent"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.7549","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_jp2.zip","mtime":"1696878463","size":"938495","md5":"dfa922a88a60c9bde0471c02020da2e0","crc32":"4f6e653c","sha1":"06903c8eeddcdbcc8de0f991455a88f08c82fe36"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_djvu.txt","source":"derivative","format":"DjVuTXT","original":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_djvu.xml","mtime":"1696878555","size":"58361","md5":"688524973fc49f5ee91e42def0ed69af","crc32":"868a7115","sha1":"71be9ebe9f6f74eeb356b34b362ea02b7c2a264d"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_djvu.xml","source":"derivative","format":"Djvu XML","original":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_hocr.html","mtime":"1696878505","size":"961782","md5":"4d760781737a375aea34f85b3f2ba339","crc32":"f61e81ae","sha1":"5e1beb8d4914c7d6ed351772e81d6dbdfd6d4e72"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_files.xml","source":"original","format":"Metadata","md5":"19bc914cc1d29c663eaec14582791915","summation":"md5"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_frame-md.json","source":"original","mtime":"1696132746","size":"228","md5":"97b0ceaa13d0915f6f354264f59cb979","crc32":"250855b8","sha1":"64735f9fbf3f24daf0029d817fc2ec6b2a375460","format":"JSON"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.7549","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_chocr.html.gz","mtime":"1696878491","size":"1974188","md5":"28f882612330e8af7fa159c17090b4cc","crc32":"5568529b","sha1":"e363135263347547831907bd1b5e72dc2a298312"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_hocr.html","mtime":"1696878515","size":"438","md5":"e640c4782277a269d9fe0129a6950936","crc32":"585fb341","sha1":"2bb5385d5942c3d4133f514dfcb6b80ff4878e62"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"418","word_conf_11_20":"290","word_conf_21_30":"416","word_conf_31_40":"527","word_conf_41_50":"567","word_conf_51_60":"546","word_conf_61_70":"576","word_conf_71_80":"719","word_conf_81_90":"1370","word_conf_91_100":"5923","format":"OCR Search Text","original":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_hocr.html","mtime":"1696878540","size":"25350","md5":"42af414028637789b673476f7a45d66a","crc32":"2a823d5c","sha1":"4bf6719a30de189836722fe333ae9c4291d611b1"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_itemimage.png","source":"original","mtime":"1696132744","size":"5634488","md5":"cf20afa454773f168d94d7d6d28a9e5e","crc32":"fe5c179d","sha1":"ad6b0ca68e43a452572485c0c923afab916e607d","format":"Item Image"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_jp2.zip","source":"original","mtime":"1696132731","size":"193630968","md5":"8af53eb21f9b377f307ad966a31286aa","crc32":"75660383","sha1":"fd17466c13ca31b9ec7593307d39d6284a5e1cbf","preview-image":"n0","format":"Single Page Processed JP2 ZIP","filecount":"37"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_meta.sqlite","source":"original","mtime":"1696132769","size":"77824","md5":"0107a8fd839541b1ec49902c4606ef82","crc32":"eab1242e","sha1":"d1d28250db80582a4ed0ba275820cd7b11d80456","format":"Metadata"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_meta.xml","source":"original","mtime":"1783433235","size":"3548","md5":"603da4c5f60e2a0a266e01bf4d69b431","crc32":"ce456cf2","sha1":"4fef958dbd81875c2d011c6a938b2bf61a78fb51","format":"Metadata"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"13","format":"Page Numbers JSON","original":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_hocr.html","mtime":"1696878644","size":"6436","md5":"8eb0abfa3f6670fcde09688cd9594c65","crc32":"c9bf62e1","sha1":"830ba8103c29e4d1dac8c52588e2cfddf16daa8e"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_rotations.json","source":"original","mtime":"1696132742","size":"3417","md5":"d133ea0eb4842b36952ac5b56ee2e169","crc32":"9c7483db","sha1":"44f29471f7416f5443d3024120b07511388e29d5","format":"JSON"},{"name":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_scandata.xml","source":"derivative","format":"Scandata","original":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_djvu.xml","mtime":"1696878644","size":"12245","md5":"4fb110f4e8f18a66b43d934a6b0daf65","crc32":"91d6827f","sha1":"6a5eaa976fbfcbf95665e144c47c8c78fadcc319"},{"name":"header\/header_0000.jp2","source":"original","mtime":"1696132754","size":"1093641","md5":"ff92c1332c5eb75fc420b5c66ec6dd6a","crc32":"7e71c9d9","sha1":"1b91b663284cb69ee95ac19738005e78977a8709","format":"JPEG 2000"},{"name":"header\/header_0001.jp2","source":"original","mtime":"1696132756","size":"5466879","md5":"2cd09ab6a9afd730e54d2e43549c2727","crc32":"785dff14","sha1":"502ebbb425f16c52cb065fcec5fd736d09e14039","format":"JPEG 2000"},{"name":"header\/header_0002.jp2","source":"original","mtime":"1696132751","size":"5598732","md5":"fd571f607e79ba233e030819f8d0e80d","crc32":"1d330970","sha1":"37a134ec1cb1f23c3261ff07d6c5213e4c809ff6","format":"JPEG 2000"},{"name":"header\/header_0003.jp2","source":"original","mtime":"1696132761","size":"5658237","md5":"aeedb1e0d706ab03dc235b5fcf61c042","crc32":"6eb1766d","sha1":"c722ce14395d3adcd1b5d2c7759973b77aeffe9e","format":"JPEG 2000"},{"name":"header\/header_0004.jp2","source":"original","mtime":"1696132753","size":"5664262","md5":"29c49fbdab1154f9a0e71fce006548fd","crc32":"82917950","sha1":"4f71d23a549a10154b853a5286f7c3690f73a056","format":"JPEG 2000"},{"name":"header\/header_0005.jp2","source":"original","mtime":"1696132759","size":"5652240","md5":"88c1bd82a3076f5c10de38bfd7273c9c","crc32":"33266d84","sha1":"49a92fdcd1e8f1124b492a2569537d3d3994cbda","format":"JPEG 2000"},{"name":"header\/header_0006.jp2","source":"original","mtime":"1696132748","size":"6128606","md5":"eb00ba9bdde14660bfde5aa2c822a1ee","crc32":"efeb646f","sha1":"dc115fdf0cc4bb96193f9a64b942700a60a4199d","format":"JPEG 2000"},{"name":"header\/header_0007.jp2","source":"original","mtime":"1696132750","size":"5521641","md5":"f50d68cf897c8aedecada12844053495","crc32":"9244c18b","sha1":"4e13679b620181ee6c5a606b14d9d91e023f4bd9","format":"JPEG 2000"},{"name":"header\/header_0008.jp2","source":"original","mtime":"1696132763","size":"5906639","md5":"9cdc5937a1a0db7ae95a0f6a11d30ca9","crc32":"decbfea1","sha1":"cf47e156b5ec48694982d4193c4c94072d5de3d3","format":"JPEG 2000"},{"name":"header\/header_0009.jp2","source":"original","mtime":"1696132758","size":"5343640","md5":"23136b0052e27cc0471ab2e901200c4f","crc32":"d1c31b27","sha1":"614392dac7801492fc4467e9ecac9cf68355dc23","format":"JPEG 2000"}],"files_count":28,"frame-md":{"header": {"right_to_left": null, "frame_start": 1, "frame_end": 10}, "issue": {"right_to_left": null, "frame_start": 1209, "frame_cover": 1209, "frame_end": 1227, "cover_reverse_handedness": false, "split_start_frame": false}},"item_last_updated":1783433241,"item_size":294220821,"metadata":{"identifier":"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797","adaptive_ocr":"true","auditor":"associate-jonathan-balignot@archive.org","betterpdf":"true","boxid":"IA40316204","canister":"IA40316204-09","collection":["pub_eighteenth-century","bim_microfilm","microfilm"],"collection-catalog-number":"N010063","contrast_max":"148","contrast_min":"11","contributor":"Internet Archive","copies":"2","creator":"O'Connor, Roger","date":"1797","derive_version":"0.0.22","description":"O'Connor's letters to Earl Camden. As published in the Courier of Monday, January 29. 1797..<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40316204-09/page/n606\" rel=\"ugc nofollow\">IA40316204-09</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_observations-on-the-case_1777\" rel=\"ugc nofollow\">bim_eighteenth-century_observations-on-the-case_1777</a>.<br />Next issue: <a href=\"https://archive.org/details/bim_eighteenth-century_a-letter-to-the-right-h_officer_1757\" rel=\"ugc nofollow\">bim_eighteenth-century_a-letter-to-the-right-h_officer_1757</a>.","language":"English","mediatype":"texts","metadata_operator":"associate-jerald-capanay@archive.org","next_item":"bim_eighteenth-century_a-letter-to-the-right-h_officer_1757","ppi":"800","previous_item":"bim_eighteenth-century_observations-on-the-case_1777","pub_type":"Books","scanner":"microfilm03.cebu.archive.org","scanningcenter":"cebu","sim_pubid":"24073","software_version":"nextStar 4.5.0.20626","source":["IA40316204-09","microfilm"],"subject":["Language & Literature","Literary And Political Reviews","General Interest Periodicals--United Kingdom","Law","Philosophy & Religion","Fine & Performing Arts","Social Sciences","History","History--History of North And South America","Books","microfilm"],"title":"O'Connor's letters to Earl Camden. As published in the Courier of Monday, January 29.  1797","uploader":"merlijn+microfilmderiver@archive.org","publicdate":"2023-10-01 03:59:01","addeddate":"2023-10-01 03:59:01","identifier-access":"http://archive.org/details/bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797","identifier-ark":"ark:/13960/s2cqzff0xs7","imagecount":"37","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"-l enm+Fraktur","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.7549","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"13","page_number_module_version":"1.0.3","pdf_module_version":"0.0.23"},"page_numbers":{
+    "identifier": "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 13,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": 66,
+            "pageNumber": "2",
+            "pageProb": 56,
+            "wordConf": 32
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "3",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": 65,
+            "pageNumber": "4",
+            "pageProb": 55,
+            "wordConf": 84
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 19,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 20,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 21,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 22,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 23,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 24,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 25,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 26,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 27,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 28,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 29,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 30,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 31,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 32,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 33,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 34,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 35,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 36,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"rotations":{"issue": {"mean": 0.22711765714285714, "std": 0.5157711349327027, "lh_mean": 0.41285764705882355, "lh_std": 0.44538417928622437, "rh_mean": 0.05169655555555555, "rh_std": 0.5162934193714336}, "pages": {"bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0000.jp2": -0.500779, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0001.jp2": null, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0002.jp2": 0.258929, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0003.jp2": -0.009718, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0004.jp2": 0.954254, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0005.jp2": 0.181685, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0006.jp2": 0.659592, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0007.jp2": 1.177355, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0008.jp2": -0.591218, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0009.jp2": 0.52816, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0010.jp2": -0.031033, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0011.jp2": -0.275382, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0012.jp2": -0.2192, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0013.jp2": 0.265462, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0014.jp2": 0.063156, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0015.jp2": 0.07566, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0016.jp2": 0.029985, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0017.jp2": 0.704031, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0018.jp2": -0.162683, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0019.jp2": 0.708887, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0020.jp2": -0.926081, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0021.jp2": 1.090656, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0022.jp2": -0.017504, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0023.jp2": 0.618289, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0024.jp2": 0.142189, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0025.jp2": 0.171434, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0026.jp2": -0.734254, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0027.jp2": 1.087805, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0028.jp2": 0.134039, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0029.jp2": -0.160044, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0030.jp2": 0.479955, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0031.jp2": 0.179899, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0032.jp2": 0.94, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0033.jp2": 0.756471, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0034.jp2": 0.451191, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0035.jp2": -0.08207, "bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797_0036.jp2": null}},"server":"ia600502.us.archive.org","uniq":1400488760,"workable_servers":["ia600502.us.archive.org","ia800502.us.archive.org"]}

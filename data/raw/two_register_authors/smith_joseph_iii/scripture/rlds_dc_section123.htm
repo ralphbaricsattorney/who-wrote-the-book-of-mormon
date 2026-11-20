@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SECTION 123 - Doctrine and Covenants</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script src="../../lib/soundmanager/script/soundmanager2.js"></script>
+	<script src="../../js/bar-ui.js"></script>
+	<script src="../../js/sidebar.js"></script>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css'>
+	<link rel="stylesheet" type="text/css" href="../../css/site.css">
+	<link rel="stylesheet" href="../../css/bar-ui.css" />
+	<link rel="stylesheet" href="../../css/bootstrap_5_0_0_sidebar.css">
+	<script src="../js/chapterdata.js"></script>
+	<script src="../js/navscripts.js"></script>
+	<script>document.addEventListener('copy', (event) => {copyAddBook();} );</script>
+	<style>
+html {
+    height: 100%;
+	min-height: 100%;
+    padding: 0px 0px;
+} 
+body {
+    height: 100%;
+	overflow: hidden;
+    padding: 0px 0px;
+    margin: 0px 0px;	
+}
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px; 
+	z-index: 1;
+	background-color: skyblue;
+	text-align: center;
+}
+.header-padding {
+	padding-top: 70px; 
+}
+.content {
+    position: relative;
+    height: 100%;
+    height: -webkit-calc(100% - 60px);
+    height: -moz-calc(100% - 60px);
+    height: calc(100% - 60px);
+	overflow-y: auto;
+	padding: 0px 2px 50px 3px; 
+	margin: 0px 0px 0px 0px; 	
+ }
+	</style>
+</head>
+<body onload="setupNav();">
+<header>
+	<span id="BkName"><b>DC</b></span>&nbsp;
+	<select id="selectedBook" onChange="updateBook()">
+		<option value="../../library/default.asp">Home</option>
+	</select>
+	<select id="selectedChapter" onchange="updateChapter()">
+	</select>
+	<input id="selectedVerse" type="hidden" value="1"><br>
+
+	<div class="sm2-bar-ui">
+	 <div class="bd sm2-main-controls">
+	  <div class="sm2-inline-element sm2-button-element">
+	   <div class="sm2-button-bd">
+		<a href="#play" class="sm2-inline-button sm2-icon-play-pause">Play / pause</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-inline-status">
+	   <div class="sm2-playlist">
+		<div class="sm2-playlist-target">
+		 <!-- playlist <ul> + <li> markup will be injected here -->
+		 <noscript><p>JavaScript is required.</p></noscript>
+		</div>
+	   </div>
+
+	   <div class="sm2-progress">
+		<div class="sm2-row">
+		<div class="sm2-inline-time">0:00</div>
+		 <div class="sm2-progress-bd">
+		  <div class="sm2-progress-track">
+		   <div class="sm2-progress-bar"></div>
+		   <div class="sm2-progress-ball"><div class="icon-overlay"></div></div>
+		  </div>
+		 </div>
+		 <div class="sm2-inline-duration">0:00</div>
+		</div>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-volume">
+	   <div class="sm2-button-bd">
+		<span class="sm2-inline-button sm2-volume-control volume-shade"></span>
+		<a href="#volume" class="sm2-inline-button sm2-volume-control">volume</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-menu">
+	   <div class="sm2-button-bd">
+		<a href="#menu" class="sm2-inline-button sm2-icon-menu">menu</a>
+	   </div>
+	  </div>
+	 </div>
+	 <div class="bd sm2-playlist-drawer sm2-element">
+	  <!-- playlist content is mirrored here -->
+	  <div class="sm2-playlist-wrapper">
+		<ul id="listAudioLinks" class="sm2-playlist-bd">
+		</ul>
+	  </div>
+	 </div>
+	</div>
+</header>
+<div class="header-padding"></div>
+<div class="content">
+<br>
+<h2 class="Book text-center" data-abbr="D&C">Doctrine and Covenants</h2><h3 class="text-center">Section 123</h3>
+<p class="Pcope red">April 20, 1894-Independence, Missouri. A joint council of the First Presidency, Quorum of Twelve, and Presiding Bishopric met as a result of the instruction given in Section 122:13. This section is not a revelation but contains the minutes of the council, which were included in the Doctrine and Covenants by direction of the General Conference.</p>
+<p class="Pcope red">Resolutions on a variety of subjects</p>
+<p class="Pcope red">JOINT COUNCIL</p>
+<a name="v1a"><p class="Verse">D&C 123:1a In compliance with the requirement of paragraph thirteen of the revelation received during conference and by agreement between the quorums affected, the First Presidency, the Twelve, and the Bishopric met in joint council in the editor's room of the Herald Office at nine a.m., Friday, April 20, 1894.</p></a>
+<a name="v1b"><p class="Verse">D&C 123:1b There were present: Joseph Smith and W. W. Blair of the First Presidency; Alexander H. Smith, E. C. Briggs, James Caffall, W. H. Kelley, J. H. Lake, J. R. Lambert, Heman C. Smith, Joseph Luff, and Gomer T. Griffiths of the Twelve; E. L. Kelly, G. H. Hilliard, and E. A. Blakeslee of the Bishopric.</p></a>
+<a name="v2a"><p class="Verse">D&C 123:2a President Joseph Smith was chosen to preside, and E. A. Blakeslee to act as secretary.</p></a>
+<a name="v2b"><p class="Verse">D&C 123:2b A. H. Smith offered prayer, after which the President made a few remarks bearing upon the object of the council and advising forbearance and toleration in speech and feeling, regardless of the distance between those present in their judgment upon the matters under discussion.</p></a>
+<a name="v3"><p class="Verse">D&C 123:3 A number of questions were named and noted for discussion, and considerable informal talk was indulged in, after which resolutions were presented, discussed, and adopted in the following order-all decisions being finally made unanimous, with the sole exception noted:</p></a>
+<p class="Pcope red">LAMONI COLLEGE</p>
+<a name="v4"><p class="Verse">D&C 123:4 Resolved that we look with favor upon the effort to build a college at Lamoni, to be controlled by the church.</p></a>
+<a name="v5"><p class="Verse">D&C 123:5 Resolved, further, that we believe it should be a purely educational institution and free from sectarian influences or bias.</p></a>
+<a name="v6"><p class="Verse">D&C 123:6 Resolved, further, that we give our hearty support to the present movement looking in the above direction.</p></a>
+<p class="Pcope red">CHURCH HISTORY</p>
+<a name="v7"><p class="Verse">D&C 123:7 Resolved that it is the opinion of this council that there is nothing in the resolution of April, 1893, on church history that should in any way interfere with the preparation and publication of an authentic church history by the church.</p></a>
+<a name="v8"><p class="Verse">D&C 123:8 Resolved, further, that it is the opinion of this council that church history, both ancient and modern, may be freely used as a means of information, for what the same may be worth.</p></a>
+<p class="Pcope red">DISCUSSIONS IN HERALD</p>
+<a name="v9"><p class="Verse">D&C 123:9 Whereas there seems to be a demand for a publication that may be a medium for more progressive and controversial articles for the good of the body than can be supplied by the Herald, therefore be it,</p></a>
+<a name="v10"><p class="Verse">D&C 123:10 Resolved that the board of publication be requested to provide for such want as soon as practicable and without injury or interference with the circulation of the Herald.</p></a>
+<p class="Pcope red">UTAH CHURCH</p>
+<a name="v11a"><p class="Verse">D&C 123:11a The present attitude of the Utah Church was discussed, and the council informally expressed itself as of the opinion that the ministry should boldly stand as aggressors or defensors everywhere where the questions at issue between the two churches were introduced.</p></a>
+<a name="v11b"><p class="Verse">D&C 123:11b The Presidency received unmistakable assurance of support in their efforts to direct such controversy as might be invited by contingencies arising.</p></a>
+<p class="Pcope red">LOCATING IN REGIONS ROUND ABOUT</p>
+<a name="v12"><p class="Verse">D&C 123:12 Resolved that all parties wishing to change their location be recommended to correspond with the Bishopric for information.</p></a>
+<p class="Pcope red">PRESIDING COUNCILS</p>
+<a name="v13a"><p class="Verse">D&C 123:13a Resolved that it is the opinion of this joint council, that the words "presiding councils" in the fourth and seventh paragraphs of Section 120 of the Book of Doctrine and Covenants refer to the traveling ministry-the Twelve and Seventy.</p></a>
+<a name="v13b"><p class="Verse">D&C 123:13b From this decision President W. W. Blair dissented.</p></a>
+<p class="Pcope red">DOCTRINAL TRACTS</p>
+<a name="v14a"><p class="Verse">D&C 123:14a Resolved that the members of the Quorum of Twelve and the Presidency be requested to write tracts on such gospel topics as each may select, all of which shall be placed in the hands of the Presidency for examination,</p></a>
+<a name="v14b"><p class="Verse">D&C 123:14b said tracts, when approved, to be placed in the hands of the board of publication to be issued as soon as possible.</p></a>
+<p class="Pcope red">DIRECTING LABOR OF HIGH PRIESTS</p>
+<a name="v15"><p class="Verse">D&C 123:15 Resolved that it is the opinion of this council that high priests, when needed for missionary service abroad, may be appointed by the First Presidency, or the Twelve, or both jointly, and should labor after such appointment under the direction of the Twelve, the same as Seventies.</p></a>
+<a name="v16"><p class="Verse">D&C 123:16 Resolved, further, that when high priests are acting in their own standing as local presidents, they are subject to the direction and counsel of members of both the First Presidency and the Twelve, whose duty it is to regulate.</p></a>
+<a name="v17"><p class="Verse">D&C 123:17 Resolved, further, that when a necessity occurs for changing men or placing new men in the field between conferences to meet special exigencies, those making the appointment should notify the ministers in charge of the fields affected, if practicable, so as to avoid irregularity or possible conflict.</p></a>
+<p class="Pcope red">GOSPEL BOAT</p>
+<a name="v18"><p class="Verse">D&C 123:18 Resolved as the opinion of this joint council, that Brother E. L. Kelley should proceed to San Francisco at the earliest possible time and secure the proposed boat for the Society Islands.</p></a>
+<p class="Pcope red">DETROIT BRANCH</p>
+<a name="v19"><p class="Verse">D&C 123:19 Resolved that we advise that the colored members in Detroit, Michigan, be organized in a separate branch as soon as practicable.</p></a>
+<p class="Pcope red">BISHOP'S COUNCIL</p>
+<a name="v20"><p class="Verse">D&C 123:20 After some deliberation the consensus of opinion of the council was secured to the effect that the words "the Bishop and his council," found in paragraph 6 of the revelation of 1894, mean the Bishop and his two counselors; and a vote obtained in support of such understanding.</p></a>
+<p class="Pcope red">PRESIDENTS OF HIGH COUNCIL</p>
+<a name="v21a"><p class="Verse">D&C 123:21a The following was adopted by regular vote:</p></a>
+<a name="v21b"><p class="Verse">D&C 123:21b It is our opinion that the counselors referred to in paragraph 6, Section 99, are the counselors of the President in the Presidency of the church; but whether or not under certain circumstances the President would not be privileged to call others to assist him is a query.</p></a>
+<p class="Pcope red">COUNSEL TO BE HONORED</p>
+<a name="v22a"><p class="Verse">D&C 123:22a Resolved that it is the opinion of this council that the statements found in paragraphs 1, 2, and 3 of the revelation of 1894 should be understood in the same sense as paragraph 3 of the revelation of 1882 and paragraph 4 of the revelation of 1890,</p></a>
+<a name="v22b"><p class="Verse">D&C 123:22b and that it is the duty of the Saints to honor more fully the counsel and advice of the First Presidency, the Twelve, and the Seventy in spiritual things.</p></a>
+<p class="Pcope red">PRESIDENCY OF THE TWELVE AND MEANING OF THE WORD "ABROAD"</p>
+<a name="v23a"><p class="Verse">D&C 123:23a The following opinion of the First Presidency, as communicated to the Quorum of the Twelve in 1890, was adopted as the opinion of this joint council:</p></a>
+<a name="v23b"><p class="Verse">D&C 123:23b As a traveling, presiding council, your quorum has the active supervision and presidency, under the First Presidency, over the entire field of ministerial labor and control over districts, branches, and the ministry as a whole and as church organizations, and not as local presiding officers in these several organizations-</p></a>
+<a name="v23c"><p class="Verse">D&C 123:23c holding special local presidency where no organization has been perfected-in a similar way as the First Presidency presides over the whole church, differing in this: that the First Presidency is necessarily local, while your province is not localized;</p></a>
+<a name="v23d"><p class="Verse">D&C 123:23d nor do we mean by this that the word "abroad" is to be construed to mean foreign lands, but in the field of itinerant gospel labor everywhere, as contradistinguished from branch, district, or other local organizations.</p></a>
+<p class="Pcope red">REVELATION OF 1861</p>
+<a name="v24a"><p class="Verse">D&C 123:24a Resolved that paragraph 5 of the revelation of April 15, 1894, relating to the duty of the Twelve under the authority of the revelation of 1861 (Doctrine and Covenants, Section 114), teaches that said revelation is still in force;</p></a>
+<a name="v24b"><p class="Verse">D&C 123:24b but that whatever duty the Twelve might have felt rested upon them in "looking after the disbursements of the moneys in the treasury or the management of the properties of the church," more than what is set forth in the agreement between the Twelve and the Bishopric, as effected in April, 1878, and reaffirmed in April, 1888, or indicated in the revelation of April, 1894, they are now absolved from, the end designed by it having been reached.</p></a>
+<p class="Pcope red">REQUEST FOR ARTICLES FOR PUBLICATION</p>
+<a name="v25"><p class="Verse">D&C 123:25 The Herald editors were, by vote, advised to call for articles from any who might be disposed to write upon leading gospel topics, said articles to be subjected to the inspection of the committee as heretofore named and to be accepted or rejected at its discretion.</p></a>
+<a name="v26"><p class="Verse">D&C 123:26 It was then ordered that the president and secretary of the council prepare the minutes of proceedings for publication in the Herald.</p></a>
+<a name="v27"><p class="Verse">D&C 123:27 The special business of the council having ended, Brother James Caffall expressed a desire that the usual custom of setting foreign missionaries apart by laying on of hands and blessing be observed in his behalf, as he had been appointed to labor in Europe.</p></a>
+<a name="v28a"><p class="Verse">D&C 123:28a The council then knelt and was led in prayer by President Joseph Smith, who earnestly invoked the divine blessing upon Brother Caffall and his labors, after which Brethren Joseph Smith, W. W. Blair, A. H. Smith, and E. L. Kelley laid their hands upon him and set him apart, President W. W. Blair being mouth in supplication.</p></a>
+<a name="v28b"><p class="Verse">D&C 123:28b The Spirit of the Master fell upon those present, and the service and season was one of joyful solemnity and peace. "Redeemer of Israel" was then sung and the benediction pronounced by President Joseph Smith.</p></a>
+<a name="v29a"><p class="Verse">D&C 123:29a Thus ended the work of the council convened in accordance with the requirement of the revelation which had been formerly accepted by the church.</p></a>
+<a name="v29b"><p class="Verse">D&C 123:29b All present were convinced that the appointment had been wisely made and that the results were and would be such as would fully attest the divinity of the call.</p></a>
+<a name="v30a"><p class="Verse">D&C 123:30a The sessions continued until the afternoon of the 25th, adjournment being had about four o'clock.</p></a>
+<a name="v30b"><p class="Verse">D&C 123:30b Brother Gomer T. Griffiths was excused and left for home on the 23rd, and Brother E. A. Blakeslee at noon on the 25th. Brother Joseph Luff was then chosen secretary for the closing session.</p></a>
+<a name="v31a"><p class="Verse">D&C 123:31a To God, whose hand has led us and whose patience has borne with our infirmities, the generous praise of his church is due.</p></a>
+<a name="v31b"><p class="Verse">D&C 123:31b May our renewed consecration, under the better conditions his mercy has brought about, bring to him added glory and to his church prosperity and peace.</p></a>
+<p class="Pcope red">Joseph Smith, President</p>
+<p class="Pcope red">Joseph Luff, Secretary</p>
+</div>
+</body>
+</html>

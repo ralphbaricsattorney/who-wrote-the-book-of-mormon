@@ -1,0 +1,4663 @@
+{"alternate_locations":{"servers":[{"server":"dn720208.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1"}],"workable":[{"server":"dn720208.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1"}]},"created":1794778464,"d1":"ia600905.us.archive.org","d2":"ia800905.us.archive.org","dir":"/7/items/bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1689854107","size":"18915","md5":"4f02d5a49e845642ac17c49eabcc0d06","crc32":"5ee966ec","sha1":"2eb08325ee372d0eae9978f214ead26124327da3","format":"Item Tile","rotation":"0"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_page_numbers.json","mtime":"1689854033","size":"633456520","md5":"57f2b33c8ad4a610199b822370e6dbf5","crc32":"154c33fa","sha1":"8ad54f565a2d823237ea08772746b9744f125397"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_archive.torrent","source":"metadata","btih":"73731bd861a505e94d1317c929dfe36995e4b7a7","mtime":"1783442727","size":"40650","md5":"e6503ed451c398755bcee329b3ca1ffb","crc32":"d180a189","sha1":"d3decc57a37b6246011a7d3537e5bba561b0b8ac","format":"Archive BitTorrent"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9883","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_jp2.zip","mtime":"1689840229","size":"26672221","md5":"30498f57608d5ff7c6d8de4c4b2ee538","crc32":"dbf8cfd1","sha1":"4b7a8d14695dd030c6875369c05ffd01582fc723"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_djvu.txt","source":"derivative","format":"DjVuTXT","original":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_djvu.xml","mtime":"1689840385","size":"1760309","md5":"0ccdbd5a70072c1762bd3317228a2512","crc32":"a000ec4e","sha1":"fdfdcac7bc8c3593d94e1920d6da3ffdfdbfb44e"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_djvu.xml","source":"derivative","format":"Djvu XML","original":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_hocr.html","mtime":"1689840322","size":"26487660","md5":"d5a6df0f1c9aa0a0affced704e272370","crc32":"1a9ca625","sha1":"f9f22f11e68bf607312bc1582eed35d595574da5"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_files.xml","source":"original","format":"Metadata","md5":"d9e1ebc35a7c0a6a671a870e9a45e2cb","summation":"md5"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_frame-md.json","source":"original","mtime":"1689773786","size":"225","md5":"0bc29d446e67ae0b2993f5cd32830f6d","crc32":"f2e6ed3b","sha1":"82a03410f8f6dc1ea7cb119eac3aee8b1c3c0beb","format":"JSON"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9883","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_chocr.html.gz","mtime":"1689840289","size":"54060157","md5":"a7b9d03ee731b76636641d108758f269","crc32":"c6040cb3","sha1":"90518f08b29351d972e113cb158a4b7e21bc3a19"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_hocr.html","mtime":"1689840348","size":"8272","md5":"60a8f35fb94cd9f795ed0cbb2c651568","crc32":"df6b2330","sha1":"8ddfcfa29c93509031a317f637d62b9088f4707e"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"8265","word_conf_11_20":"6202","word_conf_21_30":"8789","word_conf_31_40":"10960","word_conf_41_50":"12172","word_conf_51_60":"12620","word_conf_61_70":"13045","word_conf_71_80":"14179","word_conf_81_90":"26252","word_conf_91_100":"208822","format":"OCR Search Text","original":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_hocr.html","mtime":"1689840373","size":"668061","md5":"9c0b9b533398d6d797b465bcf9ed6489","crc32":"2640aa0d","sha1":"06028de5ef243eb662a7bea10c31df2eba89291c"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_itemimage.png","source":"original","mtime":"1689773790","size":"6888024","md5":"800c08e9096750537bce34dc4e2229a4","crc32":"2b85f472","sha1":"5624647367d4e1a98abd5e52d24b65b6f00b752f","format":"Item Image"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_jp2.zip","source":"original","mtime":"1689770166","size":"2777162379","md5":"54d9cdb53fb0e89e5147accb36d7dad2","crc32":"25e0a71a","sha1":"551ba68cd13612e88342500db5c05ae74b9f9e10","preview-image":"n0","format":"Single Page Processed JP2 ZIP","filecount":"665"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_meta.sqlite","source":"original","mtime":"1689774854","size":"49152","md5":"150ced11b1baf60e1b755a113aa6189e","crc32":"39a39dab","sha1":"319c1251ab017604695647c827da720e6bbd6049","format":"Metadata"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_meta.xml","source":"original","mtime":"1783442724","size":"4015","md5":"c4d9385f72d867559f29f5d0b1a67572","crc32":"7589fe30","sha1":"5c9447c4df3aa7f21580d351e0e83e8c5dab7758","format":"Metadata"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.50","hocr_pagenumber_confidence":"93","format":"Page Numbers JSON","original":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_hocr.html","mtime":"1689841035","size":"112606","md5":"fcb7a186c00283c5bd281b79a23b2180","crc32":"659b64d9","sha1":"30e251af30bd5848e0f89a099aef252c4855e944"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_rotations.json","source":"original","mtime":"1689773794","size":"62991","md5":"16e4f16e0e2d20530fc8acda61a1ea19","crc32":"2f371bc4","sha1":"d5a2b243bd80adfcc1defd8da9406826fb73a379","format":"JSON"},{"name":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_scandata.xml","source":"derivative","format":"Scandata","original":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_djvu.xml","mtime":"1689841035","size":"237167","md5":"4c75b81151292d76522a452fdc1f918b","crc32":"1a447f2f","sha1":"18a85dc7b918384eec39294378b16a69601a9fe2"},{"name":"header\/header_0000.jp2","source":"original","mtime":"1689773798","size":"954771","md5":"c9c8682e95e533c6cac68a509a00637e","crc32":"c0a64bb7","sha1":"21e9554cbe8ba48ed94c75c6296d1dd5cde91bcc","format":"JPEG 2000"},{"name":"header\/header_0001.jp2","source":"original","mtime":"1689773797","size":"2957907","md5":"5ccc407a1df495c1116326af7bfafe34","crc32":"49efc1af","sha1":"05c118c22cd47c9a61f8a5da3933e56f0b6b024a","format":"JPEG 2000"}],"files_count":20,"frame-md":{"header": {"right_to_left": null, "frame_start": 1, "frame_end": 2}, "issue": {"right_to_left": null, "frame_start": 530, "frame_cover": 530, "frame_end": 1202, "cover_reverse_handedness": false, "split_start_frame": false}},"item_last_updated":1783442728,"item_size":3531602002,"metadata":{"identifier":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1","adaptive_ocr":"true","auditor":"associate-markriel-dingcong@archive.org","betterpdf":"true","boxid":"IA40313614","canister":"IA40313614-21","collection":["pub_eighteenth-century","bim_microfilm","microfilm"],"collection-catalog-number":"t065487","contrast_max":"163","contrast_min":"19","contributor":"Internet Archive","copies":"2","creator":"Macpherson, James.","date":"1775","derive_version":"0.0.22","description":"The history of Great Britain, from the Restoration, to the accession of the house of Hanover. By James Macpherson, in two volumes. ... 1775: <a href=\"https://archive.org/search.php?query=sim_pubid%3A24073%20AND%20volume%3A1\" rel=\"ugc nofollow\">Volume 1</a>.<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40313614-21/page/n237\" rel=\"ugc nofollow\">IA40313614-21</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_essais-historiques-sur-_saint-foix-germain-fran_1770\" rel=\"ugc nofollow\">bim_eighteenth-century_essais-historiques-sur-_saint-foix-germain-fran_1770</a>.<br />Next issue: <a href=\"https://archive.org/details/bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_2\" rel=\"ugc nofollow\">bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_2</a>.","language":"English","mediatype":"texts","metadata_operator":"associate-jercyl-tradio@archive.org","next_item":"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_2","notes":"M----y W----y M----e = Mary Wortley Montagu. -With a 'preface, by a lady'","ppi":"800","previous_item":"bim_eighteenth-century_essais-historiques-sur-_saint-foix-germain-fran_1770","pub_type":"Books","scanner":"microfilm03.cebu.archive.org","scanningcenter":"cebu","sim_pubid":"24073","software_version":"nextStar 4.5.0.20626","source":["IA40313614-21","microfilm"],"subject":["Language & Literature","Literary And Political Reviews","General Interest Periodicals--United Kingdom","Law","Philosophy & Religion","Fine & Performing Arts","Social Sciences","History","History--History of North And South America","Books","microfilm"],"title":"The history of Great Britain, from the Restoration, to the accession of the house of Hanover. By James Macpherson, in two volumes. ...  1775: Vol 1","volume":"1","uploader":"merlijn+microfilmderiver@archive.org","publicdate":"2023-07-19 13:11:46","addeddate":"2023-07-19 13:11:46","identifier-access":"http://archive.org/details/bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1","identifier-ark":"ark:/13960/s2x170whvtj","imagecount":"665","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"-l enm+Fraktur","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9883","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"93","page_number_module_version":"1.0.3","pdf_module_version":"0.0.23"},"page_numbers":{
+    "identifier": "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.50",
+    "confidence": 93,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 19,
+            "confidence": 91,
+            "pageNumber": "4",
+            "pageProb": 81,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 20,
+            "confidence": 96,
+            "pageNumber": "5",
+            "pageProb": 86,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 21,
+            "confidence": 76,
+            "pageNumber": "6",
+            "pageProb": 66,
+            "wordConf": 75
+        },
+        {
+            "leafNum": 22,
+            "confidence": 100,
+            "pageNumber": "7",
+            "pageProb": 94,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 23,
+            "confidence": 100,
+            "pageNumber": "8",
+            "pageProb": 99,
+            "wordConf": 77
+        },
+        {
+            "leafNum": 24,
+            "confidence": 74,
+            "pageNumber": "9",
+            "pageProb": 64,
+            "wordConf": 47
+        },
+        {
+            "leafNum": 25,
+            "confidence": 86,
+            "pageNumber": "10",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 26,
+            "confidence": null,
+            "pageNumber": "11",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 27,
+            "confidence": null,
+            "pageNumber": "12",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 28,
+            "confidence": 100,
+            "pageNumber": "13",
+            "pageProb": 90,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 29,
+            "confidence": 90,
+            "pageNumber": "14",
+            "pageProb": 80,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 30,
+            "confidence": 84,
+            "pageNumber": "15",
+            "pageProb": 74,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 31,
+            "confidence": 88,
+            "pageNumber": "16",
+            "pageProb": 78,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 32,
+            "confidence": null,
+            "pageNumber": "17",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 33,
+            "confidence": null,
+            "pageNumber": "18",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 34,
+            "confidence": 100,
+            "pageNumber": "19",
+            "pageProb": 96,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 35,
+            "confidence": null,
+            "pageNumber": "20",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 36,
+            "confidence": null,
+            "pageNumber": "21",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 37,
+            "confidence": null,
+            "pageNumber": "22",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 38,
+            "confidence": null,
+            "pageNumber": "23",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 39,
+            "confidence": 100,
+            "pageNumber": "24",
+            "pageProb": 92,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 40,
+            "confidence": null,
+            "pageNumber": "25",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 41,
+            "confidence": 81,
+            "pageNumber": "26",
+            "pageProb": 71,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 42,
+            "confidence": null,
+            "pageNumber": "27",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 43,
+            "confidence": null,
+            "pageNumber": "28",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 44,
+            "confidence": 100,
+            "pageNumber": "29",
+            "pageProb": 91,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 45,
+            "confidence": null,
+            "pageNumber": "30",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 46,
+            "confidence": 100,
+            "pageNumber": "31",
+            "pageProb": 98,
+            "wordConf": 79
+        },
+        {
+            "leafNum": 47,
+            "confidence": 75,
+            "pageNumber": "32",
+            "pageProb": 65,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 48,
+            "confidence": 100,
+            "pageNumber": "33",
+            "pageProb": 97,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 49,
+            "confidence": null,
+            "pageNumber": "34",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 50,
+            "confidence": 100,
+            "pageNumber": "35",
+            "pageProb": 98,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 51,
+            "confidence": null,
+            "pageNumber": "36",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 52,
+            "confidence": 100,
+            "pageNumber": "37",
+            "pageProb": 93,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 53,
+            "confidence": 100,
+            "pageNumber": "38",
+            "pageProb": 98,
+            "wordConf": 74
+        },
+        {
+            "leafNum": 54,
+            "confidence": null,
+            "pageNumber": "39",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 55,
+            "confidence": 100,
+            "pageNumber": "40",
+            "pageProb": 98,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 56,
+            "confidence": null,
+            "pageNumber": "41",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 57,
+            "confidence": 82,
+            "pageNumber": "42",
+            "pageProb": 72,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 58,
+            "confidence": null,
+            "pageNumber": "43",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 59,
+            "confidence": 63,
+            "pageNumber": "44",
+            "pageProb": 53,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 60,
+            "confidence": null,
+            "pageNumber": "45",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 61,
+            "confidence": 91,
+            "pageNumber": "46",
+            "pageProb": 81,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 62,
+            "confidence": 74,
+            "pageNumber": "47",
+            "pageProb": 64,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 63,
+            "confidence": null,
+            "pageNumber": "48",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 64,
+            "confidence": null,
+            "pageNumber": "49",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 65,
+            "confidence": null,
+            "pageNumber": "50",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 66,
+            "confidence": null,
+            "pageNumber": "51",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 67,
+            "confidence": null,
+            "pageNumber": "52",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 68,
+            "confidence": null,
+            "pageNumber": "53",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 69,
+            "confidence": 100,
+            "pageNumber": "54",
+            "pageProb": 94,
+            "wordConf": 87
+        },
+        {
+            "leafNum": 70,
+            "confidence": null,
+            "pageNumber": "55",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 71,
+            "confidence": 90,
+            "pageNumber": "56",
+            "pageProb": 80,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 72,
+            "confidence": null,
+            "pageNumber": "57",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 73,
+            "confidence": null,
+            "pageNumber": "58",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 74,
+            "confidence": 100,
+            "pageNumber": "59",
+            "pageProb": 91,
+            "wordConf": 69
+        },
+        {
+            "leafNum": 75,
+            "confidence": 100,
+            "pageNumber": "60",
+            "pageProb": 92,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 76,
+            "confidence": null,
+            "pageNumber": "61",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 77,
+            "confidence": null,
+            "pageNumber": "62",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 78,
+            "confidence": 100,
+            "pageNumber": "63",
+            "pageProb": 98,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 79,
+            "confidence": 100,
+            "pageNumber": "64",
+            "pageProb": 95,
+            "wordConf": 83
+        },
+        {
+            "leafNum": 80,
+            "confidence": null,
+            "pageNumber": "65",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 81,
+            "confidence": 100,
+            "pageNumber": "66",
+            "pageProb": 92,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 82,
+            "confidence": null,
+            "pageNumber": "67",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 83,
+            "confidence": 76,
+            "pageNumber": "68",
+            "pageProb": 66,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 84,
+            "confidence": null,
+            "pageNumber": "69",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 85,
+            "confidence": 97,
+            "pageNumber": "70",
+            "pageProb": 87,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 86,
+            "confidence": 98,
+            "pageNumber": "71",
+            "pageProb": 88,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 87,
+            "confidence": null,
+            "pageNumber": "72",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 88,
+            "confidence": 100,
+            "pageNumber": "73",
+            "pageProb": 95,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 89,
+            "confidence": 68,
+            "pageNumber": "74",
+            "pageProb": 58,
+            "wordConf": 64
+        },
+        {
+            "leafNum": 90,
+            "confidence": 100,
+            "pageNumber": "75",
+            "pageProb": 92,
+            "wordConf": 73
+        },
+        {
+            "leafNum": 91,
+            "confidence": 87,
+            "pageNumber": "74",
+            "pageProb": 77,
+            "wordConf": 56
+        },
+        {
+            "leafNum": 92,
+            "confidence": 99,
+            "pageNumber": "75",
+            "pageProb": 89,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 93,
+            "confidence": 66,
+            "pageNumber": "76",
+            "pageProb": 56,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 94,
+            "confidence": 88,
+            "pageNumber": "77",
+            "pageProb": 78,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 95,
+            "confidence": 89,
+            "pageNumber": "78",
+            "pageProb": 79,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 96,
+            "confidence": 100,
+            "pageNumber": "79",
+            "pageProb": 93,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 97,
+            "confidence": null,
+            "pageNumber": "80",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 98,
+            "confidence": null,
+            "pageNumber": "81",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 99,
+            "confidence": 100,
+            "pageNumber": "82",
+            "pageProb": 95,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 100,
+            "confidence": null,
+            "pageNumber": "83",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 101,
+            "confidence": 97,
+            "pageNumber": "84",
+            "pageProb": 87,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 102,
+            "confidence": 100,
+            "pageNumber": "85",
+            "pageProb": 95,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 103,
+            "confidence": 82,
+            "pageNumber": "86",
+            "pageProb": 72,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 104,
+            "confidence": 100,
+            "pageNumber": "87",
+            "pageProb": 97,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 105,
+            "confidence": 81,
+            "pageNumber": "86",
+            "pageProb": 71,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 106,
+            "confidence": 95,
+            "pageNumber": "87",
+            "pageProb": 85,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 107,
+            "confidence": 67,
+            "pageNumber": "88",
+            "pageProb": 57,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 108,
+            "confidence": null,
+            "pageNumber": "89",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 109,
+            "confidence": null,
+            "pageNumber": "90",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 110,
+            "confidence": null,
+            "pageNumber": "91",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 111,
+            "confidence": null,
+            "pageNumber": "92",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 112,
+            "confidence": 99,
+            "pageNumber": "93",
+            "pageProb": 89,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 113,
+            "confidence": 100,
+            "pageNumber": "94",
+            "pageProb": 95,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 114,
+            "confidence": 90,
+            "pageNumber": "95",
+            "pageProb": 80,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 115,
+            "confidence": null,
+            "pageNumber": "96",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 116,
+            "confidence": 71,
+            "pageNumber": "97",
+            "pageProb": 61,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 117,
+            "confidence": null,
+            "pageNumber": "98",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 118,
+            "confidence": null,
+            "pageNumber": "99",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 119,
+            "confidence": 65,
+            "pageNumber": "100",
+            "pageProb": 55,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 120,
+            "confidence": null,
+            "pageNumber": "101",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 121,
+            "confidence": null,
+            "pageNumber": "102",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 122,
+            "confidence": 94,
+            "pageNumber": "103",
+            "pageProb": 84,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 123,
+            "confidence": 77,
+            "pageNumber": "104",
+            "pageProb": 67,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 124,
+            "confidence": null,
+            "pageNumber": "105",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 125,
+            "confidence": null,
+            "pageNumber": "106",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 126,
+            "confidence": null,
+            "pageNumber": "107",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 127,
+            "confidence": 62,
+            "pageNumber": "108",
+            "pageProb": 52,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 128,
+            "confidence": null,
+            "pageNumber": "109",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 129,
+            "confidence": null,
+            "pageNumber": "110",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 130,
+            "confidence": null,
+            "pageNumber": "111",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 131,
+            "confidence": null,
+            "pageNumber": "112",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 132,
+            "confidence": 81,
+            "pageNumber": "113",
+            "pageProb": 71,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 133,
+            "confidence": 63,
+            "pageNumber": "114",
+            "pageProb": 53,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 134,
+            "confidence": 79,
+            "pageNumber": "115",
+            "pageProb": 69,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 135,
+            "confidence": 89,
+            "pageNumber": "116",
+            "pageProb": 79,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 136,
+            "confidence": 99,
+            "pageNumber": "117",
+            "pageProb": 89,
+            "wordConf": 82
+        },
+        {
+            "leafNum": 137,
+            "confidence": 61,
+            "pageNumber": "118",
+            "pageProb": 51,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 138,
+            "confidence": 96,
+            "pageNumber": "119",
+            "pageProb": 86,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 139,
+            "confidence": null,
+            "pageNumber": "120",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 140,
+            "confidence": null,
+            "pageNumber": "121",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 141,
+            "confidence": null,
+            "pageNumber": "122",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 142,
+            "confidence": 100,
+            "pageNumber": "123",
+            "pageProb": 98,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 143,
+            "confidence": 68,
+            "pageNumber": "124",
+            "pageProb": 58,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 144,
+            "confidence": 83,
+            "pageNumber": "125",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 145,
+            "confidence": 94,
+            "pageNumber": "126",
+            "pageProb": 84,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 146,
+            "confidence": null,
+            "pageNumber": "127",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 147,
+            "confidence": null,
+            "pageNumber": "128",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 148,
+            "confidence": 94,
+            "pageNumber": "129",
+            "pageProb": 84,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 149,
+            "confidence": 93,
+            "pageNumber": "130",
+            "pageProb": 83,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 150,
+            "confidence": 87,
+            "pageNumber": "131",
+            "pageProb": 77,
+            "wordConf": 74
+        },
+        {
+            "leafNum": 151,
+            "confidence": 100,
+            "pageNumber": "132",
+            "pageProb": 98,
+            "wordConf": 87
+        },
+        {
+            "leafNum": 152,
+            "confidence": 87,
+            "pageNumber": "133",
+            "pageProb": 77,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 153,
+            "confidence": 100,
+            "pageNumber": "134",
+            "pageProb": 96,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 154,
+            "confidence": 85,
+            "pageNumber": "135",
+            "pageProb": 75,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 155,
+            "confidence": 100,
+            "pageNumber": "136",
+            "pageProb": 99,
+            "wordConf": 80
+        },
+        {
+            "leafNum": 156,
+            "confidence": 86,
+            "pageNumber": "137",
+            "pageProb": 76,
+            "wordConf": 87
+        },
+        {
+            "leafNum": 157,
+            "confidence": 80,
+            "pageNumber": "138",
+            "pageProb": 70,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 158,
+            "confidence": 70,
+            "pageNumber": "139",
+            "pageProb": 60,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 159,
+            "confidence": 83,
+            "pageNumber": "140",
+            "pageProb": 73,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 160,
+            "confidence": 100,
+            "pageNumber": "141",
+            "pageProb": 98,
+            "wordConf": 81
+        },
+        {
+            "leafNum": 161,
+            "confidence": 93,
+            "pageNumber": "142",
+            "pageProb": 83,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 162,
+            "confidence": 100,
+            "pageNumber": "143",
+            "pageProb": 98,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 163,
+            "confidence": 100,
+            "pageNumber": "144",
+            "pageProb": 99,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 164,
+            "confidence": 100,
+            "pageNumber": "145",
+            "pageProb": 95,
+            "wordConf": 66
+        },
+        {
+            "leafNum": 165,
+            "confidence": 100,
+            "pageNumber": "146",
+            "pageProb": 98,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 166,
+            "confidence": 100,
+            "pageNumber": "147",
+            "pageProb": 90,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 167,
+            "confidence": null,
+            "pageNumber": "148",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 168,
+            "confidence": null,
+            "pageNumber": "149",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 169,
+            "confidence": null,
+            "pageNumber": "150",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 170,
+            "confidence": null,
+            "pageNumber": "151",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 171,
+            "confidence": null,
+            "pageNumber": "152",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 172,
+            "confidence": null,
+            "pageNumber": "153",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 173,
+            "confidence": 100,
+            "pageNumber": "154",
+            "pageProb": 97,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 174,
+            "confidence": null,
+            "pageNumber": "155",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 175,
+            "confidence": 100,
+            "pageNumber": "156",
+            "pageProb": 99,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 176,
+            "confidence": null,
+            "pageNumber": "157",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 177,
+            "confidence": 100,
+            "pageNumber": "158",
+            "pageProb": 97,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 178,
+            "confidence": 86,
+            "pageNumber": "159",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 179,
+            "confidence": 77,
+            "pageNumber": "160",
+            "pageProb": 67,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 180,
+            "confidence": 79,
+            "pageNumber": "161",
+            "pageProb": 69,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 181,
+            "confidence": 65,
+            "pageNumber": "162",
+            "pageProb": 55,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 182,
+            "confidence": 95,
+            "pageNumber": "163",
+            "pageProb": 85,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 183,
+            "confidence": 100,
+            "pageNumber": "164",
+            "pageProb": 99,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 184,
+            "confidence": null,
+            "pageNumber": "165",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 185,
+            "confidence": null,
+            "pageNumber": "166",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 186,
+            "confidence": 100,
+            "pageNumber": "167",
+            "pageProb": 91,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 187,
+            "confidence": 73,
+            "pageNumber": "168",
+            "pageProb": 63,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 188,
+            "confidence": 64,
+            "pageNumber": "169",
+            "pageProb": 54,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 189,
+            "confidence": 100,
+            "pageNumber": "170",
+            "pageProb": 92,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 190,
+            "confidence": null,
+            "pageNumber": "171",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 191,
+            "confidence": 96,
+            "pageNumber": "172",
+            "pageProb": 86,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 192,
+            "confidence": 62,
+            "pageNumber": "173",
+            "pageProb": 52,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 193,
+            "confidence": 100,
+            "pageNumber": "174",
+            "pageProb": 96,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 194,
+            "confidence": 100,
+            "pageNumber": "175",
+            "pageProb": 95,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 195,
+            "confidence": 100,
+            "pageNumber": "176",
+            "pageProb": 97,
+            "wordConf": 84
+        },
+        {
+            "leafNum": 196,
+            "confidence": 83,
+            "pageNumber": "177",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 197,
+            "confidence": 70,
+            "pageNumber": "178",
+            "pageProb": 60,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 198,
+            "confidence": 85,
+            "pageNumber": "179",
+            "pageProb": 75,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 199,
+            "confidence": null,
+            "pageNumber": "180",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 200,
+            "confidence": null,
+            "pageNumber": "181",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 201,
+            "confidence": 84,
+            "pageNumber": "182",
+            "pageProb": 74,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 202,
+            "confidence": null,
+            "pageNumber": "183",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 203,
+            "confidence": null,
+            "pageNumber": "184",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 204,
+            "confidence": 92,
+            "pageNumber": "185",
+            "pageProb": 82,
+            "wordConf": 80
+        },
+        {
+            "leafNum": 205,
+            "confidence": null,
+            "pageNumber": "186",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 206,
+            "confidence": null,
+            "pageNumber": "187",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 207,
+            "confidence": 100,
+            "pageNumber": "188",
+            "pageProb": 99,
+            "wordConf": 71
+        },
+        {
+            "leafNum": 208,
+            "confidence": 93,
+            "pageNumber": "189",
+            "pageProb": 83,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 209,
+            "confidence": 97,
+            "pageNumber": "190",
+            "pageProb": 87,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 210,
+            "confidence": 71,
+            "pageNumber": "191",
+            "pageProb": 61,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 211,
+            "confidence": null,
+            "pageNumber": "192",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 212,
+            "confidence": 78,
+            "pageNumber": "193",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 213,
+            "confidence": 78,
+            "pageNumber": "194",
+            "pageProb": 68,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 214,
+            "confidence": 95,
+            "pageNumber": "195",
+            "pageProb": 85,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 215,
+            "confidence": 96,
+            "pageNumber": "196",
+            "pageProb": 86,
+            "wordConf": 76
+        },
+        {
+            "leafNum": 216,
+            "confidence": 100,
+            "pageNumber": "197",
+            "pageProb": 97,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 217,
+            "confidence": 97,
+            "pageNumber": "198",
+            "pageProb": 87,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 218,
+            "confidence": 100,
+            "pageNumber": "199",
+            "pageProb": 98,
+            "wordConf": 80
+        },
+        {
+            "leafNum": 219,
+            "confidence": 91,
+            "pageNumber": "200",
+            "pageProb": 81,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 220,
+            "confidence": 81,
+            "pageNumber": "201",
+            "pageProb": 71,
+            "wordConf": 87
+        },
+        {
+            "leafNum": 221,
+            "confidence": 91,
+            "pageNumber": "202",
+            "pageProb": 81,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 222,
+            "confidence": 100,
+            "pageNumber": "203",
+            "pageProb": 94,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 223,
+            "confidence": 90,
+            "pageNumber": "204",
+            "pageProb": 80,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 224,
+            "confidence": null,
+            "pageNumber": "205",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 225,
+            "confidence": null,
+            "pageNumber": "206",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 226,
+            "confidence": null,
+            "pageNumber": "207",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 227,
+            "confidence": null,
+            "pageNumber": "208",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 228,
+            "confidence": 67,
+            "pageNumber": "209",
+            "pageProb": 57,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 229,
+            "confidence": 100,
+            "pageNumber": "210",
+            "pageProb": 99,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 230,
+            "confidence": null,
+            "pageNumber": "211",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 231,
+            "confidence": null,
+            "pageNumber": "212",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 232,
+            "confidence": null,
+            "pageNumber": "213",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 233,
+            "confidence": 79,
+            "pageNumber": "214",
+            "pageProb": 69,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 234,
+            "confidence": 90,
+            "pageNumber": "215",
+            "pageProb": 80,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 235,
+            "confidence": 62,
+            "pageNumber": "216",
+            "pageProb": 52,
+            "wordConf": 85
+        },
+        {
+            "leafNum": 236,
+            "confidence": 96,
+            "pageNumber": "217",
+            "pageProb": 86,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 237,
+            "confidence": 61,
+            "pageNumber": "218",
+            "pageProb": 51,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 238,
+            "confidence": null,
+            "pageNumber": "219",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 239,
+            "confidence": 82,
+            "pageNumber": "220",
+            "pageProb": 72,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 240,
+            "confidence": 63,
+            "pageNumber": "221",
+            "pageProb": 53,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 241,
+            "confidence": 87,
+            "pageNumber": "222",
+            "pageProb": 77,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 242,
+            "confidence": 92,
+            "pageNumber": "223",
+            "pageProb": 82,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 243,
+            "confidence": 100,
+            "pageNumber": "224",
+            "pageProb": 93,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 244,
+            "confidence": 100,
+            "pageNumber": "225",
+            "pageProb": 98,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 245,
+            "confidence": 82,
+            "pageNumber": "226",
+            "pageProb": 72,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 246,
+            "confidence": null,
+            "pageNumber": "227",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 247,
+            "confidence": 81,
+            "pageNumber": "228",
+            "pageProb": 71,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 248,
+            "confidence": null,
+            "pageNumber": "229",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 249,
+            "confidence": 87,
+            "pageNumber": "230",
+            "pageProb": 77,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 250,
+            "confidence": 83,
+            "pageNumber": "231",
+            "pageProb": 73,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 251,
+            "confidence": null,
+            "pageNumber": "232",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 252,
+            "confidence": 100,
+            "pageNumber": "233",
+            "pageProb": 97,
+            "wordConf": 70
+        },
+        {
+            "leafNum": 253,
+            "confidence": null,
+            "pageNumber": "234",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 254,
+            "confidence": null,
+            "pageNumber": "235",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 255,
+            "confidence": 100,
+            "pageNumber": "236",
+            "pageProb": 98,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 256,
+            "confidence": 92,
+            "pageNumber": "237",
+            "pageProb": 82,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 257,
+            "confidence": null,
+            "pageNumber": "238",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 258,
+            "confidence": null,
+            "pageNumber": "239",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 259,
+            "confidence": 80,
+            "pageNumber": "240",
+            "pageProb": 70,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 260,
+            "confidence": null,
+            "pageNumber": "241",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 261,
+            "confidence": 83,
+            "pageNumber": "242",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 262,
+            "confidence": null,
+            "pageNumber": "243",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 263,
+            "confidence": 81,
+            "pageNumber": "244",
+            "pageProb": 71,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 264,
+            "confidence": null,
+            "pageNumber": "245",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 265,
+            "confidence": 100,
+            "pageNumber": "246",
+            "pageProb": 96,
+            "wordConf": 74
+        },
+        {
+            "leafNum": 266,
+            "confidence": 95,
+            "pageNumber": "247",
+            "pageProb": 85,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 267,
+            "confidence": 78,
+            "pageNumber": "248",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 268,
+            "confidence": 78,
+            "pageNumber": "249",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 269,
+            "confidence": null,
+            "pageNumber": "250",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 270,
+            "confidence": null,
+            "pageNumber": "251",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 271,
+            "confidence": 90,
+            "pageNumber": "252",
+            "pageProb": 80,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 272,
+            "confidence": null,
+            "pageNumber": "253",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 273,
+            "confidence": 100,
+            "pageNumber": "254",
+            "pageProb": 95,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 274,
+            "confidence": 100,
+            "pageNumber": "255",
+            "pageProb": 99,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 275,
+            "confidence": 75,
+            "pageNumber": "256",
+            "pageProb": 65,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 276,
+            "confidence": 100,
+            "pageNumber": "257",
+            "pageProb": 92,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 277,
+            "confidence": 100,
+            "pageNumber": "258",
+            "pageProb": 97,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 278,
+            "confidence": 78,
+            "pageNumber": "259",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 279,
+            "confidence": 92,
+            "pageNumber": "260",
+            "pageProb": 82,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 280,
+            "confidence": null,
+            "pageNumber": "261",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 281,
+            "confidence": 69,
+            "pageNumber": "262",
+            "pageProb": 59,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 282,
+            "confidence": null,
+            "pageNumber": "263",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 283,
+            "confidence": 75,
+            "pageNumber": "264",
+            "pageProb": 65,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 284,
+            "confidence": null,
+            "pageNumber": "265",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 285,
+            "confidence": 65,
+            "pageNumber": "266",
+            "pageProb": 55,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 286,
+            "confidence": 97,
+            "pageNumber": "267",
+            "pageProb": 87,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 287,
+            "confidence": null,
+            "pageNumber": "268",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 288,
+            "confidence": 88,
+            "pageNumber": "269",
+            "pageProb": 78,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 289,
+            "confidence": 100,
+            "pageNumber": "270",
+            "pageProb": 99,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 290,
+            "confidence": null,
+            "pageNumber": "271",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 291,
+            "confidence": 97,
+            "pageNumber": "272",
+            "pageProb": 87,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 292,
+            "confidence": null,
+            "pageNumber": "273",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 293,
+            "confidence": 100,
+            "pageNumber": "274",
+            "pageProb": 95,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 294,
+            "confidence": 89,
+            "pageNumber": "275",
+            "pageProb": 79,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 295,
+            "confidence": 98,
+            "pageNumber": "276",
+            "pageProb": 88,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 296,
+            "confidence": null,
+            "pageNumber": "277",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 297,
+            "confidence": 76,
+            "pageNumber": "278",
+            "pageProb": 66,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 298,
+            "confidence": null,
+            "pageNumber": "279",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 299,
+            "confidence": 100,
+            "pageNumber": "280",
+            "pageProb": 96,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 300,
+            "confidence": 70,
+            "pageNumber": "281",
+            "pageProb": 60,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 301,
+            "confidence": null,
+            "pageNumber": "282",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 302,
+            "confidence": 100,
+            "pageNumber": "283",
+            "pageProb": 99,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 303,
+            "confidence": 63,
+            "pageNumber": "284",
+            "pageProb": 53,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 304,
+            "confidence": null,
+            "pageNumber": "285",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 305,
+            "confidence": 96,
+            "pageNumber": "286",
+            "pageProb": 86,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 306,
+            "confidence": null,
+            "pageNumber": "287",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 307,
+            "confidence": null,
+            "pageNumber": "288",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 308,
+            "confidence": null,
+            "pageNumber": "289",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 309,
+            "confidence": null,
+            "pageNumber": "290",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 310,
+            "confidence": null,
+            "pageNumber": "291",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 311,
+            "confidence": null,
+            "pageNumber": "292",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 312,
+            "confidence": 100,
+            "pageNumber": "293",
+            "pageProb": 96,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 313,
+            "confidence": null,
+            "pageNumber": "294",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 314,
+            "confidence": 100,
+            "pageNumber": "295",
+            "pageProb": 93,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 315,
+            "confidence": 100,
+            "pageNumber": "296",
+            "pageProb": 99,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 316,
+            "confidence": null,
+            "pageNumber": "297",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 317,
+            "confidence": null,
+            "pageNumber": "298",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 318,
+            "confidence": null,
+            "pageNumber": "299",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 319,
+            "confidence": null,
+            "pageNumber": "300",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 320,
+            "confidence": 88,
+            "pageNumber": "301",
+            "pageProb": 78,
+            "wordConf": 69
+        },
+        {
+            "leafNum": 321,
+            "confidence": 100,
+            "pageNumber": "302",
+            "pageProb": 98,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 322,
+            "confidence": 91,
+            "pageNumber": "303",
+            "pageProb": 81,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 323,
+            "confidence": 83,
+            "pageNumber": "304",
+            "pageProb": 73,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 324,
+            "confidence": null,
+            "pageNumber": "305",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 325,
+            "confidence": null,
+            "pageNumber": "306",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 326,
+            "confidence": 90,
+            "pageNumber": "307",
+            "pageProb": 80,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 327,
+            "confidence": 76,
+            "pageNumber": "308",
+            "pageProb": 66,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 328,
+            "confidence": 85,
+            "pageNumber": "309",
+            "pageProb": 75,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 329,
+            "confidence": 62,
+            "pageNumber": "310",
+            "pageProb": 52,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 330,
+            "confidence": 87,
+            "pageNumber": "311",
+            "pageProb": 77,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 331,
+            "confidence": 100,
+            "pageNumber": "312",
+            "pageProb": 99,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 332,
+            "confidence": 69,
+            "pageNumber": "313",
+            "pageProb": 59,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 333,
+            "confidence": 100,
+            "pageNumber": "314",
+            "pageProb": 98,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 334,
+            "confidence": 88,
+            "pageNumber": "315",
+            "pageProb": 78,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 335,
+            "confidence": 100,
+            "pageNumber": "316",
+            "pageProb": 99,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 336,
+            "confidence": 73,
+            "pageNumber": "317",
+            "pageProb": 63,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 337,
+            "confidence": 71,
+            "pageNumber": "318",
+            "pageProb": 61,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 338,
+            "confidence": null,
+            "pageNumber": "319",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 339,
+            "confidence": 66,
+            "pageNumber": "320",
+            "pageProb": 56,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 340,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 341,
+            "confidence": 99,
+            "pageNumber": "320",
+            "pageProb": 89,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 342,
+            "confidence": null,
+            "pageNumber": "321",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 343,
+            "confidence": null,
+            "pageNumber": "322",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 344,
+            "confidence": 96,
+            "pageNumber": "323",
+            "pageProb": 86,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 345,
+            "confidence": 100,
+            "pageNumber": "324",
+            "pageProb": 95,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 346,
+            "confidence": 69,
+            "pageNumber": "325",
+            "pageProb": 59,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 347,
+            "confidence": 100,
+            "pageNumber": "326",
+            "pageProb": 94,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 348,
+            "confidence": 81,
+            "pageNumber": "327",
+            "pageProb": 71,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 349,
+            "confidence": 100,
+            "pageNumber": "328",
+            "pageProb": 98,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 350,
+            "confidence": 82,
+            "pageNumber": "329",
+            "pageProb": 72,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 351,
+            "confidence": null,
+            "pageNumber": "330",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 352,
+            "confidence": null,
+            "pageNumber": "331",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 353,
+            "confidence": 100,
+            "pageNumber": "332",
+            "pageProb": 98,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 354,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 355,
+            "confidence": 100,
+            "pageNumber": "332",
+            "pageProb": 95,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 356,
+            "confidence": null,
+            "pageNumber": "333",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 357,
+            "confidence": 79,
+            "pageNumber": "334",
+            "pageProb": 69,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 358,
+            "confidence": 95,
+            "pageNumber": "335",
+            "pageProb": 85,
+            "wordConf": 76
+        },
+        {
+            "leafNum": 359,
+            "confidence": 77,
+            "pageNumber": "336",
+            "pageProb": 67,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 360,
+            "confidence": 100,
+            "pageNumber": "337",
+            "pageProb": 94,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 361,
+            "confidence": 94,
+            "pageNumber": "338",
+            "pageProb": 84,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 362,
+            "confidence": 96,
+            "pageNumber": "339",
+            "pageProb": 86,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 363,
+            "confidence": 100,
+            "pageNumber": "340",
+            "pageProb": 98,
+            "wordConf": 73
+        },
+        {
+            "leafNum": 364,
+            "confidence": null,
+            "pageNumber": "341",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 365,
+            "confidence": 82,
+            "pageNumber": "342",
+            "pageProb": 72,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 366,
+            "confidence": 92,
+            "pageNumber": "343",
+            "pageProb": 82,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 367,
+            "confidence": null,
+            "pageNumber": "344",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 368,
+            "confidence": 91,
+            "pageNumber": "345",
+            "pageProb": 81,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 369,
+            "confidence": null,
+            "pageNumber": "346",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 370,
+            "confidence": 100,
+            "pageNumber": "347",
+            "pageProb": 98,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 371,
+            "confidence": 99,
+            "pageNumber": "348",
+            "pageProb": 89,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 372,
+            "confidence": 100,
+            "pageNumber": "349",
+            "pageProb": 96,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 373,
+            "confidence": 83,
+            "pageNumber": "350",
+            "pageProb": 73,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 374,
+            "confidence": 100,
+            "pageNumber": "351",
+            "pageProb": 99,
+            "wordConf": 80
+        },
+        {
+            "leafNum": 375,
+            "confidence": 100,
+            "pageNumber": "352",
+            "pageProb": 96,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 376,
+            "confidence": null,
+            "pageNumber": "353",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 377,
+            "confidence": 85,
+            "pageNumber": "354",
+            "pageProb": 75,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 378,
+            "confidence": 100,
+            "pageNumber": "355",
+            "pageProb": 99,
+            "wordConf": 81
+        },
+        {
+            "leafNum": 379,
+            "confidence": null,
+            "pageNumber": "356",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 380,
+            "confidence": 100,
+            "pageNumber": "357",
+            "pageProb": 91,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 381,
+            "confidence": 100,
+            "pageNumber": "358",
+            "pageProb": 97,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 382,
+            "confidence": null,
+            "pageNumber": "359",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 383,
+            "confidence": 86,
+            "pageNumber": "360",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 384,
+            "confidence": null,
+            "pageNumber": "361",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 385,
+            "confidence": 84,
+            "pageNumber": "362",
+            "pageProb": 74,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 386,
+            "confidence": null,
+            "pageNumber": "363",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 387,
+            "confidence": 100,
+            "pageNumber": "364",
+            "pageProb": 97,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 388,
+            "confidence": null,
+            "pageNumber": "365",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 389,
+            "confidence": 83,
+            "pageNumber": "366",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 390,
+            "confidence": 100,
+            "pageNumber": "367",
+            "pageProb": 98,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 391,
+            "confidence": 86,
+            "pageNumber": "368",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 392,
+            "confidence": null,
+            "pageNumber": "369",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 393,
+            "confidence": 96,
+            "pageNumber": "370",
+            "pageProb": 86,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 394,
+            "confidence": 89,
+            "pageNumber": "371",
+            "pageProb": 79,
+            "wordConf": 77
+        },
+        {
+            "leafNum": 395,
+            "confidence": 100,
+            "pageNumber": "372",
+            "pageProb": 98,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 396,
+            "confidence": null,
+            "pageNumber": "373",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 397,
+            "confidence": 93,
+            "pageNumber": "374",
+            "pageProb": 83,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 398,
+            "confidence": null,
+            "pageNumber": "375",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 399,
+            "confidence": 90,
+            "pageNumber": "376",
+            "pageProb": 80,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 400,
+            "confidence": null,
+            "pageNumber": "377",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 401,
+            "confidence": 100,
+            "pageNumber": "378",
+            "pageProb": 98,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 402,
+            "confidence": null,
+            "pageNumber": "379",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 403,
+            "confidence": 88,
+            "pageNumber": "380",
+            "pageProb": 78,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 404,
+            "confidence": 100,
+            "pageNumber": "381",
+            "pageProb": 98,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 405,
+            "confidence": 83,
+            "pageNumber": "382",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 406,
+            "confidence": 100,
+            "pageNumber": "383",
+            "pageProb": 99,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 407,
+            "confidence": 100,
+            "pageNumber": "384",
+            "pageProb": 95,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 408,
+            "confidence": null,
+            "pageNumber": "385",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 409,
+            "confidence": 100,
+            "pageNumber": "386",
+            "pageProb": 94,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 410,
+            "confidence": 96,
+            "pageNumber": "387",
+            "pageProb": 86,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 411,
+            "confidence": null,
+            "pageNumber": "388",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 412,
+            "confidence": 79,
+            "pageNumber": "389",
+            "pageProb": 69,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 413,
+            "confidence": null,
+            "pageNumber": "390",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 414,
+            "confidence": null,
+            "pageNumber": "391",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 415,
+            "confidence": null,
+            "pageNumber": "392",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 416,
+            "confidence": null,
+            "pageNumber": "393",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 417,
+            "confidence": 83,
+            "pageNumber": "394",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 418,
+            "confidence": null,
+            "pageNumber": "395",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 419,
+            "confidence": 100,
+            "pageNumber": "396",
+            "pageProb": 99,
+            "wordConf": 87
+        },
+        {
+            "leafNum": 420,
+            "confidence": 97,
+            "pageNumber": "397",
+            "pageProb": 87,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 421,
+            "confidence": null,
+            "pageNumber": "398",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 422,
+            "confidence": null,
+            "pageNumber": "399",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 423,
+            "confidence": 100,
+            "pageNumber": "400",
+            "pageProb": 90,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 424,
+            "confidence": null,
+            "pageNumber": "401",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 425,
+            "confidence": 100,
+            "pageNumber": "402",
+            "pageProb": 98,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 426,
+            "confidence": 81,
+            "pageNumber": "403",
+            "pageProb": 71,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 427,
+            "confidence": null,
+            "pageNumber": "404",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 428,
+            "confidence": 70,
+            "pageNumber": "405",
+            "pageProb": 60,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 429,
+            "confidence": null,
+            "pageNumber": "406",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 430,
+            "confidence": 98,
+            "pageNumber": "407",
+            "pageProb": 88,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 431,
+            "confidence": null,
+            "pageNumber": "408",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 432,
+            "confidence": null,
+            "pageNumber": "409",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 433,
+            "confidence": null,
+            "pageNumber": "410",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 434,
+            "confidence": 100,
+            "pageNumber": "411",
+            "pageProb": 97,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 435,
+            "confidence": 100,
+            "pageNumber": "412",
+            "pageProb": 95,
+            "wordConf": 84
+        },
+        {
+            "leafNum": 436,
+            "confidence": 96,
+            "pageNumber": "413",
+            "pageProb": 86,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 437,
+            "confidence": null,
+            "pageNumber": "414",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 438,
+            "confidence": 96,
+            "pageNumber": "415",
+            "pageProb": 86,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 439,
+            "confidence": 87,
+            "pageNumber": "416",
+            "pageProb": 77,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 440,
+            "confidence": 100,
+            "pageNumber": "417",
+            "pageProb": 96,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 441,
+            "confidence": 100,
+            "pageNumber": "418",
+            "pageProb": 94,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 442,
+            "confidence": 100,
+            "pageNumber": "419",
+            "pageProb": 97,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 443,
+            "confidence": 100,
+            "pageNumber": "420",
+            "pageProb": 99,
+            "wordConf": 73
+        },
+        {
+            "leafNum": 444,
+            "confidence": 93,
+            "pageNumber": "421",
+            "pageProb": 83,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 445,
+            "confidence": 100,
+            "pageNumber": "422",
+            "pageProb": 98,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 446,
+            "confidence": 76,
+            "pageNumber": "423",
+            "pageProb": 66,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 447,
+            "confidence": 100,
+            "pageNumber": "424",
+            "pageProb": 98,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 448,
+            "confidence": null,
+            "pageNumber": "425",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 449,
+            "confidence": 100,
+            "pageNumber": "426",
+            "pageProb": 98,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 450,
+            "confidence": null,
+            "pageNumber": "427",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 451,
+            "confidence": 99,
+            "pageNumber": "428",
+            "pageProb": 89,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 452,
+            "confidence": 86,
+            "pageNumber": "429",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 453,
+            "confidence": 91,
+            "pageNumber": "430",
+            "pageProb": 81,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 454,
+            "confidence": null,
+            "pageNumber": "431",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 455,
+            "confidence": 96,
+            "pageNumber": "432",
+            "pageProb": 86,
+            "wordConf": 87
+        },
+        {
+            "leafNum": 456,
+            "confidence": 100,
+            "pageNumber": "433",
+            "pageProb": 93,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 457,
+            "confidence": 82,
+            "pageNumber": "434",
+            "pageProb": 72,
+            "wordConf": 85
+        },
+        {
+            "leafNum": 458,
+            "confidence": null,
+            "pageNumber": "435",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 459,
+            "confidence": null,
+            "pageNumber": "436",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 460,
+            "confidence": 100,
+            "pageNumber": "437",
+            "pageProb": 96,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 461,
+            "confidence": null,
+            "pageNumber": "438",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 462,
+            "confidence": null,
+            "pageNumber": "439",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 463,
+            "confidence": 100,
+            "pageNumber": "440",
+            "pageProb": 97,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 464,
+            "confidence": null,
+            "pageNumber": "441",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 465,
+            "confidence": 84,
+            "pageNumber": "442",
+            "pageProb": 74,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 466,
+            "confidence": 63,
+            "pageNumber": "443",
+            "pageProb": 53,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 467,
+            "confidence": 100,
+            "pageNumber": "444",
+            "pageProb": 99,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 468,
+            "confidence": null,
+            "pageNumber": "445",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 469,
+            "confidence": 100,
+            "pageNumber": "446",
+            "pageProb": 93,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 470,
+            "confidence": 75,
+            "pageNumber": "447",
+            "pageProb": 65,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 471,
+            "confidence": 100,
+            "pageNumber": "448",
+            "pageProb": 91,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 472,
+            "confidence": 100,
+            "pageNumber": "449",
+            "pageProb": 95,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 473,
+            "confidence": null,
+            "pageNumber": "450",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 474,
+            "confidence": 77,
+            "pageNumber": "451",
+            "pageProb": 67,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 475,
+            "confidence": 100,
+            "pageNumber": "452",
+            "pageProb": 97,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 476,
+            "confidence": 100,
+            "pageNumber": "453",
+            "pageProb": 96,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 477,
+            "confidence": null,
+            "pageNumber": "454",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 478,
+            "confidence": null,
+            "pageNumber": "455",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 479,
+            "confidence": 86,
+            "pageNumber": "456",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 480,
+            "confidence": 67,
+            "pageNumber": "457",
+            "pageProb": 57,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 481,
+            "confidence": null,
+            "pageNumber": "458",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 482,
+            "confidence": 78,
+            "pageNumber": "459",
+            "pageProb": 68,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 483,
+            "confidence": null,
+            "pageNumber": "460",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 484,
+            "confidence": null,
+            "pageNumber": "461",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 485,
+            "confidence": null,
+            "pageNumber": "462",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 486,
+            "confidence": 80,
+            "pageNumber": "463",
+            "pageProb": 70,
+            "wordConf": 83
+        },
+        {
+            "leafNum": 487,
+            "confidence": 86,
+            "pageNumber": "464",
+            "pageProb": 76,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 488,
+            "confidence": 100,
+            "pageNumber": "465",
+            "pageProb": 98,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 489,
+            "confidence": 80,
+            "pageNumber": "466",
+            "pageProb": 70,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 490,
+            "confidence": null,
+            "pageNumber": "467",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 491,
+            "confidence": 93,
+            "pageNumber": "468",
+            "pageProb": 83,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 492,
+            "confidence": null,
+            "pageNumber": "469",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 493,
+            "confidence": 100,
+            "pageNumber": "470",
+            "pageProb": 96,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 494,
+            "confidence": 69,
+            "pageNumber": "471",
+            "pageProb": 59,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 495,
+            "confidence": null,
+            "pageNumber": "472",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 496,
+            "confidence": 100,
+            "pageNumber": "473",
+            "pageProb": 99,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 497,
+            "confidence": 85,
+            "pageNumber": "474",
+            "pageProb": 75,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 498,
+            "confidence": 76,
+            "pageNumber": "475",
+            "pageProb": 66,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 499,
+            "confidence": null,
+            "pageNumber": "476",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 500,
+            "confidence": null,
+            "pageNumber": "477",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 501,
+            "confidence": 100,
+            "pageNumber": "478",
+            "pageProb": 93,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 502,
+            "confidence": 79,
+            "pageNumber": "479",
+            "pageProb": 69,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 503,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 504,
+            "confidence": 82,
+            "pageNumber": "479",
+            "pageProb": 72,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 505,
+            "confidence": null,
+            "pageNumber": "480",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 506,
+            "confidence": 83,
+            "pageNumber": "481",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 507,
+            "confidence": null,
+            "pageNumber": "482",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 508,
+            "confidence": 95,
+            "pageNumber": "483",
+            "pageProb": 85,
+            "wordConf": 69
+        },
+        {
+            "leafNum": 509,
+            "confidence": null,
+            "pageNumber": "484",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 510,
+            "confidence": 100,
+            "pageNumber": "485",
+            "pageProb": 95,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 511,
+            "confidence": 91,
+            "pageNumber": "486",
+            "pageProb": 81,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 512,
+            "confidence": 77,
+            "pageNumber": "487",
+            "pageProb": 67,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 513,
+            "confidence": 99,
+            "pageNumber": "488",
+            "pageProb": 89,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 514,
+            "confidence": 62,
+            "pageNumber": "489",
+            "pageProb": 52,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 515,
+            "confidence": 88,
+            "pageNumber": "490",
+            "pageProb": 78,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 516,
+            "confidence": null,
+            "pageNumber": "491",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 517,
+            "confidence": 100,
+            "pageNumber": "492",
+            "pageProb": 99,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 518,
+            "confidence": null,
+            "pageNumber": "493",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 519,
+            "confidence": null,
+            "pageNumber": "494",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 520,
+            "confidence": 100,
+            "pageNumber": "495",
+            "pageProb": 92,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 521,
+            "confidence": 100,
+            "pageNumber": "496",
+            "pageProb": 99,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 522,
+            "confidence": 88,
+            "pageNumber": "497",
+            "pageProb": 78,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 523,
+            "confidence": 97,
+            "pageNumber": "498",
+            "pageProb": 87,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 524,
+            "confidence": 81,
+            "pageNumber": "499",
+            "pageProb": 71,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 525,
+            "confidence": 99,
+            "pageNumber": "500",
+            "pageProb": 89,
+            "wordConf": 68
+        },
+        {
+            "leafNum": 526,
+            "confidence": 83,
+            "pageNumber": "501",
+            "pageProb": 73,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 527,
+            "confidence": 100,
+            "pageNumber": "502",
+            "pageProb": 99,
+            "wordConf": 80
+        },
+        {
+            "leafNum": 528,
+            "confidence": null,
+            "pageNumber": "503",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 529,
+            "confidence": null,
+            "pageNumber": "504",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 530,
+            "confidence": null,
+            "pageNumber": "505",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 531,
+            "confidence": 100,
+            "pageNumber": "506",
+            "pageProb": 97,
+            "wordConf": 76
+        },
+        {
+            "leafNum": 532,
+            "confidence": null,
+            "pageNumber": "507",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 533,
+            "confidence": 70,
+            "pageNumber": "508",
+            "pageProb": 60,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 534,
+            "confidence": 77,
+            "pageNumber": "509",
+            "pageProb": 67,
+            "wordConf": 85
+        },
+        {
+            "leafNum": 535,
+            "confidence": 99,
+            "pageNumber": "510",
+            "pageProb": 89,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 536,
+            "confidence": 100,
+            "pageNumber": "511",
+            "pageProb": 93,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 537,
+            "confidence": 98,
+            "pageNumber": "512",
+            "pageProb": 88,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 538,
+            "confidence": null,
+            "pageNumber": "513",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 539,
+            "confidence": null,
+            "pageNumber": "514",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 540,
+            "confidence": 92,
+            "pageNumber": "515",
+            "pageProb": 82,
+            "wordConf": 67
+        },
+        {
+            "leafNum": 541,
+            "confidence": 96,
+            "pageNumber": "516",
+            "pageProb": 86,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 542,
+            "confidence": null,
+            "pageNumber": "517",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 543,
+            "confidence": 100,
+            "pageNumber": "518",
+            "pageProb": 98,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 544,
+            "confidence": 100,
+            "pageNumber": "519",
+            "pageProb": 96,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 545,
+            "confidence": 99,
+            "pageNumber": "520",
+            "pageProb": 89,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 546,
+            "confidence": 100,
+            "pageNumber": "521",
+            "pageProb": 98,
+            "wordConf": 64
+        },
+        {
+            "leafNum": 547,
+            "confidence": 100,
+            "pageNumber": "522",
+            "pageProb": 98,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 548,
+            "confidence": null,
+            "pageNumber": "523",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 549,
+            "confidence": null,
+            "pageNumber": "524",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 550,
+            "confidence": 100,
+            "pageNumber": "525",
+            "pageProb": 98,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 551,
+            "confidence": 100,
+            "pageNumber": "526",
+            "pageProb": 98,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 552,
+            "confidence": null,
+            "pageNumber": "527",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 553,
+            "confidence": 100,
+            "pageNumber": "528",
+            "pageProb": 99,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 554,
+            "confidence": null,
+            "pageNumber": "529",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 555,
+            "confidence": 87,
+            "pageNumber": "530",
+            "pageProb": 77,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 556,
+            "confidence": 90,
+            "pageNumber": "531",
+            "pageProb": 80,
+            "wordConf": 78
+        },
+        {
+            "leafNum": 557,
+            "confidence": 100,
+            "pageNumber": "532",
+            "pageProb": 92,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 558,
+            "confidence": null,
+            "pageNumber": "533",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 559,
+            "confidence": 85,
+            "pageNumber": "534",
+            "pageProb": 75,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 560,
+            "confidence": 91,
+            "pageNumber": "535",
+            "pageProb": 81,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 561,
+            "confidence": 100,
+            "pageNumber": "536",
+            "pageProb": 95,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 562,
+            "confidence": 100,
+            "pageNumber": "537",
+            "pageProb": 97,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 563,
+            "confidence": 100,
+            "pageNumber": "538",
+            "pageProb": 99,
+            "wordConf": 85
+        },
+        {
+            "leafNum": 564,
+            "confidence": null,
+            "pageNumber": "539",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 565,
+            "confidence": 100,
+            "pageNumber": "540",
+            "pageProb": 96,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 566,
+            "confidence": null,
+            "pageNumber": "541",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 567,
+            "confidence": 71,
+            "pageNumber": "542",
+            "pageProb": 61,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 568,
+            "confidence": 82,
+            "pageNumber": "543",
+            "pageProb": 72,
+            "wordConf": 76
+        },
+        {
+            "leafNum": 569,
+            "confidence": null,
+            "pageNumber": "544",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 570,
+            "confidence": 92,
+            "pageNumber": "545",
+            "pageProb": 82,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 571,
+            "confidence": null,
+            "pageNumber": "546",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 572,
+            "confidence": null,
+            "pageNumber": "547",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 573,
+            "confidence": 90,
+            "pageNumber": "548",
+            "pageProb": 80,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 574,
+            "confidence": 79,
+            "pageNumber": "549",
+            "pageProb": 69,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 575,
+            "confidence": 100,
+            "pageNumber": "550",
+            "pageProb": 96,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 576,
+            "confidence": 86,
+            "pageNumber": "551",
+            "pageProb": 76,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 577,
+            "confidence": 87,
+            "pageNumber": "552",
+            "pageProb": 77,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 578,
+            "confidence": 100,
+            "pageNumber": "553",
+            "pageProb": 90,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 579,
+            "confidence": null,
+            "pageNumber": "554",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 580,
+            "confidence": null,
+            "pageNumber": "555",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 581,
+            "confidence": 100,
+            "pageNumber": "556",
+            "pageProb": 98,
+            "wordConf": 75
+        },
+        {
+            "leafNum": 582,
+            "confidence": 92,
+            "pageNumber": "557",
+            "pageProb": 82,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 583,
+            "confidence": null,
+            "pageNumber": "558",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 584,
+            "confidence": 100,
+            "pageNumber": "559",
+            "pageProb": 96,
+            "wordConf": 76
+        },
+        {
+            "leafNum": 585,
+            "confidence": 85,
+            "pageNumber": "560",
+            "pageProb": 75,
+            "wordConf": 83
+        },
+        {
+            "leafNum": 586,
+            "confidence": 100,
+            "pageNumber": "561",
+            "pageProb": 97,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 587,
+            "confidence": null,
+            "pageNumber": "562",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 588,
+            "confidence": 95,
+            "pageNumber": "563",
+            "pageProb": 85,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 589,
+            "confidence": 99,
+            "pageNumber": "564",
+            "pageProb": 89,
+            "wordConf": 80
+        },
+        {
+            "leafNum": 590,
+            "confidence": 91,
+            "pageNumber": "565",
+            "pageProb": 81,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 591,
+            "confidence": 100,
+            "pageNumber": "566",
+            "pageProb": 98,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 592,
+            "confidence": 93,
+            "pageNumber": "567",
+            "pageProb": 83,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 593,
+            "confidence": 95,
+            "pageNumber": "568",
+            "pageProb": 85,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 594,
+            "confidence": 82,
+            "pageNumber": "569",
+            "pageProb": 72,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 595,
+            "confidence": 95,
+            "pageNumber": "570",
+            "pageProb": 85,
+            "wordConf": 87
+        },
+        {
+            "leafNum": 596,
+            "confidence": 100,
+            "pageNumber": "571",
+            "pageProb": 98,
+            "wordConf": 82
+        },
+        {
+            "leafNum": 597,
+            "confidence": 92,
+            "pageNumber": "572",
+            "pageProb": 82,
+            "wordConf": 80
+        },
+        {
+            "leafNum": 598,
+            "confidence": 96,
+            "pageNumber": "573",
+            "pageProb": 86,
+            "wordConf": 80
+        },
+        {
+            "leafNum": 599,
+            "confidence": null,
+            "pageNumber": "574",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 600,
+            "confidence": 90,
+            "pageNumber": "575",
+            "pageProb": 80,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 601,
+            "confidence": 100,
+            "pageNumber": "576",
+            "pageProb": 99,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 602,
+            "confidence": null,
+            "pageNumber": "577",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 603,
+            "confidence": 100,
+            "pageNumber": "578",
+            "pageProb": 94,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 604,
+            "confidence": 78,
+            "pageNumber": "579",
+            "pageProb": 68,
+            "wordConf": 85
+        },
+        {
+            "leafNum": 605,
+            "confidence": 96,
+            "pageNumber": "578",
+            "pageProb": 86,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 606,
+            "confidence": 92,
+            "pageNumber": "579",
+            "pageProb": 82,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 607,
+            "confidence": 86,
+            "pageNumber": "580",
+            "pageProb": 76,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 608,
+            "confidence": 78,
+            "pageNumber": "581",
+            "pageProb": 68,
+            "wordConf": 84
+        },
+        {
+            "leafNum": 609,
+            "confidence": null,
+            "pageNumber": "582",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 610,
+            "confidence": 100,
+            "pageNumber": "583",
+            "pageProb": 92,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 611,
+            "confidence": 100,
+            "pageNumber": "584",
+            "pageProb": 97,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 612,
+            "confidence": 84,
+            "pageNumber": "585",
+            "pageProb": 74,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 613,
+            "confidence": 100,
+            "pageNumber": "586",
+            "pageProb": 99,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 614,
+            "confidence": null,
+            "pageNumber": "587",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 615,
+            "confidence": 100,
+            "pageNumber": "588",
+            "pageProb": 99,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 616,
+            "confidence": 100,
+            "pageNumber": "589",
+            "pageProb": 98,
+            "wordConf": 87
+        },
+        {
+            "leafNum": 617,
+            "confidence": 90,
+            "pageNumber": "590",
+            "pageProb": 80,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 618,
+            "confidence": 91,
+            "pageNumber": "591",
+            "pageProb": 81,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 619,
+            "confidence": null,
+            "pageNumber": "592",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 620,
+            "confidence": null,
+            "pageNumber": "593",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 621,
+            "confidence": 83,
+            "pageNumber": "594",
+            "pageProb": 73,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 622,
+            "confidence": null,
+            "pageNumber": "595",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 623,
+            "confidence": 81,
+            "pageNumber": "596",
+            "pageProb": 71,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 624,
+            "confidence": null,
+            "pageNumber": "597",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 625,
+            "confidence": null,
+            "pageNumber": "598",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 626,
+            "confidence": 100,
+            "pageNumber": "599",
+            "pageProb": 93,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 627,
+            "confidence": 87,
+            "pageNumber": "600",
+            "pageProb": 77,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 628,
+            "confidence": null,
+            "pageNumber": "601",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 629,
+            "confidence": 81,
+            "pageNumber": "602",
+            "pageProb": 71,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 630,
+            "confidence": 100,
+            "pageNumber": "603",
+            "pageProb": 93,
+            "wordConf": 84
+        },
+        {
+            "leafNum": 631,
+            "confidence": 95,
+            "pageNumber": "604",
+            "pageProb": 85,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 632,
+            "confidence": 100,
+            "pageNumber": "605",
+            "pageProb": 90,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 633,
+            "confidence": 88,
+            "pageNumber": "606",
+            "pageProb": 78,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 634,
+            "confidence": null,
+            "pageNumber": "607",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 635,
+            "confidence": null,
+            "pageNumber": "608",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 636,
+            "confidence": null,
+            "pageNumber": "609",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 637,
+            "confidence": 89,
+            "pageNumber": "610",
+            "pageProb": 79,
+            "wordConf": 78
+        },
+        {
+            "leafNum": 638,
+            "confidence": 89,
+            "pageNumber": "611",
+            "pageProb": 79,
+            "wordConf": 79
+        },
+        {
+            "leafNum": 639,
+            "confidence": 100,
+            "pageNumber": "612",
+            "pageProb": 95,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 640,
+            "confidence": null,
+            "pageNumber": "613",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 641,
+            "confidence": 78,
+            "pageNumber": "614",
+            "pageProb": 68,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 642,
+            "confidence": null,
+            "pageNumber": "615",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 643,
+            "confidence": 82,
+            "pageNumber": "616",
+            "pageProb": 72,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 644,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 645,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 646,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 647,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 648,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 649,
+            "confidence": 100,
+            "pageNumber": "618",
+            "pageProb": 92,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 650,
+            "confidence": 86,
+            "pageNumber": "619",
+            "pageProb": 76,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 651,
+            "confidence": 88,
+            "pageNumber": "620",
+            "pageProb": 78,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 652,
+            "confidence": 100,
+            "pageNumber": "621",
+            "pageProb": 98,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 653,
+            "confidence": 100,
+            "pageNumber": "622",
+            "pageProb": 93,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 654,
+            "confidence": 100,
+            "pageNumber": "623",
+            "pageProb": 99,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 655,
+            "confidence": null,
+            "pageNumber": "624",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 656,
+            "confidence": 92,
+            "pageNumber": "625",
+            "pageProb": 82,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 657,
+            "confidence": 92,
+            "pageNumber": "626",
+            "pageProb": 82,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 658,
+            "confidence": 97,
+            "pageNumber": "627",
+            "pageProb": 87,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 659,
+            "confidence": 96,
+            "pageNumber": "626",
+            "pageProb": 86,
+            "wordConf": 79
+        },
+        {
+            "leafNum": 660,
+            "confidence": 98,
+            "pageNumber": "627",
+            "pageProb": 88,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 661,
+            "confidence": 75,
+            "pageNumber": "628",
+            "pageProb": 65,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 662,
+            "confidence": 99,
+            "pageNumber": "629",
+            "pageProb": 89,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 663,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 664,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"rotations":{"issue": {"mean": 0.05088992322574436, "std": 1.0930880717002711, "lh_mean": -0.8140765659055853, "lh_std": 0.702097495732395, "rh_mean": 0.9132432205470096, "rh_std": 0.6364445870304629}, "pages": {"bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0000.jp2": 2.375316, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0001.jp2": null, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0002.jp2": 2.365141, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0003.jp2": -0.545353, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0004.jp2": 2.120592, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0005.jp2": -1.042741, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0006.jp2": 1.411865, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0007.jp2": -0.064545, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0008.jp2": 1.820776, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0009.jp2": 0.028727, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0010.jp2": 1.119252, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0011.jp2": 0.630222, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0012.jp2": 1.047178, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0013.jp2": 0.970395, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0014.jp2": 1.696092, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0015.jp2": null, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0016.jp2": 2.348472, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0017.jp2": -0.639728, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0018.jp2": 2.05516, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0019.jp2": -0.388189, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0020.jp2": 1.726703, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0021.jp2": 0.699074, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0022.jp2": 1.219082, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0023.jp2": 1.014364, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0024.jp2": 1.438438, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0025.jp2": 0.39344, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0026.jp2": 1.017724, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0027.jp2": 0.589697, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0028.jp2": 1.061902, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0029.jp2": 1.420184, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0030.jp2": 0.744336, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0031.jp2": 1.382117, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0032.jp2": 2.242273, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0033.jp2": 0.659604, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0034.jp2": 1.173901, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0035.jp2": 0.203355, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0036.jp2": 1.167453, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0037.jp2": -0.189252, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0038.jp2": -0.54315, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0039.jp2": -0.31075, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0040.jp2": 0.694253, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0041.jp2": -0.41914, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0042.jp2": 0.511439, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0043.jp2": 0.46415, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0044.jp2": 0.834808, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0045.jp2": -0.626028, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0046.jp2": 0.901372, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0047.jp2": -0.503121, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0048.jp2": 0.486223, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0049.jp2": -0.939054, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0050.jp2": 1.328427, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0051.jp2": -1.08074, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0052.jp2": 0.511049, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0053.jp2": -0.696159, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0054.jp2": 0.210232, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0055.jp2": -0.250703, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0056.jp2": 1.097357, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0057.jp2": 0.055797, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0058.jp2": 0.453578, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0059.jp2": -0.798169, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0060.jp2": 0.73637, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0061.jp2": -0.628555, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0062.jp2": 0.990394, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0063.jp2": -0.928789, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0064.jp2": 0.545155, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0065.jp2": -1.160463, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0066.jp2": 1.328724674667284, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0067.jp2": -1.367576, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0068.jp2": 0.28005, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0069.jp2": -0.895895, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0070.jp2": -0.32812, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0071.jp2": -0.022794, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0072.jp2": 0.917107, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0073.jp2": -1.200304, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0074.jp2": 0.083822, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0075.jp2": -0.612963, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0076.jp2": 0.268184, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0077.jp2": -0.085257, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0078.jp2": 0.673694, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0079.jp2": -0.711926, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0080.jp2": 0.206627, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0081.jp2": -0.671739, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0082.jp2": 0.309862, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0083.jp2": -0.380011, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0084.jp2": 0.411487, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0085.jp2": -0.197308, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0086.jp2": -0.38242, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0087.jp2": 0.010439, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0088.jp2": 0.098544, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0089.jp2": -0.696811, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0090.jp2": -0.020364, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0091.jp2": -0.784367, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0092.jp2": 0.85234, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0093.jp2": 0.74611, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0094.jp2": 1.361273, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0095.jp2": 0.316109, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0096.jp2": 1.126329, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0097.jp2": 0.350497, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0098.jp2": 1.379206, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0099.jp2": 0.25055, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0100.jp2": 1.104487, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0101.jp2": 0.387701, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0102.jp2": 1.225414, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0103.jp2": -0.187525, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0104.jp2": 0.995951, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0105.jp2": -0.083581, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0106.jp2": 1.198268, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0107.jp2": -0.047404, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0108.jp2": 0.735068, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0109.jp2": 0.113763, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0110.jp2": 1.106791, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0111.jp2": 0.651699, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0112.jp2": 0.834915, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0113.jp2": -0.016804, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0114.jp2": 1.374063, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0115.jp2": -0.382462, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0116.jp2": 1.330432, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0117.jp2": -0.964802, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0118.jp2": 1.196379, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0119.jp2": -0.578091, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0120.jp2": 1.127489, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0121.jp2": -0.540829, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0122.jp2": 0.041552, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0123.jp2": 0.055745, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0124.jp2": 1.171458, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0125.jp2": -1.022597, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0126.jp2": 1.544722, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0127.jp2": -0.501218, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0128.jp2": 1.393892, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0129.jp2": -0.131752, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0130.jp2": 1.23794, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0131.jp2": -0.36096, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0132.jp2": 1.213499, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0133.jp2": 0.358618, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0134.jp2": 0.722642, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0135.jp2": 0.238471, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0136.jp2": 0.792651, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0137.jp2": -0.20594, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0138.jp2": 0.478545, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0139.jp2": 0.430776, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0140.jp2": 0.862259, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0141.jp2": -0.579612, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0142.jp2": 0.785841, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0143.jp2": -0.074305, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0144.jp2": 1.510311, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0145.jp2": 0.065551, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0146.jp2": 1.830765, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0147.jp2": -1.198384, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0148.jp2": 1.410031, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0149.jp2": -1.729251, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0150.jp2": 1.458387, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0151.jp2": -1.832384, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0152.jp2": 1.034638, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0153.jp2": -0.199895, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0154.jp2": 0.032909, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0155.jp2": -0.054447, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0156.jp2": 1.321818, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0157.jp2": -2.102316, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0158.jp2": 1.347584, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0159.jp2": -0.54628, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0160.jp2": 1.080978, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0161.jp2": -0.43801, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0162.jp2": 0.939993, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0163.jp2": -0.566248, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0164.jp2": 1.244838, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0165.jp2": -2.056634, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0166.jp2": 0.069302, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0167.jp2": -1.729144, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0168.jp2": 0.014221, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0169.jp2": -1.070544, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0170.jp2": -0.005847, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0171.jp2": 0.497243, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0172.jp2": 2.216182, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0173.jp2": -0.895098, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0174.jp2": 1.52598, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0175.jp2": -0.427946, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0176.jp2": 1.944796, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0177.jp2": -0.951422, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0178.jp2": 1.011558, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0179.jp2": -0.550042, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0180.jp2": 0.681364, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0181.jp2": -0.383275, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0182.jp2": 1.478419, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0183.jp2": -1.251853, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0184.jp2": 1.419638, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0185.jp2": -0.371529, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0186.jp2": 0.993777, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0187.jp2": -0.36677, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0188.jp2": 1.210426, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0189.jp2": 0.218436, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0190.jp2": 0.334658, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0191.jp2": 0.205895, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0192.jp2": 0.412609, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0193.jp2": -0.715133, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0194.jp2": 1.540009, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0195.jp2": -0.945064, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0196.jp2": 1.996557, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0197.jp2": -1.88619, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0198.jp2": 0.738624, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0199.jp2": -0.923561, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0200.jp2": 1.65468, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0201.jp2": -0.302975, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0202.jp2": 0.401355, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0203.jp2": 0.157692, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0204.jp2": 1.413179, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0205.jp2": -0.284667, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0206.jp2": 0.998053, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0207.jp2": -0.775718, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0208.jp2": 1.308621, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0209.jp2": -0.987982, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0210.jp2": 1.235669, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0211.jp2": -0.868548, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0212.jp2": 0.673638, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0213.jp2": -1.662173, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0214.jp2": 1.776199, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0215.jp2": -1.31036, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0216.jp2": 0.743115, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0217.jp2": -1.88673, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0218.jp2": 0.292578, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0219.jp2": 0.094367, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0220.jp2": 2.586366, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0221.jp2": -1.650958, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0222.jp2": 0.823775, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0223.jp2": -0.731572, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0224.jp2": 1.54419, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0225.jp2": -0.647911, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0226.jp2": 1.949902, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0227.jp2": -0.946158, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0228.jp2": 0.955235, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0229.jp2": -2.188256, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0230.jp2": 1.789946, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0231.jp2": -1.691372, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0232.jp2": 0.689663, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0233.jp2": -0.848433, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0234.jp2": 0.834582, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0235.jp2": -0.951509, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0236.jp2": 0.738069, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0237.jp2": -1.667826, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0238.jp2": 1.061858, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0239.jp2": -1.07886, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0240.jp2": 0.699423, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0241.jp2": -0.896642, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0242.jp2": 0.675518, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0243.jp2": -1.263035, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0244.jp2": 0.838469, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0245.jp2": -2.234213, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0246.jp2": 0.732225, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0247.jp2": -0.76106, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0248.jp2": 1.352618, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0249.jp2": -1.184974, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0250.jp2": 1.049803, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0251.jp2": -1.643067, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0252.jp2": 0.610734, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0253.jp2": -1.993131, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0254.jp2": 0.968409, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0255.jp2": -0.130878, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0256.jp2": 1.134722, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0257.jp2": -2.230167, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0258.jp2": 0.657014, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0259.jp2": -0.435951, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0260.jp2": 1.80465, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0261.jp2": -2.180542, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0262.jp2": 1.763656, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0263.jp2": -1.271371, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0264.jp2": 0.868051, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0265.jp2": -0.853121, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0266.jp2": 0.42243, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0267.jp2": -0.485999, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0268.jp2": 0.292615, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0269.jp2": -1.005614, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0270.jp2": 1.10452, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0271.jp2": -1.120979, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0272.jp2": 2.075865, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0273.jp2": -1.184863, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0274.jp2": 1.073089, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0275.jp2": -0.975797, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0276.jp2": 0.702143, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0277.jp2": -1.932901, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0278.jp2": 1.182601, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0279.jp2": -0.904041, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0280.jp2": 0.625127, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0281.jp2": -1.022188, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0282.jp2": -0.033689, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0283.jp2": -0.902882, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0284.jp2": 0.960042, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0285.jp2": -1.997627, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0286.jp2": 0.942942, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0287.jp2": -1.21041, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0288.jp2": 0.941167, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0289.jp2": -1.734956, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0290.jp2": 1.004097, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0291.jp2": -1.330495, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0292.jp2": 1.775122, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0293.jp2": -2.082575, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0294.jp2": 1.099411, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0295.jp2": -1.307103, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0296.jp2": 0.262513, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0297.jp2": -1.399171, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0298.jp2": -0.125671, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0299.jp2": -0.694195, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0300.jp2": -0.014215, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0301.jp2": -1.313195, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0302.jp2": 0.306622, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0303.jp2": -0.59652, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0304.jp2": 0.421482, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0305.jp2": -1.222372, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0306.jp2": 0.254998, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0307.jp2": -1.357047, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0308.jp2": 0.273777, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0309.jp2": -0.979986, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0310.jp2": 0.978088, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0311.jp2": -1.323949, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0312.jp2": 0.616922, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0313.jp2": -0.503728, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0314.jp2": 0.465583, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0315.jp2": 0.097048, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0316.jp2": 1.889929, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0317.jp2": -1.515146, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0318.jp2": 1.187214, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0319.jp2": -1.715703, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0320.jp2": 1.477351, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0321.jp2": -0.932593, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0322.jp2": 1.025741, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0323.jp2": -0.827871, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0324.jp2": 1.631617, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0325.jp2": -1.295774, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0326.jp2": 1.325579, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0327.jp2": -1.275855, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0328.jp2": 1.124934, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0329.jp2": -2.213512, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0330.jp2": 0.861195, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0331.jp2": -0.178067, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0332.jp2": 1.404228, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0333.jp2": -1.465522, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0334.jp2": 1.143425, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0335.jp2": -0.722751, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0336.jp2": 0.867477, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0337.jp2": -1.921778, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0338.jp2": 0.921138, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0339.jp2": -0.903646, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0340.jp2": 1.157962, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0341.jp2": -0.87583, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0342.jp2": 0.645589, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0343.jp2": -0.790198, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0344.jp2": 0.049898, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0345.jp2": -1.065945, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0346.jp2": 0.425432, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0347.jp2": -1.521243, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0348.jp2": 0.623448, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0349.jp2": -0.739965, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0350.jp2": 0.563961, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0351.jp2": -1.36126, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0352.jp2": 0.170268, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0353.jp2": -0.725391, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0354.jp2": 0.523797, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0355.jp2": 0.116207, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0356.jp2": 0.73466, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0357.jp2": -1.890187, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0358.jp2": 0.877675, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0359.jp2": -1.455843, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0360.jp2": 1.247903, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0361.jp2": -2.099836, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0362.jp2": 0.877804, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0363.jp2": -1.449733, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0364.jp2": 1.0784, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0365.jp2": -1.271743, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0366.jp2": 0.116433, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0367.jp2": -0.636266, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0368.jp2": 1.102385, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0369.jp2": -0.994018, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0370.jp2": -1.182837, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0371.jp2": -0.044421, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0372.jp2": 1.152788, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0373.jp2": -1.69501, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0374.jp2": 0.928166, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0375.jp2": -1.316012, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0376.jp2": 0.985166, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0377.jp2": -2.675187, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0378.jp2": 0.738518, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0379.jp2": -1.880283, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0380.jp2": -0.360086, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0381.jp2": -0.809314, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0382.jp2": -0.273473, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0383.jp2": -1.680115, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0384.jp2": 0.650248, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0385.jp2": -2.13426, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0386.jp2": -0.194235, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0387.jp2": -1.392797, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0388.jp2": -0.319313, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0389.jp2": -0.796094, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0390.jp2": 0.589113, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0391.jp2": -1.376121, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0392.jp2": 0.09396, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0393.jp2": -1.03596, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0394.jp2": 1.207219, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0395.jp2": -1.0995, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0396.jp2": 2.015067, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0397.jp2": -0.561892, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0398.jp2": 1.586422, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0399.jp2": -0.148902, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0400.jp2": 2.172917, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0401.jp2": -0.838285, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0402.jp2": 1.525869, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0403.jp2": -0.710667, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0404.jp2": 1.055398, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0405.jp2": -0.687017, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0406.jp2": 1.764636, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0407.jp2": -0.643379, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0408.jp2": 2.338092, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0409.jp2": -2.374897, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0410.jp2": 1.637238, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0411.jp2": -1.607504, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0412.jp2": 1.078977, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0413.jp2": -1.176282, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0414.jp2": 1.0733395551173948, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0415.jp2": -0.374561, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0416.jp2": 1.867638, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0417.jp2": -1.792404, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0418.jp2": 0.988925, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0419.jp2": -0.992913, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0420.jp2": 0.971718, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0421.jp2": -0.736896, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0422.jp2": 1.347033, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0423.jp2": -0.846607, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0424.jp2": 1.848772, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0425.jp2": -2.193721, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0426.jp2": 1.275764, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0427.jp2": -0.637903, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0428.jp2": 1.489715, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0429.jp2": -1.174461, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0430.jp2": 1.151775, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0431.jp2": -0.610762, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0432.jp2": 1.406436, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0433.jp2": -0.97975, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0434.jp2": 1.368651, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0435.jp2": -0.477898, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0436.jp2": 1.777878, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0437.jp2": -1.321161, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0438.jp2": 2.372693, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0439.jp2": -1.637227, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0440.jp2": 2.075462, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0441.jp2": -1.196335, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0442.jp2": 1.126613, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0443.jp2": -0.94664, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0444.jp2": 0.743649, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0445.jp2": 0.413441, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0446.jp2": 0.624716, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0447.jp2": 0.438099, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0448.jp2": 1.413213, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0449.jp2": -1.274681, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0450.jp2": 1.137404, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0451.jp2": -0.561688, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0452.jp2": 1.170863, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0453.jp2": -1.059291, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0454.jp2": 1.755924, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0455.jp2": -0.967889, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0456.jp2": 1.075933, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0457.jp2": -1.471501, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0458.jp2": 0.897305, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0459.jp2": -0.407677, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0460.jp2": 1.217349, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0461.jp2": -0.623921, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0462.jp2": 0.781906, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0463.jp2": -0.305569, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0464.jp2": 1.359689, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0465.jp2": -0.307275, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0466.jp2": 1.556853, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0467.jp2": 0.037281, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0468.jp2": 1.220732, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0469.jp2": -1.073522, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0470.jp2": 1.161187, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0471.jp2": -0.717567, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0472.jp2": 0.823042, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0473.jp2": -0.366144, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0474.jp2": 1.621992, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0475.jp2": -0.977657, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0476.jp2": 0.969484, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0477.jp2": -0.7657677488431431, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0478.jp2": 0.757773, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0479.jp2": -0.157738, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0480.jp2": 1.226608, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0481.jp2": -0.338027, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0482.jp2": 0.680725, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0483.jp2": -0.089736, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0484.jp2": 1.692039, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0485.jp2": -1.055894, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0486.jp2": 1.81353, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0487.jp2": -0.264328, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0488.jp2": 1.26521, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0489.jp2": -0.280156, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0490.jp2": 1.615508, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0491.jp2": -1.297406, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0492.jp2": 2.056099, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0493.jp2": -0.602841, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0494.jp2": 0.635803, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0495.jp2": -0.005328, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0496.jp2": 0.692946, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0497.jp2": -0.420959, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0498.jp2": 0.756253, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0499.jp2": -0.192041, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0500.jp2": 0.623928, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0501.jp2": -0.817861, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0502.jp2": 1.042866, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0503.jp2": -0.779311, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0504.jp2": 1.113281, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0505.jp2": -0.835513, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0506.jp2": 0.612302, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0507.jp2": -0.721394, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0508.jp2": 1.038103, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0509.jp2": -0.72396, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0510.jp2": 0.963793, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0511.jp2": -0.529142, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0512.jp2": 0.997912, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0513.jp2": -0.153242, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0514.jp2": 2.112142, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0515.jp2": -0.870826, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0516.jp2": 1.917189, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0517.jp2": -1.09392, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0518.jp2": 0.939365, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0519.jp2": -0.415622, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0520.jp2": 1.563604, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0521.jp2": -0.611426, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0522.jp2": 1.933348, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0523.jp2": -0.759442, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0524.jp2": 0.70522, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0525.jp2": -0.700747, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0526.jp2": 0.722726, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0527.jp2": -0.240457, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0528.jp2": 0.970482, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0529.jp2": -0.296821, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0530.jp2": 0.303798, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0531.jp2": 0.067186, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0532.jp2": 0.723253, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0533.jp2": -0.428079, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0534.jp2": 0.863506, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0535.jp2": 0.002642, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0536.jp2": 1.264061, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0537.jp2": -1.100951, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0538.jp2": 0.988552, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0539.jp2": -0.46506, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0540.jp2": 0.971602, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0541.jp2": -0.812246, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0542.jp2": 0.55551, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0543.jp2": -0.894171, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0544.jp2": -0.529378, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0545.jp2": -0.17703, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0546.jp2": 0.688034, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0547.jp2": -1.963934, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0548.jp2": 0.866198, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0549.jp2": -0.865802, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0550.jp2": 0.613823, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0551.jp2": -0.402303, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0552.jp2": 1.276128, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0553.jp2": -0.535848, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0554.jp2": 0.545677, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0555.jp2": -1.073985, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0556.jp2": 0.377075, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0557.jp2": -0.8714, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0558.jp2": 0.750662, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0559.jp2": -0.750952, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0560.jp2": 0.752639, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0561.jp2": -0.007502, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0562.jp2": 1.539773, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0563.jp2": -1.006249, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0564.jp2": 0.684899, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0565.jp2": -0.604763, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0566.jp2": 1.368383, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0567.jp2": -1.522729, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0568.jp2": 1.082744, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0569.jp2": -1.234522, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0570.jp2": 0.541477, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0571.jp2": -0.761246, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0572.jp2": 1.110069, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0573.jp2": -1.628872, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0574.jp2": 0.251214, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0575.jp2": -0.461282, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0576.jp2": 0.845931, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0577.jp2": -0.148348, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0578.jp2": 0.835105, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0579.jp2": -1.497335, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0580.jp2": 0.985518, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0581.jp2": -1.484142, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0582.jp2": 0.831562, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0583.jp2": -1.074031, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0584.jp2": 1.431896, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0585.jp2": -1.580038, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0586.jp2": 1.199489, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0587.jp2": -1.238607, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0588.jp2": 0.399501, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0589.jp2": -1.844381, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0590.jp2": 0.916023, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0591.jp2": -1.201219, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0592.jp2": 0.519979, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0593.jp2": -0.267907, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0594.jp2": 0.658163, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0595.jp2": -1.624195, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0596.jp2": -0.069346, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0597.jp2": -0.563681, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0598.jp2": 0.431647, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0599.jp2": -0.742223, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0600.jp2": 0.622745, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0601.jp2": -1.258376, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0602.jp2": 0.506598771275494, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0603.jp2": -1.567355, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0604.jp2": 0.427479, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0605.jp2": -1.327193, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0606.jp2": 0.344965, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0607.jp2": -1.760226, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0608.jp2": -0.431331, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0609.jp2": -0.757919, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0610.jp2": -0.269861, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0611.jp2": -0.800391, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0612.jp2": 0.265249, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0613.jp2": -1.332134, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0614.jp2": -0.034171, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0615.jp2": -0.834285, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0616.jp2": -0.105247, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0617.jp2": -1.329798, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0618.jp2": -0.117328, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0619.jp2": -0.879633, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0620.jp2": -0.114673, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0621.jp2": -2.011365, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0622.jp2": 0.312423, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0623.jp2": -2.386201, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0624.jp2": -0.76158, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0625.jp2": -1.25797, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0626.jp2": -1.685099, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0627.jp2": -0.304356, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0628.jp2": -0.076813, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0629.jp2": -0.959287, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0630.jp2": 0.124161, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0631.jp2": -1.099813, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0632.jp2": -0.64962, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0633.jp2": -1.377963, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0634.jp2": 0.552889, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0635.jp2": -1.621623, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0636.jp2": 0.592214, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0637.jp2": -1.662959, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0638.jp2": 0.766842, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0639.jp2": -2.265192, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0640.jp2": -0.041481, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0641.jp2": -1.069065, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0642.jp2": -0.219957, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0643.jp2": -1.128854, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0644.jp2": null, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0645.jp2": 0.087498, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0646.jp2": -0.529473, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0647.jp2": -0.014996, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0648.jp2": 0.813574, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0649.jp2": -1.13858, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0650.jp2": 0.464342, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0651.jp2": -0.864977, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0652.jp2": 0.271897, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0653.jp2": -0.764077, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0654.jp2": 0.465273, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0655.jp2": -1.359772, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0656.jp2": 0.841715, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0657.jp2": -2.545923, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0658.jp2": 0.318403, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0659.jp2": -1.438955, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0660.jp2": 0.510076, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0661.jp2": -0.751863, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0662.jp2": 1.198588, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0663.jp2": -1.419736, "bim_eighteenth-century_the-history-of-great-bri_macpherson-james_1775_1_0664.jp2": null}},"server":"ia800905.us.archive.org","uniq":1443915777,"workable_servers":["ia800905.us.archive.org","ia600905.us.archive.org"]}

@@ -1,0 +1,31 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = Second Book of Nephi
+ | previous    = [[Book of Mormon (1830)/1 Nephi|1 Nephi]]
+ | next        = [[Book of Mormon (1830)/Jacob|Jacob]]
+ | year        = 1830 
+ | notes       = <br>{{engine|The Book of Mormon|work=Book of Mormon (1830)}}
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" include="63" onlysection="TITLE" />
+
+{{AuxTOC|title=Chapters:|{{TOC begin}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 1|Chapter I]]|59}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 2|Chapter II]]|66}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 3|Chapter III]]|68}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 4|Chapter IV]]|71}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 5|Chapter V]]|74}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 6|Chapter VI]]|78}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 7|Chapter VII]]|83}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 8|Chapter VIII]]|86}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 9|Chapter IX]]|91}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 10|Chapter X]]|99}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 11|Chapter XI]]|102}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 12|Chapter XII]]|112}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 13|Chapter XIII]]|118}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 14|Chapter XIV]]|120}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/2 Nephi/Chapter 15|Chapter XV]]|121}}
+{{TOC end}}}}
+
+{{dhr}}

@@ -1,0 +1,540 @@
+{"alternate_locations":{"servers":[{"server":"dn720504.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733"}],"workable":[{"server":"dn720504.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733"}]},"created":1794778226,"d1":"ia600504.us.archive.org","d2":"ia800504.us.archive.org","dir":"/18/items/bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1783445022","size":"19198","md5":"9e398025b42bd7084a9041cce5905f68","crc32":"0a83dee0","sha1":"50bc0db68ec4066423e939530dc3dea430413517","format":"Item Tile","rotation":"0"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_page_numbers.json","mtime":"1698707554","size":"37290051","md5":"cbcfddce2ce2dbaaa8d6d3ff1501a9b6","crc32":"387355cf","sha1":"e412fe3625c224c00aeb738abec07f3135afa7cc"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_archive.torrent","source":"metadata","btih":"af48e57e5c5bb60c5be3f2fa59c3ed4406a583c3","mtime":"1783445026","size":"19652","md5":"cca09aa0fbe603eb4521c563ac59dd13","crc32":"8a552437","sha1":"15d13011911521d2017f500f60375c66c04d89ad","format":"Archive BitTorrent"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_jp2.zip","mtime":"1698705431","size":"2271623","md5":"51cc3764066d00ab1f48bcbb690ba4c4","crc32":"61cdc21d","sha1":"9d20a3cc20576a0bf4f6fc1c56439190c8588403"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_djvu.txt","source":"derivative","format":"DjVuTXT","original":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_djvu.xml","mtime":"1698705791","size":"151975","md5":"d214f7faf58b79e0c6d1b892cb587906","crc32":"469003df","sha1":"acf95e6535509f86f1108845fb679e44d2961d2a"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_djvu.xml","source":"derivative","format":"Djvu XML","original":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_hocr.html","mtime":"1698705574","size":"2196458","md5":"48ee7d88a835937e2eccebc8ea333efe","crc32":"e833f2ba","sha1":"77cd3dc6ed77810da5169270120a4516eb21ddcf"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_files.xml","source":"original","format":"Metadata","md5":"59c77248569dc112bb7c4c6b4970037e","summation":"md5"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_frame-md.json","source":"original","mtime":"1698700067","size":"222","md5":"7195a0fc940baa45495e33ad1126f420","crc32":"f7990138","sha1":"4821634c4d8ce9be19a557e68d429a20fbdb78f0","format":"JSON"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_chocr.html.gz","mtime":"1698705535","size":"4336332","md5":"21002ea5a046f4e5ed32660c720d86ed","crc32":"c05d8f33","sha1":"6b4990c188034c12ba2422649f10028b074a9aaa"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_hocr.html","mtime":"1698705632","size":"903","md5":"e8a42a79075aa15cd804c49e0f2786ea","crc32":"53e1c418","sha1":"b96dcfe16d46a6a5c64c03302d66c3578cbceaf2"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"157","word_conf_11_20":"98","word_conf_21_30":"181","word_conf_31_40":"220","word_conf_41_50":"273","word_conf_51_60":"356","word_conf_61_70":"467","word_conf_71_80":"678","word_conf_81_90":"1841","word_conf_91_100":"22922","format":"OCR Search Text","original":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_hocr.html","mtime":"1698705748","size":"56313","md5":"ea328b0c1d17e8368fab2cb55e5c4145","crc32":"0d315e39","sha1":"826908f874839018f9e0e6d88a46b0342e4c07fc"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_itemimage.png","source":"original","mtime":"1698700069","size":"4055918","md5":"24761dce9c50fda0cb860ff21f4c9a63","crc32":"a4c27ba9","sha1":"2ed4882862102555be7dd99df56ad7f634d68e44","format":"Item Image"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_jp2.zip","source":"original","mtime":"1698700052","size":"297718057","md5":"bf66f0899583c0436fff63f12d0f9f8d","crc32":"a448a157","sha1":"2b170dee158a1ff819e1e7f569bf01f71f26a023","preview-image":"n0","format":"Single Page Processed JP2 ZIP","filecount":"76"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_meta.sqlite","source":"original","mtime":"1698700082","size":"65536","md5":"9ec55b3dbf1003fb4f6fcbfa9b517f7c","crc32":"9ea43318","sha1":"ed0bf426c23733cad105b7754c38114837a95e28","format":"Metadata"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_meta.xml","source":"original","mtime":"1783445020","size":"3701","md5":"4556979191b2d4ef65221d4803156f2b","crc32":"3961b7ef","sha1":"99cbb1c388c282193fbb77e93bf3d6ee2336e8e9","format":"Metadata"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"87","format":"Page Numbers JSON","original":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_hocr.html","mtime":"1698706277","size":"12939","md5":"06a32e2adeb9dde4b673f9cccbe83322","crc32":"4a4b03a3","sha1":"8ec3cec3e2b53f13e2af5420fdb51a4e9188c384"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_rotations.json","source":"original","mtime":"1698700064","size":"6858","md5":"29723c9c225975cd24e46c366a98e0e5","crc32":"eebcf458","sha1":"7f2f39487584a8621bbcb2215b5c1b995f406ef3","format":"JSON"},{"name":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_scandata.xml","source":"derivative","format":"Scandata","original":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_djvu.xml","mtime":"1698706277","size":"26862","md5":"40f0d795112a7d5cf8fed273ede85c14","crc32":"5b483e77","sha1":"8011d66ffb151e2810c216caf5704c41f4b0af76"},{"name":"header\/header_0000.jp2","source":"original","mtime":"1698700073","size":"762602","md5":"64e3a4f95eca2d861fd8d4b9d26cc65b","crc32":"721e4f1c","sha1":"62be02f674f72fed99d8aa871e029cb32351687d","format":"JPEG 2000"},{"name":"header\/header_0001.jp2","source":"original","mtime":"1698700074","size":"1468787","md5":"993f988c3d6ae7c7e4025906f4e4fc2d","crc32":"ca6514a8","sha1":"6ad09d99f42e7280a8514f50fec22faefb7f9593","format":"JPEG 2000"},{"name":"header\/header_0002.jp2","source":"original","mtime":"1698700078","size":"3818310","md5":"5d60ee86a6357d350b858d62f1baaacc","crc32":"77c7e2dd","sha1":"1ec122abb82deb327609f74be686bd2047797e5a","format":"JPEG 2000"},{"name":"header\/header_0003.jp2","source":"original","mtime":"1698700076","size":"1571739","md5":"1fe6aa495fb3006638af15f4c58e706a","crc32":"3105adb9","sha1":"f527b7d11684de5a7fc4d91c178d72fa7ea3dfd6","format":"JPEG 2000"},{"name":"header\/header_0004.jp2","source":"original","mtime":"1698700071","size":"1368764","md5":"3fffaf729fc9f102fe95f8620032df5d","crc32":"b8045090","sha1":"0935259c1b2b81113cfa1c27e5bdedd1921c2a34","format":"JPEG 2000"}],"files_count":23,"frame-md":{"header": {"right_to_left": null, "frame_start": 1, "frame_end": 5}, "issue": {"right_to_left": null, "frame_start": 99, "frame_cover": 99, "frame_end": 137, "cover_reverse_handedness": false, "split_start_frame": false}},"item_last_updated":1783445027,"item_size":357222800,"metadata":{"identifier":"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733","adaptive_ocr":"true","auditor":"associate-jobert-apor@archive.org","betterpdf":"true","boxid":"IA40312806","canister":"IA40312806-03","collection":["pub_eighteenth-century","bim_microfilm","microfilm"],"collection-catalog-number":"t028046","contrast_max":"155","contrast_min":"34","contributor":"Internet Archive","copies":"2","creator":"Ilive, Jacob","date":"1733","derive_version":"0.0.23","description":"The oration spoke at Joyners-hall in Thames street: on Monday, Sept. 24. 1733. Pursuant to the will of Mrs. Jane Ilive, ... By her son and excutor. 1733..<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40312806-03/page/n68\" rel=\"ugc nofollow\">IA40312806-03</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_the-present-and-future-_knight-samuel_1729\" rel=\"ugc nofollow\">bim_eighteenth-century_the-present-and-future-_knight-samuel_1729</a>.<br />Next issue: <a href=\"https://archive.org/details/bim_eighteenth-century_the-foundations-of-relig_layman_1755\" rel=\"ugc nofollow\">bim_eighteenth-century_the-foundations-of-relig_layman_1755</a>.","language":"English","mediatype":"texts","metadata_operator":"associate-jerald-capanay@archive.org","next_item":"bim_eighteenth-century_the-foundations-of-relig_layman_1755","ppi":"800","previous_item":"bim_eighteenth-century_the-present-and-future-_knight-samuel_1729","pub_type":"Books","scanner":"microfilm04.cebu.archive.org","scanningcenter":"cebu","sim_pubid":"24073","software_version":"nextStar 4.5.0.20626","source":["IA40312806-03","microfilm"],"subject":["Language & Literature","Literary And Political Reviews","General Interest Periodicals--United Kingdom","Law","Philosophy & Religion","Fine & Performing Arts","Social Sciences","History","History--History of North And South America","Books","microfilm"],"title":"The oration spoke at Joyners-hall in Thames street: on Monday, Sept. 24. 1733. Pursuant to the will of Mrs. Jane Ilive, ... By her son and excutor.  1733","uploader":"merlijn+microfilmderiver@archive.org","publicdate":"2023-10-30 21:07:43","addeddate":"2023-10-30 21:07:43","identifier-access":"http://archive.org/details/bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733","identifier-ark":"ark:/13960/s23dmngj34m","imagecount":"76","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"-l enm+Fraktur","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"87","page_number_module_version":"1.0.3","pdf_module_version":"0.0.23"},"page_numbers":{
+    "identifier": "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 87,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": 63,
+            "pageNumber": "2",
+            "pageProb": 53,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 10,
+            "confidence": 93,
+            "pageNumber": "3",
+            "pageProb": 83,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 11,
+            "confidence": 100,
+            "pageNumber": "4",
+            "pageProb": 98,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 12,
+            "confidence": 100,
+            "pageNumber": "5",
+            "pageProb": 98,
+            "wordConf": 86
+        },
+        {
+            "leafNum": 13,
+            "confidence": 71,
+            "pageNumber": "6",
+            "pageProb": 61,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "7",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "8",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": null,
+            "pageNumber": "9",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "10",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": 84,
+            "pageNumber": "11",
+            "pageProb": 74,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 19,
+            "confidence": null,
+            "pageNumber": "12",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 20,
+            "confidence": null,
+            "pageNumber": "13",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 21,
+            "confidence": null,
+            "pageNumber": "14",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 22,
+            "confidence": null,
+            "pageNumber": "15",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 23,
+            "confidence": null,
+            "pageNumber": "16",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 24,
+            "confidence": 95,
+            "pageNumber": "17",
+            "pageProb": 85,
+            "wordConf": 80
+        },
+        {
+            "leafNum": 25,
+            "confidence": null,
+            "pageNumber": "18",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 26,
+            "confidence": null,
+            "pageNumber": "19",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 27,
+            "confidence": null,
+            "pageNumber": "20",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 28,
+            "confidence": 92,
+            "pageNumber": "21",
+            "pageProb": 82,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 29,
+            "confidence": null,
+            "pageNumber": "22",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 30,
+            "confidence": 86,
+            "pageNumber": "23",
+            "pageProb": 76,
+            "wordConf": 87
+        },
+        {
+            "leafNum": 31,
+            "confidence": null,
+            "pageNumber": "24",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 32,
+            "confidence": 73,
+            "pageNumber": "25",
+            "pageProb": 63,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 33,
+            "confidence": null,
+            "pageNumber": "26",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 34,
+            "confidence": 78,
+            "pageNumber": "27",
+            "pageProb": 68,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 35,
+            "confidence": null,
+            "pageNumber": "28",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 36,
+            "confidence": 82,
+            "pageNumber": "29",
+            "pageProb": 72,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 37,
+            "confidence": null,
+            "pageNumber": "30",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 38,
+            "confidence": 92,
+            "pageNumber": "31",
+            "pageProb": 82,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 39,
+            "confidence": null,
+            "pageNumber": "32",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 40,
+            "confidence": 88,
+            "pageNumber": "33",
+            "pageProb": 78,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 41,
+            "confidence": 70,
+            "pageNumber": "34",
+            "pageProb": 60,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 42,
+            "confidence": 86,
+            "pageNumber": "35",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 43,
+            "confidence": null,
+            "pageNumber": "36",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 44,
+            "confidence": 93,
+            "pageNumber": "37",
+            "pageProb": 83,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 45,
+            "confidence": 72,
+            "pageNumber": "38",
+            "pageProb": 62,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 46,
+            "confidence": null,
+            "pageNumber": "39",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 47,
+            "confidence": 70,
+            "pageNumber": "40",
+            "pageProb": 60,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 48,
+            "confidence": 90,
+            "pageNumber": "41",
+            "pageProb": 80,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 49,
+            "confidence": 82,
+            "pageNumber": "42",
+            "pageProb": 72,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 50,
+            "confidence": null,
+            "pageNumber": "43",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 51,
+            "confidence": 78,
+            "pageNumber": "44",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 52,
+            "confidence": 93,
+            "pageNumber": "45",
+            "pageProb": 83,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 53,
+            "confidence": 92,
+            "pageNumber": "46",
+            "pageProb": 82,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 54,
+            "confidence": 100,
+            "pageNumber": "47",
+            "pageProb": 97,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 55,
+            "confidence": 69,
+            "pageNumber": "48",
+            "pageProb": 59,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 56,
+            "confidence": null,
+            "pageNumber": "49",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 57,
+            "confidence": 79,
+            "pageNumber": "50",
+            "pageProb": 69,
+            "wordConf": 56
+        },
+        {
+            "leafNum": 58,
+            "confidence": 88,
+            "pageNumber": "51",
+            "pageProb": 78,
+            "wordConf": 83
+        },
+        {
+            "leafNum": 59,
+            "confidence": null,
+            "pageNumber": "52",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 60,
+            "confidence": 100,
+            "pageNumber": "53",
+            "pageProb": 92,
+            "wordConf": 81
+        },
+        {
+            "leafNum": 61,
+            "confidence": 90,
+            "pageNumber": "54",
+            "pageProb": 80,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 62,
+            "confidence": 100,
+            "pageNumber": "55",
+            "pageProb": 97,
+            "wordConf": 87
+        },
+        {
+            "leafNum": 63,
+            "confidence": 84,
+            "pageNumber": "56",
+            "pageProb": 74,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 64,
+            "confidence": 86,
+            "pageNumber": "57",
+            "pageProb": 76,
+            "wordConf": 73
+        },
+        {
+            "leafNum": 65,
+            "confidence": null,
+            "pageNumber": "58",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 66,
+            "confidence": 97,
+            "pageNumber": "59",
+            "pageProb": 87,
+            "wordConf": 78
+        },
+        {
+            "leafNum": 67,
+            "confidence": null,
+            "pageNumber": "60",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 68,
+            "confidence": 65,
+            "pageNumber": "61",
+            "pageProb": 55,
+            "wordConf": 86
+        },
+        {
+            "leafNum": 69,
+            "confidence": null,
+            "pageNumber": "62",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 70,
+            "confidence": null,
+            "pageNumber": "63",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 71,
+            "confidence": 74,
+            "pageNumber": "64",
+            "pageProb": 64,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 72,
+            "confidence": null,
+            "pageNumber": "65",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 73,
+            "confidence": 100,
+            "pageNumber": "66",
+            "pageProb": 97,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 74,
+            "confidence": 100,
+            "pageNumber": "67",
+            "pageProb": 99,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 75,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"rotations":{"issue": {"mean": -0.4086538648648648, "std": 0.6182692332383116, "lh_mean": -0.3613398611111111, "lh_std": 0.7311642985615534, "rh_mean": -0.4534776578947368, "rh_std": 0.4835293353363957}, "pages": {"bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0000.jp2": -1.223086, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0001.jp2": null, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0002.jp2": -1.133268, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0003.jp2": -0.805951, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0004.jp2": 0.194507, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0005.jp2": -0.247038, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0006.jp2": -0.140797, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0007.jp2": -1.012683, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0008.jp2": -0.310211, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0009.jp2": -1.312861, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0010.jp2": -0.759975, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0011.jp2": -1.703974, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0012.jp2": -0.737386, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0013.jp2": -1.025743, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0014.jp2": -0.987582, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0015.jp2": -1.511849, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0016.jp2": -0.507609, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0017.jp2": -0.564693, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0018.jp2": -0.122191, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0019.jp2": -1.851881, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0020.jp2": -0.485847, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0021.jp2": -0.660057, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0022.jp2": -1.092993, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0023.jp2": -0.366643, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0024.jp2": 0.025156, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0025.jp2": 0.071361, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0026.jp2": 0.262555, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0027.jp2": -0.867185, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0028.jp2": -0.596763, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0029.jp2": 0.150481, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0030.jp2": -0.750561, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0031.jp2": -0.293096, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0032.jp2": -1.237207, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0033.jp2": 0.211468, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0034.jp2": -0.426879, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0035.jp2": -0.744054, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0036.jp2": -0.742305, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0037.jp2": -0.046566, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0038.jp2": -0.795464, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0039.jp2": -0.384697, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0040.jp2": -0.764889, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0041.jp2": -0.396723, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0042.jp2": -0.148224, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0043.jp2": -0.898275, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0044.jp2": -1.189088, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0045.jp2": -0.332995, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0046.jp2": -0.366414, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0047.jp2": -1.054543, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0048.jp2": -0.659731, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0049.jp2": -0.09831, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0050.jp2": -0.427402, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0051.jp2": 0.317736, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0052.jp2": -0.139921, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0053.jp2": 0.626091, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0054.jp2": 0.007874, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0055.jp2": -0.102722, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0056.jp2": 0.498947, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0057.jp2": 0.083736, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0058.jp2": 0.350654, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0059.jp2": -1.217528, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0060.jp2": -0.625546, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0061.jp2": 1.621942, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0062.jp2": 0.325011, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0063.jp2": 0.118553, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0064.jp2": -0.208837, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0065.jp2": 0.009784, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0066.jp2": 0.330272, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0067.jp2": -0.434716, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0068.jp2": -1.135844, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0069.jp2": 0.968191, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0070.jp2": -0.432275, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0071.jp2": 0.563615, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0072.jp2": -0.218618, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0073.jp2": 0.18359, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0074.jp2": -0.860214, "bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733_0075.jp2": null}},"server":"ia800504.us.archive.org","uniq":285917602,"workable_servers":["ia800504.us.archive.org","ia600504.us.archive.org"]}

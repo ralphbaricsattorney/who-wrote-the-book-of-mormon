@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SECTION 127 - Doctrine and Covenants</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script src="../../lib/soundmanager/script/soundmanager2.js"></script>
+	<script src="../../js/bar-ui.js"></script>
+	<script src="../../js/sidebar.js"></script>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css'>
+	<link rel="stylesheet" type="text/css" href="../../css/site.css">
+	<link rel="stylesheet" href="../../css/bar-ui.css" />
+	<link rel="stylesheet" href="../../css/bootstrap_5_0_0_sidebar.css">
+	<script src="../js/chapterdata.js"></script>
+	<script src="../js/navscripts.js"></script>
+	<script>document.addEventListener('copy', (event) => {copyAddBook();} );</script>
+	<style>
+html {
+    height: 100%;
+	min-height: 100%;
+    padding: 0px 0px;
+} 
+body {
+    height: 100%;
+	overflow: hidden;
+    padding: 0px 0px;
+    margin: 0px 0px;	
+}
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px; 
+	z-index: 1;
+	background-color: skyblue;
+	text-align: center;
+}
+.header-padding {
+	padding-top: 70px; 
+}
+.content {
+    position: relative;
+    height: 100%;
+    height: -webkit-calc(100% - 60px);
+    height: -moz-calc(100% - 60px);
+    height: calc(100% - 60px);
+	overflow-y: auto;
+	padding: 0px 2px 50px 3px; 
+	margin: 0px 0px 0px 0px; 	
+ }
+	</style>
+</head>
+<body onload="setupNav();">
+<header>
+	<span id="BkName"><b>DC</b></span>&nbsp;
+	<select id="selectedBook" onChange="updateBook()">
+		<option value="../../library/default.asp">Home</option>
+	</select>
+	<select id="selectedChapter" onchange="updateChapter()">
+	</select>
+	<input id="selectedVerse" type="hidden" value="1"><br>
+
+	<div class="sm2-bar-ui">
+	 <div class="bd sm2-main-controls">
+	  <div class="sm2-inline-element sm2-button-element">
+	   <div class="sm2-button-bd">
+		<a href="#play" class="sm2-inline-button sm2-icon-play-pause">Play / pause</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-inline-status">
+	   <div class="sm2-playlist">
+		<div class="sm2-playlist-target">
+		 <!-- playlist <ul> + <li> markup will be injected here -->
+		 <noscript><p>JavaScript is required.</p></noscript>
+		</div>
+	   </div>
+
+	   <div class="sm2-progress">
+		<div class="sm2-row">
+		<div class="sm2-inline-time">0:00</div>
+		 <div class="sm2-progress-bd">
+		  <div class="sm2-progress-track">
+		   <div class="sm2-progress-bar"></div>
+		   <div class="sm2-progress-ball"><div class="icon-overlay"></div></div>
+		  </div>
+		 </div>
+		 <div class="sm2-inline-duration">0:00</div>
+		</div>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-volume">
+	   <div class="sm2-button-bd">
+		<span class="sm2-inline-button sm2-volume-control volume-shade"></span>
+		<a href="#volume" class="sm2-inline-button sm2-volume-control">volume</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-menu">
+	   <div class="sm2-button-bd">
+		<a href="#menu" class="sm2-inline-button sm2-icon-menu">menu</a>
+	   </div>
+	  </div>
+	 </div>
+	 <div class="bd sm2-playlist-drawer sm2-element">
+	  <!-- playlist content is mirrored here -->
+	  <div class="sm2-playlist-wrapper">
+		<ul id="listAudioLinks" class="sm2-playlist-bd">
+		</ul>
+	  </div>
+	 </div>
+	</div>
+</header>
+<div class="header-padding"></div>
+<div class="content">
+<br>
+<h2 class="Book text-center" data-abbr="D&C">Doctrine and Covenants</h2><h3 class="text-center">Section 127</h3>
+<p class="Pcope red">April 14, 1906-Independence, Missouri. Revelation through Joseph Smith III regarding temporal ministry.</p>
+<p class="Pcope red">Establish a sanitarium to care for the sick, with Apostle Joseph Luff to be medical director-Establish a home for children-Joseph Burton to minister in the South Sea Islands-Counsel on the gathering-Designation of Frederick M. Smith as successor to Joseph Smith III</p>
+<p class="Pcope red">Thus saith the Spirit unto the Church:</p>
+<a name="v1a"><p class="Verse">D&C 127:1a It is the will of the Lord that a sanitarium, a place of refuge and help for the sick and afflicted, be established by the church at Independence, Missouri, as my servant Joseph Smith has already stated to you.</p></a>
+<a name="v1b"><p class="Verse">D&C 127:1b This should be done as soon as it is found to be practicable and without unnecessary delay.</p></a>
+<a name="v1c"><p class="Verse">D&C 127:1c The Presiding Bishop and his counselors and the Bishopric of the Independence Stake should take counsel together in locating and establishing this sanitarium.</p></a>
+<a name="v2a"><p class="Verse">D&C 127:2a It is also expedient that these should be assisted by the advice and counsel of one of my servants who is acquainted with the laws of health and the practice of medicine and who may have charge when the institution is established.</p></a>
+<a name="v2b"><p class="Verse">D&C 127:2b It is in accordance with the instruction given to my servant Joseph Smith that my servant Joseph Luff, who has been giving his attention to the study of medicine and has been preparing himself for usefulness in this direction, be associated with this sanitarium as a medical director and physician to the church and be put in charge,</p></a>
+<a name="v2c"><p class="Verse">D&C 127:2c that he may be an assistant to those who seek the aid of this institution of the church in his spiritual office and his calling as a physician,</p></a>
+<a name="v2d"><p class="Verse">D&C 127:2d with those who from time to time may be called to administer in laying hands upon the afflicted and sick, where they may be removed from the influences and environments unfavorable to the exercise of proper faith unto the healing of the sick.</p></a>
+<a name="v2e"><p class="Verse">D&C 127:2e And this my servant Joseph Luff may do and retain and exercise his apostleship.</p></a>
+<a name="v3"><p class="Verse">D&C 127:3 There should also be a home for children established; and the efforts of the Daughters of Zion should be approved and carried unto completion as soon as is consistent with the necessary demands of the work of the church in other directions.</p></a>
+<a name="v4a"><p class="Verse">D&C 127:4a In the establishment of the sanitarium and the home for children, debt should not be contracted nor too large nor expensive buildings be built at the outset.</p></a>
+<a name="v4b"><p class="Verse">D&C 127:4b Those to whom this work is assigned should exercise the necessary degree of wisdom, that the work be effectual for the intent and purposes designed.</p></a>
+<a name="v5a"><p class="Verse">D&C 127:5a It is necessary that some, one or more, be sent to the South Sea Islands. The heaving of the sea beyond its bounds has been trying to the faith of many of the Saints in that far-off region.</p></a>
+<a name="v5b"><p class="Verse">D&C 127:5b They should be visited, and comforted, and encouraged.</p></a>
+<a name="v5c"><p class="Verse">D&C 127:5c Someone of experience and knowledge of the situation should be sent, accompanied by another, who should be prepared to make a stay of years, if necessary, in the mission to those islands.</p></a>
+<a name="v5d"><p class="Verse">D&C 127:5d My servant Joseph F. Burton, though aged, will be an efficient officer and representative of the faith and, choosing someone to go with him, may be intrusted with this difficult mission.</p></a>
+<a name="v6"><p class="Verse">D&C 127:6 It is the will of the Lord that the mission to Utah and the west should be continued and suitable representatives of the church be sent and maintained there under the conditions prevailing at the present time. It is essential that the church have proper representatives there.</p></a>
+<a name="v7a"><p class="Verse">D&C 127:7a As the Saints have heretofore been instructed in reference to the gathering, they are now again admonished that the gathering must not be in haste nor without due preparation,</p></a>
+<a name="v7b"><p class="Verse">D&C 127:7b and must be done in accordance with the revelation given to the church upon Fishing River and in accordance with the counsel and advice of the elders of the church whose duty it has been made to counsel and advise the Saints.</p></a>
+<a name="v7c"><p class="Verse">D&C 127:7c The spirit of speculation, the exhibition of greed for gain, is unseemly in the Saints and officers of the church and should be avoided. It has the appearance of evil.</p></a>
+<a name="v7d"><p class="Verse">D&C 127:7d Heed should be paid to the admonitions of those who from time to time preach and write upon the gathering-to remove the principle of selfishness from the hearts of the Saints and especially from those upon whom rests the burden of the church and its ministrations abroad.</p></a>
+<a name="v8a"><p class="Verse">D&C 127:8a Inasmuch as misunderstanding has occurred in regard to the meaning of a revelation hitherto given through my servant Joseph Smith in regard to who should be called to preside in case my servant should be taken away or fall by transgression,</p></a>
+<a name="v8b"><p class="Verse">D&C 127:8b it is now declared that, in case of the removal of my servant now presiding over the church by death or transgression, my servant Frederick M. Smith, if he remain faithful and steadfast, should be chosen in accordance with the revelations which have been hitherto given to the church concerning the priesthood.</p></a>
+<a name="v8c"><p class="Verse">D&C 127:8c Should my servant Frederick M. Smith prove unstable and unfaithful, another may be chosen according to the law already given.</p></a>
+<p class="Pcope red">Independence, Missouri</p>
+<p class="Pcope red">April 14, 1906</p>
+</div>
+</body>
+</html>

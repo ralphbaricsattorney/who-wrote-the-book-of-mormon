@@ -1,0 +1,3 @@
+# image: A_001
+# page: none
+# status: cover

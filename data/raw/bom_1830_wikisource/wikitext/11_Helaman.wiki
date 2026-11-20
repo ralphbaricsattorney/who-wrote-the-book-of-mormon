@@ -1,0 +1,21 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = The Book of Helaman
+ | previous    = [[Book of Mormon (1830)/Alma|Alma]]
+ | next        = [[Book of Mormon (1830)/3 Nephi|3 Nephi]]
+ | year        = 1830 
+ | notes       = <br>{{engine|The Book of Mormon|work=Book of Mormon (1830)}}
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" include="411" onlysection="TITLE" />
+
+{{AuxTOC|title=Chapters:|{{TOC begin}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Helaman/Chapter 1|Chapter I]]|407}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Helaman/Chapter 2|Chapter II]]|412}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Helaman/Chapter 3|Chapter III]]|426}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Helaman/Chapter 4|Chapter IV]]|436}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Helaman/Chapter 5|Chapter V]]|441}}
+{{TOC end}}}}
+
+{{dhr}}

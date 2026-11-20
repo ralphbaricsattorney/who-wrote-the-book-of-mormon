@@ -1,0 +1,659 @@
+{"alternate_locations":{"servers":[{"server":"dn720205.ca.archive.org","dir":"/0/items/bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799"}],"workable":[{"server":"dn720205.ca.archive.org","dir":"/0/items/bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799"}]},"created":1794778191,"d1":"ia600800.us.archive.org","d2":"ia800800.us.archive.org","dir":"/11/items/bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1691888565","size":"16814","md5":"031aba4f721589af58fb0cffda1b1f6f","crc32":"d954e21f","sha1":"f12f945733f46fe8bacf6148202706d13f0ca102","format":"Item Tile","rotation":"0"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_page_numbers.json","mtime":"1691888521","size":"164761877","md5":"2639b6a57f3ed0fb266cd19eee12d7fa","crc32":"26ce40a7","sha1":"09b62509d92239484aa19fab00f182073dca4c01"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_archive.torrent","source":"metadata","btih":"d715d25a5201bb4696451eafe510f8b322944f2e","mtime":"1783447605","size":"41837","md5":"c5813fae35cabed2ae728c21c59eb6f7","crc32":"70a2d052","sha1":"5dfd49f37f8ddb107d4a7c4c2cc7e1d65dd29ae9","format":"Archive BitTorrent"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.8792","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_jp2.zip","mtime":"1691886148","size":"3116221","md5":"51555daf94f7e5fec9d96b3f6d14762f","crc32":"f8c25ca1","sha1":"346ce934163fb9243723a4c8e002ab32699937d6"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_djvu.txt","source":"derivative","format":"DjVuTXT","original":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_djvu.xml","mtime":"1691886250","size":"197139","md5":"b186a2fd2e2f2eea2bd2c424f4abb1f9","crc32":"cceb9646","sha1":"f6c220ceb972ec776956663b2bf18a62671e29af"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_djvu.xml","source":"derivative","format":"Djvu XML","original":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_hocr.html","mtime":"1691886204","size":"3409673","md5":"e60498756cccd6981c7de9feed12cb57","crc32":"46b4f3d7","sha1":"d90d6fc65e867154772b5ead8fc20d6400f1d946"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_files.xml","source":"original","format":"Metadata","md5":"0af882ebfccbea414f638cc2c2a89ae3","summation":"md5"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_frame-md.json","source":"original","mtime":"1691822571","size":"224","md5":"119455c3d0f78bd0dea4c97085a92022","crc32":"befabc1d","sha1":"d988db51e4ff994336d3764858d751e334b465ec","format":"JSON"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.8792","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_chocr.html.gz","mtime":"1691886187","size":"7033758","md5":"bd095dad984deb9488ec49d8de5f9d78","crc32":"0e0cdf6b","sha1":"c25f131179072bf6d4cfdf473710f032966a277d"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_hocr.html","mtime":"1691886222","size":"1122","md5":"0ed98b1812b9c9337b16adc8d5c31e83","crc32":"17df4721","sha1":"9dc6f5c7b458eaa8b24e0c0d17ea7d2b1cf1c85d"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"2008","word_conf_11_20":"1532","word_conf_21_30":"2288","word_conf_31_40":"2686","word_conf_41_50":"2742","word_conf_51_60":"2509","word_conf_61_70":"2567","word_conf_71_80":"2653","word_conf_81_90":"4758","word_conf_91_100":"17536","format":"OCR Search Text","original":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_hocr.html","mtime":"1691886241","size":"85975","md5":"3690797f24c6cd51854aae20f52d5b7a","crc32":"1c79b8f8","sha1":"1782418fe7646b3404360afdb272111e4df169bd"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_itemimage.png","source":"original","mtime":"1691822563","size":"7711970","md5":"df469f7b2dd9e519a4c6c0a70e711c77","crc32":"e1fa9c02","sha1":"97d01af9bf0f20c529c51001e6d51541371f6445","format":"Item Image"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_jp2.zip","source":"original","mtime":"1691822548","size":"719372315","md5":"239ba1d2430ae813ab2963849aaf168e","crc32":"34ae5e99","sha1":"95756d9d1e166d3a42041cd54245e831eedb96e7","preview-image":"n0","format":"Single Page Processed JP2 ZIP","filecount":"93"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_meta.sqlite","source":"original","mtime":"1691822713","size":"65536","md5":"64821f0c5576a4cf9869a49196e16f3e","crc32":"909acb4b","sha1":"29312ada32d686458d80cc2b8349aac2de567530","format":"Metadata"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_meta.xml","source":"original","mtime":"1783447594","size":"3542","md5":"f7bc3652c0ad984440ee4b414d3cd0fb","crc32":"f5738fc4","sha1":"38ece1e788f7594495323bdfb064556a2aa8d10b","format":"Metadata"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_hocr.html","mtime":"1691886400","size":"15910","md5":"168e62e416e8730a55129b91d8bff6bd","crc32":"cc2ff7f6","sha1":"a442e04c82a3915a8e70875894af9c5246cf2ee3"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_rotations.json","source":"original","mtime":"1691822567","size":"8536","md5":"1dd7a55bc24d3c6af20f2ebed29762d9","crc32":"03e6f8e4","sha1":"8bded5627ffd6e29e64be31c09061671f6cd24e3","format":"JSON"},{"name":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_scandata.xml","source":"derivative","format":"Scandata","original":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_djvu.xml","mtime":"1691886400","size":"30068","md5":"d01665bea9b7f6750761eb50d9adf8fc","crc32":"d6d094c8","sha1":"09567ddc1a11d5f3c1e15dc3f3755f78521bb14b"},{"name":"header\/header_0000.jp2","source":"original","mtime":"1691822595","size":"1945685","md5":"26c955fcfb33962e233f3ad04b8dcba7","crc32":"23159846","sha1":"16b566d5daa62b0d0e4b07c6a7937bf2b899ac4b","format":"JPEG 2000"},{"name":"header\/header_0001.jp2","source":"original","mtime":"1691822591","size":"3687932","md5":"0a0bd89d142ff412ca8e7b7be4176a89","crc32":"3cbf0baa","sha1":"78d65901b445701fb5a03d19d3f6e61baeca7554","format":"JPEG 2000"},{"name":"header\/header_0002.jp2","source":"original","mtime":"1691822575","size":"3260021","md5":"a2b794e5c05e948a1be7609a70bd7327","crc32":"5fdc990c","sha1":"9d9f3ead1a93a3865140e01ab914ce694e00c630","format":"JPEG 2000"},{"name":"header\/header_0003.jp2","source":"original","mtime":"1691822603","size":"3206268","md5":"17339e6d825d656e669b08c32ba80731","crc32":"e1f91583","sha1":"c1ffe959ad281a2ffdd44b82163b5c764e8b2076","format":"JPEG 2000"},{"name":"header\/header_0004.jp2","source":"original","mtime":"1691822587","size":"3254149","md5":"2eda703312e98ef38d2cbd693e1c8518","crc32":"0ce1d984","sha1":"311c6a33b1d37a99605fae5d219dfd066c6c771d","format":"JPEG 2000"},{"name":"header\/header_0005.jp2","source":"original","mtime":"1691822579","size":"3286761","md5":"282a72e3923e4298a270a8527817d1e4","crc32":"3c1828c2","sha1":"83081487b91b74c6c81c1e35e0b8328e8b1bc91a","format":"JPEG 2000"},{"name":"header\/header_0006.jp2","source":"original","mtime":"1691822583","size":"3767937","md5":"774da28f462a5ccf7d3b34204f5db2f7","crc32":"d20fddd7","sha1":"448077eaff3d482f4b14bbecb5d1953c6d9384ee","format":"JPEG 2000"}],"files_count":25,"frame-md":{"header": {"right_to_left": null, "frame_start": 1, "frame_end": 7}, "issue": {"right_to_left": null, "frame_start": 624, "frame_cover": 624, "frame_end": 671, "cover_reverse_handedness": false, "split_start_frame": false}},"item_last_updated":1783447606,"item_size":928281270,"metadata":{"identifier":"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799","adaptive_ocr":"true","auditor":"associate-jonathan-balignot@archive.org","betterpdf":"true","boxid":"IA40310301","canister":"IA40310301-71","collection":["pub_eighteenth-century","bim_microfilm","microfilm"],"collection-catalog-number":"t088232","contrast_max":"87","contrast_min":"19","contributor":"Internet Archive","copies":"2","creator":"O'Connor, Roger","date":"1799","derive_version":"0.0.22","description":"To the people of Great Britain and Ireland. By Roger O'Connor. 1799..<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40310301-71/page/n357\" rel=\"ugc nofollow\">IA40310301-71</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_letters-lately-printed-i_leyal-p_1780\" rel=\"ugc nofollow\">bim_eighteenth-century_letters-lately-printed-i_leyal-p_1780</a>.<br />Next issue: <a href=\"https://archive.org/details/bim_eighteenth-century_a-true-account-of-the-la_wagstaffe-a_1716\" rel=\"ugc nofollow\">bim_eighteenth-century_a-true-account-of-the-la_wagstaffe-a_1716</a>.","language":"English","mediatype":"texts","metadata_operator":"associate-jannine-ompad@archive.org","next_item":"bim_eighteenth-century_a-true-account-of-the-la_wagstaffe-a_1716","ppi":"800","previous_item":"bim_eighteenth-century_letters-lately-printed-i_leyal-p_1780","pub_type":"Books","scanner":"microfilm03.cebu.archive.org","scanningcenter":"cebu","sim_pubid":"24073","software_version":"nextStar 4.5.0.20626","source":["IA40310301-71","microfilm"],"subject":["Language & Literature","Literary And Political Reviews","General Interest Periodicals--United Kingdom","Law","Philosophy & Religion","Fine & Performing Arts","Social Sciences","History","History--History of North And South America","Books","microfilm"],"title":"To the people of Great Britain and Ireland. By Roger O'Connor.  1799","uploader":"merlijn+microfilmderiver@archive.org","publicdate":"2023-08-12 06:43:53","addeddate":"2023-08-12 06:43:53","identifier-access":"http://archive.org/details/bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799","identifier-ark":"ark:/13960/s2ht5cfvc02","imagecount":"93","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"-l enm+Fraktur","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.8792","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"0","page_number_module_version":"1.0.3","pdf_module_version":"0.0.23"},"page_numbers":{
+    "identifier": "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 0,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 19,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 20,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 21,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 22,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 23,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 24,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 25,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 26,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 27,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 28,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 29,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 30,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 31,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 32,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 33,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 34,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 35,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 36,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 37,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 38,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 39,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 40,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 41,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 42,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 43,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 44,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 45,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 46,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 47,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 48,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 49,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 50,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 51,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 52,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 53,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 54,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 55,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 56,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 57,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 58,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 59,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 60,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 61,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 62,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 63,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 64,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 65,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 66,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 67,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 68,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 69,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 70,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 71,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 72,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 73,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 74,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 75,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 76,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 77,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 78,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 79,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 80,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 81,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 82,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 83,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 84,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 85,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 86,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 87,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 88,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 89,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 90,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 91,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 92,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"rotations":{"issue": {"mean": -2.1935295, "std": 0.8879368708981542, "lh_mean": -2.229021266666666, "lh_std": 0.8262485804272869, "rh_mean": -2.1580377333333343, "rh_std": 0.9442762973518197}, "pages": {"bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0000.jp2": null, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0001.jp2": 0.121211, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0002.jp2": -1.409579, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0003.jp2": -0.18524, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0004.jp2": 0.382988, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0005.jp2": -2.953037, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0006.jp2": 0.129291, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0007.jp2": -2.689315, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0008.jp2": -0.230799, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0009.jp2": -3.042655, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0010.jp2": -2.17231, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0011.jp2": -0.949352, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0012.jp2": -0.386896, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0013.jp2": -3.106312, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0014.jp2": -2.631309, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0015.jp2": -1.243929, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0016.jp2": -1.721648, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0017.jp2": -1.405574, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0018.jp2": -2.569016, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0019.jp2": -2.260714, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0020.jp2": -1.659697, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0021.jp2": -2.54743, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0022.jp2": -2.333957, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0023.jp2": -1.606812, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0024.jp2": -1.332431, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0025.jp2": -2.715846, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0026.jp2": -2.696111, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0027.jp2": -1.07388, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0028.jp2": -0.969793, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0029.jp2": -2.786834, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0030.jp2": -1.604192, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0031.jp2": -2.427785, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0032.jp2": -1.313689, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0033.jp2": -3.091108, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0034.jp2": -1.025703, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0035.jp2": -3.359294, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0036.jp2": -2.670409, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0037.jp2": -2.329257, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0038.jp2": -2.707783, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0039.jp2": -1.423023, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0040.jp2": -2.129271, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0041.jp2": -3.017965, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0042.jp2": -2.899679, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0043.jp2": -2.167408, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0044.jp2": -2.178233, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0045.jp2": -3.241815, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0046.jp2": -2.804273, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0047.jp2": -2.263932, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0048.jp2": -2.251586, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0049.jp2": -2.82021, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0050.jp2": -2.16021, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0051.jp2": -3.881574, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0052.jp2": -3.188209, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0053.jp2": -1.265876, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0054.jp2": -3.167528, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0055.jp2": -2.713777, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0056.jp2": -2.162024, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0057.jp2": -2.661022, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0058.jp2": -2.814884, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0059.jp2": -1.975396, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0060.jp2": -2.221811, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0061.jp2": -2.213212, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0062.jp2": -2.448992, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0063.jp2": -2.510023, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0064.jp2": -2.070185, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0065.jp2": -2.727898, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0066.jp2": -2.552478, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0067.jp2": -2.710903, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0068.jp2": -4.013968, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0069.jp2": -1.394824, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0070.jp2": -3.051552, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0071.jp2": -1.903508, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0072.jp2": -3.165736, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0073.jp2": -2.094497, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0074.jp2": -2.942918, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0075.jp2": -1.777664, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0076.jp2": -1.88319, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0077.jp2": -3.001719, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0078.jp2": -2.187873, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0079.jp2": -2.388807, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0080.jp2": -2.664912, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0081.jp2": -2.276302, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0082.jp2": -4.181845, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0083.jp2": -0.836565, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0084.jp2": -1.589554, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0085.jp2": -2.39162, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0086.jp2": -2.367967, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0087.jp2": -2.567297, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0088.jp2": -2.228226, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0089.jp2": -2.425957, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0090.jp2": -2.861551, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0091.jp2": null, "bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799_0092.jp2": null}},"server":"ia800800.us.archive.org","uniq":2062509566,"workable_servers":["ia800800.us.archive.org","ia600800.us.archive.org"]}

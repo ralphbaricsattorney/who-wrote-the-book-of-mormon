@@ -1,0 +1,46 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = The Book of Alma
+ | previous    = [[Book of Mormon (1830)/Mosiah|Mosiah]]
+ | next        = [[Book of Mormon (1830)/Helaman|Helaman]]
+ | year        = 1830 
+ | notes       = <br>{{engine|The Book of Mormon|work=Book of Mormon (1830)}}
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" include="225" onlysection="TITLE" />
+
+{{AuxTOC|title=Chapters:|{{TOC begin}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 1|Chapter I]]|221}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 2|Chapter II]]|230}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 3|Chapter III]]|232}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 4|Chapter IV]]|238}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 5|Chapter V]]|239}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 6|Chapter VI]]|242}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 7|Chapter VII]]|245}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 8|Chapter VIII]]|248}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 9|Chapter IX]]|254}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 10|Chapter X]]|259}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 11|Chapter XI]]|266}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 12|Chapter XII]]|269}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 13|Chapter XIII]]|282}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 14|Chapter XIV]]|289}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 15|Chapter XV]]|299}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 16|Chapter XVI]]|304}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 17|Chapter XVII]]|323}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 18|Chapter XVIII]]|330}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 19|Chapter XIX]]|332}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 20|Chapter XX]]|340}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 21|Chapter XXI]]|348}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 22|Chapter XXII]]|362}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 23|Chapter XXIII]]|366}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 24|Chapter XXIV]]|370}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 25|Chapter XXV]]|377}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 26|Chapter XXVI]]|382}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 27|Chapter XXVII]]|393}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 28|Chapter XXVIII]]|398}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 29|Chapter XXIX]]|400}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Alma/Chapter 30|Chapter XXX]]|405}}
+{{TOC end}}}}
+
+{{dhr}}

@@ -1,0 +1,575 @@
+{"alternate_locations":{"servers":[{"server":"dn720004.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742"}],"workable":[{"server":"dn720004.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742"}]},"created":1794778239,"d1":"ia600401.us.archive.org","d2":"ia800401.us.archive.org","dir":"/1/items/bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1783440789","size":"22439","md5":"5ccb09ca12325043c247e5a7b0e3356d","crc32":"c2cf0776","sha1":"92e9ff52b0af09d535a4359f87dbdc02d03bb5cb","format":"Item Tile","rotation":"0"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_page_numbers.json","mtime":"1695680998","size":"37235304","md5":"e9de2c0df8643db2ed2822d305262525","crc32":"c8b32c8d","sha1":"ae3c774b456a7ccc760f78f2082fcec952ef5a52"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_archive.torrent","source":"metadata","btih":"eb95a3924400604a7df1b1273d28c767c9b0836f","mtime":"1783440791","size":"19473","md5":"9f8570e9ea7ae7c0e07c3ccc05a5b162","crc32":"bcd1aae3","sha1":"3441e31059e1b03b092cfa47de4b4883bbbbd9f8","format":"Archive BitTorrent"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"lang-Fraktur;lang-enm;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9738","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_jp2.zip","mtime":"1695677906","size":"1509052","md5":"4247edafa3ef3ee3cc0d39d86accdf2e","crc32":"bce84387","sha1":"989ddc6e9713596f6e98637c6af30b0a9d52f501"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_djvu.txt","source":"derivative","format":"DjVuTXT","original":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_djvu.xml","mtime":"1695678707","size":"98395","md5":"7ccb8dbef0f68cd9f6b0e012e395012d","crc32":"32794107","sha1":"7513e5c4224cb1cac3da25f829bd62f4338bf430"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_djvu.xml","source":"derivative","format":"Djvu XML","original":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_hocr.html","mtime":"1695678371","size":"1523049","md5":"81c475494dd431c531e706581b036519","crc32":"49527c5f","sha1":"d22490c2312efad346a333e017c4c9da52802600"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_files.xml","source":"original","format":"Metadata","md5":"f8a24382ac18eb1a8f73e84673a2bf36","summation":"md5"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_frame-md.json","source":"original","mtime":"1695672097","size":"224","md5":"3fddc2728c16e90da2ae1f2538361a21","crc32":"bb0b4320","sha1":"61401189f9bacb161243c31289dfe2678f90e842","format":"JSON"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_parameters":"lang-Fraktur;lang-enm;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9738","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_chocr.html.gz","mtime":"1695678159","size":"3120807","md5":"a4caec80dd2dadccc4171101a3096a70","crc32":"9d0d3476","sha1":"ed51a2efaeba807101f82f5f22a3c3e61d7f8a18"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_hocr.html","mtime":"1695678497","size":"921","md5":"1ded78ab45411c69818232239a9d5fa7","crc32":"fc656732","sha1":"4352c8c2c4e448cc845f249e0fee4207d5c6ce26"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"223","word_conf_11_20":"150","word_conf_21_30":"238","word_conf_31_40":"333","word_conf_41_50":"393","word_conf_51_60":"424","word_conf_61_70":"521","word_conf_71_80":"678","word_conf_81_90":"1687","word_conf_91_100":"13688","format":"OCR Search Text","original":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_hocr.html","mtime":"1695678645","size":"38080","md5":"cdaddb4fe4eb4c9eff186bd53e5b8509","crc32":"72f8b806","sha1":"405e71fe3717185b0e76757296af921ecd43c761"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_itemimage.png","source":"original","mtime":"1695672094","size":"3984940","md5":"e8921ea8e1e049a5629484475cacd2b6","crc32":"bcb25b3d","sha1":"c8ee213234702b4f116b12a53b607772dcbe4eed","format":"Item Image"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_jp2.zip","source":"original","mtime":"1695672077","size":"277146934","md5":"310a1d5b376d7c82f1444e19f0cedc3a","crc32":"7152ec0c","sha1":"888a82a98a6a52533f46d269dc7577a53a75572c","preview-image":"n0","format":"Single Page Processed JP2 ZIP","filecount":"81"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_meta.sqlite","source":"original","mtime":"1695672125","size":"73728","md5":"a548051143d3ba26729c854ca71e7f76","crc32":"9a1c14da","sha1":"e699e60504ba598540dcab56998a5fdcb1832085","format":"Metadata"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_meta.xml","source":"original","mtime":"1783440786","size":"3835","md5":"96ef78450131e6b2f293a8c142c847a8","crc32":"1f05f5e8","sha1":"c7151038f8ac78b96fae076fb25d629eba73bbf6","format":"Metadata"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"81","format":"Page Numbers JSON","original":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_hocr.html","mtime":"1695679388","size":"14001","md5":"0d9db1455a73cc3e8761183587aba05b","crc32":"7f958b97","sha1":"ef20e9051ba311765ef907c4acf356f4e1b740ec"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_rotations.json","source":"original","mtime":"1695672091","size":"7523","md5":"a8f0c2da14b65fe6702b2ab6aae8fe0d","crc32":"35e71cde","sha1":"ce52d205ea3b50fcd96aa94458bc72ff54d4c648","format":"JSON"},{"name":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_scandata.xml","source":"derivative","format":"Scandata","original":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_djvu.xml","mtime":"1695679388","size":"28568","md5":"51a660be5d296f882390501b66c2bd12","crc32":"5cbe56c8","sha1":"3b911d27454913479c2b1ce1427367ba676410cd"},{"name":"header\/header_0000.jp2","source":"original","mtime":"1695672104","size":"343428","md5":"aaed715159526749791774063d33c85e","crc32":"33d5156f","sha1":"d96aab7221aa70c7fad2147d1f6b97d41ffedcf3","format":"JPEG 2000"},{"name":"header\/header_0001.jp2","source":"original","mtime":"1695672106","size":"2395474","md5":"83e538063d4c97ad2da75b18a440dfe0","crc32":"b96d54af","sha1":"bb418f355ffaf3ad07a2019c8d16f5351b263ba7","format":"JPEG 2000"},{"name":"header\/header_0002.jp2","source":"original","mtime":"1695672110","size":"2409778","md5":"056e63fefbfa71c53cabf5cd7ff03679","crc32":"48c53f78","sha1":"d5497cf24c2e0ffb67ae4b6d2d63d15cbfbcad4b","format":"JPEG 2000"},{"name":"header\/header_0003.jp2","source":"original","mtime":"1695672103","size":"2456074","md5":"be29c615830e9d61c23a84cfedfa11a7","crc32":"2f7e0cad","sha1":"4e183a165297bde325b476b36fc23adea17187eb","format":"JPEG 2000"},{"name":"header\/header_0004.jp2","source":"original","mtime":"1695672101","size":"2463110","md5":"61d2ac0aabfed3336f6d50d4e7705886","crc32":"54e627ef","sha1":"1424a33df4f77f48216ebd8d4b1fc9c64fa423e6","format":"JPEG 2000"},{"name":"header\/header_0005.jp2","source":"original","mtime":"1695672108","size":"4272346","md5":"e848bd0da0252a9a9b8194ed12c7139d","crc32":"a169b7fa","sha1":"bf516d57eef9a27868da7a394f8cba3d5b83f79d","format":"JPEG 2000"},{"name":"header\/header_0006.jp2","source":"original","mtime":"1695672099","size":"2299173","md5":"a6e76adf974972a00ac574f1f6572c7f","crc32":"79a9068c","sha1":"84c3bdfbc75c1fc09f46bcc4697ede28f14a9e4b","format":"JPEG 2000"}],"files_count":25,"frame-md":{"header": {"right_to_left": null, "frame_start": 1, "frame_end": 6}, "issue": {"right_to_left": null, "frame_start": 482, "frame_cover": 482, "frame_end": 522, "cover_reverse_handedness": false, "split_start_frame": false}},"item_last_updated":1783440792,"item_size":341466656,"metadata":{"identifier":"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742","adaptive_ocr":"true","auditor":"associate-jobert-apor@archive.org","betterpdf":"true","boxid":"IA40310305","canister":"IA40310305-89","collection":["pub_eighteenth-century","bim_microfilm","microfilm"],"collection-catalog-number":"t125076","contrast_max":"137","contrast_min":"12","contributor":"Internet Archive","copies":"2","creator":"Dodsley, Robert","date":"1742","derive_version":"0.0.22","description":"The chronicle of the Kings of England, from the Norman Conquest unto the present time. Written in the manner of the ancient Jewish historians. By Nathan ben Saddi, ... 1742..<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40310305-89/page/n272\" rel=\"ugc nofollow\">IA40310305-89</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_a-letter-from-a-member-o_mackworth-humphrey-sir_1704\" rel=\"ugc nofollow\">bim_eighteenth-century_a-letter-from-a-member-o_mackworth-humphrey-sir_1704</a>.<br />Next issue: <a href=\"https://archive.org/details/bim_eighteenth-century_a-second-address-from-th_committee-of-association_1781\" rel=\"ugc nofollow\">bim_eighteenth-century_a-second-address-from-th_committee-of-association_1781</a>.","language":"English","mediatype":"texts","metadata_operator":"associate-jerald-capanay@archive.org","next_item":"bim_eighteenth-century_a-second-address-from-th_committee-of-association_1781","ppi":"800","previous_item":"bim_eighteenth-century_a-letter-from-a-member-o_mackworth-humphrey-sir_1704","pub_type":"Books","scanner":"microfilm04.cebu.archive.org","scanningcenter":"cebu","sim_pubid":"24073","software_version":"nextStar 4.5.0.20626","source":["IA40310305-89","microfilm"],"subject":["Language & Literature","Literary And Political Reviews","General Interest Periodicals--United Kingdom","Law","Philosophy & Religion","Fine & Performing Arts","Social Sciences","History","History--History of North And South America","Books","microfilm"],"title":"The chronicle of the Kings of England, from the Norman Conquest unto the present time. Written in the manner of the ancient Jewish historians. By Nathan ben Saddi, ...  1742","uploader":"merlijn+microfilmderiver@archive.org","publicdate":"2023-09-25 20:01:34","addeddate":"2023-09-25 20:01:34","identifier-access":"http://archive.org/details/bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742","identifier-ark":"ark:/13960/s2rcz9mj042","imagecount":"81","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"-l Fraktur+enm","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.9738","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"81","page_number_module_version":"1.0.3","pdf_module_version":"0.0.23"},"page_numbers":{
+    "identifier": "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 81,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": 83,
+            "pageNumber": "(9)",
+            "pageProb": 73,
+            "wordConf": 65
+        },
+        {
+            "leafNum": 9,
+            "confidence": 72,
+            "pageNumber": "(10)",
+            "pageProb": 62,
+            "wordConf": 72
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "(11)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "(12)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "(13)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "(14)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "(15)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": 66,
+            "pageNumber": "(16)",
+            "pageProb": 56,
+            "wordConf": 83
+        },
+        {
+            "leafNum": 16,
+            "confidence": null,
+            "pageNumber": "(17)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 17,
+            "confidence": 78,
+            "pageNumber": "(18)",
+            "pageProb": 68,
+            "wordConf": 82
+        },
+        {
+            "leafNum": 18,
+            "confidence": 97,
+            "pageNumber": "(19)",
+            "pageProb": 87,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 19,
+            "confidence": 73,
+            "pageNumber": "(20)",
+            "pageProb": 63,
+            "wordConf": 72
+        },
+        {
+            "leafNum": 20,
+            "confidence": 71,
+            "pageNumber": "(21)",
+            "pageProb": 61,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 21,
+            "confidence": 71,
+            "pageNumber": "(22)",
+            "pageProb": 61,
+            "wordConf": 64
+        },
+        {
+            "leafNum": 22,
+            "confidence": 93,
+            "pageNumber": "(23)",
+            "pageProb": 83,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 23,
+            "confidence": 86,
+            "pageNumber": "(24)",
+            "pageProb": 76,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 24,
+            "confidence": 65,
+            "pageNumber": "(25)",
+            "pageProb": 55,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 25,
+            "confidence": 100,
+            "pageNumber": "(26)",
+            "pageProb": 96,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 26,
+            "confidence": null,
+            "pageNumber": "(27)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 27,
+            "confidence": null,
+            "pageNumber": "(28)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 28,
+            "confidence": 91,
+            "pageNumber": "(29)",
+            "pageProb": 81,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 29,
+            "confidence": null,
+            "pageNumber": "(30)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 30,
+            "confidence": 65,
+            "pageNumber": "(31)",
+            "pageProb": 55,
+            "wordConf": 76
+        },
+        {
+            "leafNum": 31,
+            "confidence": null,
+            "pageNumber": "(32)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 32,
+            "confidence": null,
+            "pageNumber": "(33)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 33,
+            "confidence": 100,
+            "pageNumber": "(34)",
+            "pageProb": 95,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 34,
+            "confidence": null,
+            "pageNumber": "(35)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 35,
+            "confidence": null,
+            "pageNumber": "(36)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 36,
+            "confidence": null,
+            "pageNumber": "(37)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 37,
+            "confidence": null,
+            "pageNumber": "(38)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 38,
+            "confidence": 86,
+            "pageNumber": "(39)",
+            "pageProb": 76,
+            "wordConf": 75
+        },
+        {
+            "leafNum": 39,
+            "confidence": null,
+            "pageNumber": "(40)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 40,
+            "confidence": null,
+            "pageNumber": "(41)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 41,
+            "confidence": null,
+            "pageNumber": "(42)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 42,
+            "confidence": null,
+            "pageNumber": "(43)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 43,
+            "confidence": 64,
+            "pageNumber": "(44)",
+            "pageProb": 54,
+            "wordConf": 78
+        },
+        {
+            "leafNum": 44,
+            "confidence": 66,
+            "pageNumber": "(45)",
+            "pageProb": 56,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 45,
+            "confidence": 84,
+            "pageNumber": "(46)",
+            "pageProb": 74,
+            "wordConf": 74
+        },
+        {
+            "leafNum": 46,
+            "confidence": null,
+            "pageNumber": "(47)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 47,
+            "confidence": 78,
+            "pageNumber": "(48)",
+            "pageProb": 68,
+            "wordConf": 82
+        },
+        {
+            "leafNum": 48,
+            "confidence": 73,
+            "pageNumber": "(49)",
+            "pageProb": 63,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 49,
+            "confidence": null,
+            "pageNumber": "(50)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 50,
+            "confidence": null,
+            "pageNumber": "(51)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 51,
+            "confidence": null,
+            "pageNumber": "(52)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 52,
+            "confidence": null,
+            "pageNumber": "(53)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 53,
+            "confidence": null,
+            "pageNumber": "(54)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 54,
+            "confidence": null,
+            "pageNumber": "(55)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 55,
+            "confidence": null,
+            "pageNumber": "(56)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 56,
+            "confidence": null,
+            "pageNumber": "(57)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 57,
+            "confidence": null,
+            "pageNumber": "(58)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 58,
+            "confidence": null,
+            "pageNumber": "(59)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 59,
+            "confidence": null,
+            "pageNumber": "(60)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 60,
+            "confidence": null,
+            "pageNumber": "(61)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 61,
+            "confidence": null,
+            "pageNumber": "(62)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 62,
+            "confidence": null,
+            "pageNumber": "(63)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 63,
+            "confidence": null,
+            "pageNumber": "(64)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 64,
+            "confidence": 92,
+            "pageNumber": "(65)",
+            "pageProb": 82,
+            "wordConf": 84
+        },
+        {
+            "leafNum": 65,
+            "confidence": null,
+            "pageNumber": "(66)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 66,
+            "confidence": null,
+            "pageNumber": "(67)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 67,
+            "confidence": null,
+            "pageNumber": "(68)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 68,
+            "confidence": null,
+            "pageNumber": "(69)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 69,
+            "confidence": null,
+            "pageNumber": "(70)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 70,
+            "confidence": null,
+            "pageNumber": "(71)",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 71,
+            "confidence": 90,
+            "pageNumber": "(72)",
+            "pageProb": 80,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 72,
+            "confidence": 92,
+            "pageNumber": "(73)",
+            "pageProb": 82,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 73,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 74,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 75,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 76,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 77,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 78,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 79,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 80,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"rotations":{"issue": {"mean": -0.3407551038961039, "std": 0.8413803148286961, "lh_mean": -0.35056000000000004, "lh_std": 0.7625678598133518, "rh_mean": -0.3312016153846154, "rh_std": 0.9115402774156249}, "pages": {"bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0000.jp2": 1.205535, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0001.jp2": null, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0002.jp2": -0.079289, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0003.jp2": -0.169276, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0004.jp2": -0.181938, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0005.jp2": 0.197019, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0006.jp2": -0.307333, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0007.jp2": 0.560414, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0008.jp2": -0.641834, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0009.jp2": 1.036104, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0010.jp2": 1.769291, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0011.jp2": -1.28066, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0012.jp2": -1.312146, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0013.jp2": 1.50158, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0014.jp2": 1.55669, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0015.jp2": -1.328936, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0016.jp2": -0.37832, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0017.jp2": -0.121949, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0018.jp2": -0.63792, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0019.jp2": -0.213825, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0020.jp2": -0.317383, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0021.jp2": -0.518333, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0022.jp2": -0.270045, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0023.jp2": -0.807061, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0024.jp2": -0.087138, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0025.jp2": -0.575153, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0026.jp2": -0.515181, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0027.jp2": 0.257649, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0028.jp2": -0.270375, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0029.jp2": -0.118533, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0030.jp2": -1.141061, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0031.jp2": -0.227331, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0032.jp2": -1.193738, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0033.jp2": 0.296508, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0034.jp2": 0.132187, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0035.jp2": -0.958859, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0036.jp2": -1.283747, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0037.jp2": 0.626126, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0038.jp2": -0.296114, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0039.jp2": -0.924483, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0040.jp2": -0.521883, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0041.jp2": -0.716313, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0042.jp2": 0.536558, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0043.jp2": -1.147654, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0044.jp2": -1.38906, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0045.jp2": 0.504893, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0046.jp2": -0.733189, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0047.jp2": -0.909433, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0048.jp2": 0.96645, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0049.jp2": -0.910464, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0050.jp2": 0.735016, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0051.jp2": -0.413193, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0052.jp2": -0.293086, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0053.jp2": -0.21321, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0054.jp2": -0.099977, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0055.jp2": 0.015386, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0056.jp2": null, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0057.jp2": 0.219507, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0058.jp2": -0.555719, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0059.jp2": -0.626053, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0060.jp2": -2.576972, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0061.jp2": 0.877609, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0062.jp2": -0.080637, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0063.jp2": -1.345481, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0064.jp2": -0.536862, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0065.jp2": -0.133255, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0066.jp2": 0.469089, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0067.jp2": -1.656619, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0068.jp2": -1.655281, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0069.jp2": -0.191327, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0070.jp2": 0.303791, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0071.jp2": -0.723833, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0072.jp2": 0.028568, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0073.jp2": -1.690736, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0074.jp2": 0.369262, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0075.jp2": -1.662869, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0076.jp2": -1.478899, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0077.jp2": 0.170764, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0078.jp2": -2.154173, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0079.jp2": null, "bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742_0080.jp2": null}},"server":"ia600401.us.archive.org","uniq":587929741,"workable_servers":["ia600401.us.archive.org","ia800401.us.archive.org"]}

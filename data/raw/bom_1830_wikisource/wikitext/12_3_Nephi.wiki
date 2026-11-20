@@ -1,0 +1,30 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = The Third Book of Nephi
+ | previous    = [[Book of Mormon (1830)/Helaman|Helaman]]
+ | next        = [[Book of Mormon (1830)/4 Nephi|4 Nephi]]
+ | year        = 1830 
+ | notes       = <br>{{engine|The Book of Mormon|work=Book of Mormon (1830)}}
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" include="456" onlysection="TITLE" />
+
+{{AuxTOC|title=Chapters:|{{TOC begin}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 1|Chapter I]]|452}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 2|Chapter II]]|457}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 3|Chapter III]]|465}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 4|Chapter IV]]|470}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 5|Chapter V]]|476}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 6|Chapter VI]]|483}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 7|Chapter VII]]|485}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 8|Chapter VIII]]|488}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 9|Chapter IX]]|493}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 10|Chapter X]]|501}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 11|Chapter XI]]|503}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 12|Chapter XII]]|506}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 13|Chapter XIII]]|509}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/3 Nephi/Chapter 14|Chapter XIV]]|513}}
+{{TOC end}}}}
+
+{{dhr}}

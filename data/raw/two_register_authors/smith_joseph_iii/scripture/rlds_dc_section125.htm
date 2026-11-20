@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SECTION 125 - Doctrine and Covenants</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script src="../../lib/soundmanager/script/soundmanager2.js"></script>
+	<script src="../../js/bar-ui.js"></script>
+	<script src="../../js/sidebar.js"></script>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css'>
+	<link rel="stylesheet" type="text/css" href="../../css/site.css">
+	<link rel="stylesheet" href="../../css/bar-ui.css" />
+	<link rel="stylesheet" href="../../css/bootstrap_5_0_0_sidebar.css">
+	<script src="../js/chapterdata.js"></script>
+	<script src="../js/navscripts.js"></script>
+	<script>document.addEventListener('copy', (event) => {copyAddBook();} );</script>
+	<style>
+html {
+    height: 100%;
+	min-height: 100%;
+    padding: 0px 0px;
+} 
+body {
+    height: 100%;
+	overflow: hidden;
+    padding: 0px 0px;
+    margin: 0px 0px;	
+}
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px; 
+	z-index: 1;
+	background-color: skyblue;
+	text-align: center;
+}
+.header-padding {
+	padding-top: 70px; 
+}
+.content {
+    position: relative;
+    height: 100%;
+    height: -webkit-calc(100% - 60px);
+    height: -moz-calc(100% - 60px);
+    height: calc(100% - 60px);
+	overflow-y: auto;
+	padding: 0px 2px 50px 3px; 
+	margin: 0px 0px 0px 0px; 	
+ }
+	</style>
+</head>
+<body onload="setupNav();">
+<header>
+	<span id="BkName"><b>DC</b></span>&nbsp;
+	<select id="selectedBook" onChange="updateBook()">
+		<option value="../../library/default.asp">Home</option>
+	</select>
+	<select id="selectedChapter" onchange="updateChapter()">
+	</select>
+	<input id="selectedVerse" type="hidden" value="1"><br>
+
+	<div class="sm2-bar-ui">
+	 <div class="bd sm2-main-controls">
+	  <div class="sm2-inline-element sm2-button-element">
+	   <div class="sm2-button-bd">
+		<a href="#play" class="sm2-inline-button sm2-icon-play-pause">Play / pause</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-inline-status">
+	   <div class="sm2-playlist">
+		<div class="sm2-playlist-target">
+		 <!-- playlist <ul> + <li> markup will be injected here -->
+		 <noscript><p>JavaScript is required.</p></noscript>
+		</div>
+	   </div>
+
+	   <div class="sm2-progress">
+		<div class="sm2-row">
+		<div class="sm2-inline-time">0:00</div>
+		 <div class="sm2-progress-bd">
+		  <div class="sm2-progress-track">
+		   <div class="sm2-progress-bar"></div>
+		   <div class="sm2-progress-ball"><div class="icon-overlay"></div></div>
+		  </div>
+		 </div>
+		 <div class="sm2-inline-duration">0:00</div>
+		</div>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-volume">
+	   <div class="sm2-button-bd">
+		<span class="sm2-inline-button sm2-volume-control volume-shade"></span>
+		<a href="#volume" class="sm2-inline-button sm2-volume-control">volume</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-menu">
+	   <div class="sm2-button-bd">
+		<a href="#menu" class="sm2-inline-button sm2-icon-menu">menu</a>
+	   </div>
+	  </div>
+	 </div>
+	 <div class="bd sm2-playlist-drawer sm2-element">
+	  <!-- playlist content is mirrored here -->
+	  <div class="sm2-playlist-wrapper">
+		<ul id="listAudioLinks" class="sm2-playlist-bd">
+		</ul>
+	  </div>
+	 </div>
+	</div>
+</header>
+<div class="header-padding"></div>
+<div class="content">
+<br>
+<h2 class="Book text-center" data-abbr="D&C">Doctrine and Covenants</h2><h3 class="text-center">Section 125</h3>
+<p class="Pcope red">April 15, 1901-Independence, Missouri. Inspired counsel through Joseph Smith III.</p>
+<p class="Pcope red">Vacancy filled in the Quorum of Twelve-Duties of the patriarchs, who are evangelical ministers-Rules of representation at General Conference-Independence and Lamoni Stakes are to be organized-Tracts are to be written-Instruction on foreign missions-Exercise discernment regarding spiritual manifestations</p>
+<p class="Pcope red">STATEMENT AND REVELATION</p>
+<p class="Pcope red">Before entering further upon the business, I have something to present. I spent a sleepless night. After retiring to my rest, weary, as you must know, I engaged in a season of prayer quietly, as I had been doing all day; and I suddenly found myself very wide awake; and from that on, I was in the Spirit, the Spirit of inspiration burning in my breast; and by it I was bidden to come to the house of assembly and tell what was given to me of light and instruction. I trust that it shall be so to you.</p>
+<p class="Pcope red">VACANCY IN THE PRESIDENCY</p>
+<a name="v1"><p class="Verse">D&C 125:1 The successor of my servant W. W. Blair is with the body; but the conditions are not ripe for this addition to the presidency, but it shall be made in due time. In the meantime, let the presidency continue as at present constituted.</p></a>
+<p class="Pcope red">VACANCY IN THE TWELVE</p>
+<a name="v2"><p class="Verse">D&C 125:2 To fill this vacancy, I was instructed to present the name of "my servant Peter Andersen."</p></a>
+<p class="Pcope red">EVANGELICAL MINISTERS</p>
+<a name="v3a"><p class="Verse">D&C 125:3a The patriarch is an evangelical minister. The duties of this office are to be an evangelical minister; to preach, teach, expound, exhort, to be a revivalist; and to visit branches and districts as wisdom may direct, invitation, request, or the Spirit of God determine and require;</p></a>
+<a name="v3b"><p class="Verse">D&C 125:3b to comfort the Saints; to be a father to the church; to give counsel and advice to individuals who may seek for such; to lay on hands for the conferment of spiritual blessing, and if so led, to point out the lineage of the one who is blessed.</p></a>
+<a name="v4a"><p class="Verse">D&C 125:4a He is to be free from responsibility-ministerial-as a traveling minister and from the care of the local branch or church and district affairs.</p></a>
+<a name="v4b"><p class="Verse">D&C 125:4b When traveling and preaching, holding revival meetings, he is to labor in connection with the branch and district officers, not subject to the ministerial control of the missionary in charge, except he should transcend his bounds and teach false doctrine or be found in transgression.</p></a>
+<a name="v4c"><p class="Verse">D&C 125:4c He is not to meddle with branch affairs or district affairs.</p></a>
+<a name="v4d"><p class="Verse">D&C 125:4d He is not to listen to complaints made by individuals to him; but if persons insist upon presenting their troubles, he is to request them and require them to make them in writing, signing the name, giving time, place, and character of the trouble, with the witnesses, which it will be his duty to present to the branch or district officers, as the case may require.</p></a>
+<a name="v4e"><p class="Verse">D&C 125:4e He is not to be put in charge of either branch or district. These are the privileges which attach to the office of patriarch and evangelical minister.</p></a>
+<a name="v5a"><p class="Verse">D&C 125:5a The Presiding Patriarch is to be considered the first, and when patriarchs meet in council, is to preside.</p></a>
+<a name="v5b"><p class="Verse">D&C 125:5b Besides these duties, the patriarch may meet with quorums in their quorum meetings, where he may be asked for counsel, but will not have either voice or vote, except by courtesy, having no direct control of quorums.</p></a>
+<a name="v6a"><p class="Verse">D&C 125:6a Other evangelical ministers beside the Presiding Patriarch have similar duties in the districts where they are appointed.</p></a>
+<a name="v6b"><p class="Verse">D&C 125:6b Revelations have been given, as my people know, that these men should receive ordination; but hitherto those upon whom this burden has lain have neglected, for the reason that they did not understand the duties and prerogatives that attach to the office. Let my servants take heed and hesitate no longer.</p></a>
+<p class="Pcope red">RULES OF REPRESENTATION</p>
+<a name="v7a"><p class="Verse">D&C 125:7a My servant was directed to present to the church rules of representation, and he so stated to the body at different times that he was so led; but the conferences of my people saw proper to change these articles and rules of representation, and propositions are pending that they be still further changed.</p></a>
+<a name="v7b"><p class="Verse">D&C 125:7b The direction of the Spirit is that they be left as they now are until such time as the increased numbers of the members of the church shall require either an enlargement of the number entitled to delegate or that there may be a closer line drawn as to the number of delegates which the church shall require to meet.</p></a>
+<a name="v8"><p class="Verse">D&C 125:8 The word elders used in the law signifies those holding the Melchisedec priesthood only; all classes and orders of this priesthood are characterized by the word elder.</p></a>
+<a name="v9"><p class="Verse">D&C 125:9 The only qualification for delegates chosen by the branches or districts should be membership and good standing, it being given by the Spirit that those other than the eldership should be represented in this way.</p></a>
+<p class="Pcope red">STAKES</p>
+<a name="v10a"><p class="Verse">D&C 125:10a My people are directed to establish two stakes-one at Independence, one at Lamoni, Iowa-organizing them after the pattern which is found in the law: a presiding high priest with counselors, a high council, and a bishop and his counselors.</p></a>
+<a name="v10b"><p class="Verse">D&C 125:10b These stakes shall be made to comprise the boundaries of the districts as they now stand, the center at the towns and places named;</p></a>
+<a name="v10c"><p class="Verse">D&C 125:10c and the majority of the councils that should be chosen should be residents of the places named in order that there may ever be a sufficient body to transact the business required.</p></a>
+<p class="Pcope red">TRACTS</p>
+<a name="v11a"><p class="Verse">D&C 125:11a It is the duty of the church to provide tracts in the Scandinavian, German, Chinese, Japanese, and Portuguese languages, and others, as the missions may require-</p></a>
+<a name="v11b"><p class="Verse">D&C 125:11b these tracts to be written by those in the ministry and those of the brothers who are not of the ministry who have a talent for writing and to be submitted to the Presidency before being published.</p></a>
+<a name="v11c"><p class="Verse">D&C 125:11c They should be short, clearly stated; and a sufficient number should be printed to furnish the traveling ministry with the quantities desirable for them to distribute.</p></a>
+<p class="Pcope red">FOREIGN MISSIONS</p>
+<a name="v12a"><p class="Verse">D&C 125:12a The missions abroad, other than those in the land of Joseph which were opened officially during the lifetime of the martyrs, shall be considered as having been opened unto us, whether they were at once undertaken and prosecuted during the lifetime of the martyrs, or whether subsequent to their death they were prosecuted in righteousness-wherever they were sent.</p></a>
+<a name="v12b"><p class="Verse">D&C 125:12b Other missions not thus opened, it will be requisite that the Twelve shall either go or, in the exercise of their missionary authority, send, as provided in the law, of the Seventy.</p></a>
+<a name="v13a"><p class="Verse">D&C 125:13a For prosecuting the work in two of these missions, this is offered and directed:</p></a>
+<a name="v13b"><p class="Verse">D&C 125:13b Send the Bishop to England with my servant Gomer T. Griffiths to aid in arranging the affairs of the church there, organizing the ministry locally and determining what help in the missionary field may be required from America.</p></a>
+<a name="v13c"><p class="Verse">D&C 125:13c Authorize the selection and the ordination of a high priest to officiate in the office of bishop in England, that it may be accomplished as soon as practicable and without fail, in answer to the request made by my servants in that land.</p></a>
+<a name="v13d"><p class="Verse">D&C 125:13d Authorize the patriarch, as one of the Presidency, to visit Australia and the islands of the sea, the Society Islands, authorizing him to assist the authorities there in arranging their missionary labor by his advice,</p></a>
+<a name="v13e"><p class="Verse">D&C 125:13e and also selecting and ordaining a high priest to act in the office of bishop, carrying with him the authority of the conference.</p></a>
+<a name="v14a"><p class="Verse">D&C 125:14a Branches and districts are to be conducted according to the rules given in the law as directed in a former revelation: They shall take the things which have been given unto them as my law to the church to be my law to govern my church.</p></a>
+<a name="v14b"><p class="Verse">D&C 125:14b And these affairs are not to be conducted by manifestations of the Spirit unless these directions and manifestations come through the regularly authorized officers of branch or district.</p></a>
+<a name="v14c"><p class="Verse">D&C 125:14c If my people will respect the officers whom I have called and set in the church, I will respect these officers; and if they do not, they cannot expect the riches of gifts and the blessings of direction.</p></a>
+<a name="v15a"><p class="Verse">D&C 125:15a Prophesying over them that are sick in administering to them has been a fruitful source of trouble among my people.</p></a>
+<a name="v15b"><p class="Verse">D&C 125:15b They must observe that this they are not required to do except there be a direct manifestation of the Spirit which may direct it.</p></a>
+<a name="v15c"><p class="Verse">D&C 125:15c Pray over the sick, anoint them with oil as commanded in the law, and leave them in my hands, that the Spirit may deal with them according to my wisdom.</p></a>
+<a name="v15d"><p class="Verse">D&C 125:15d Many spiritual manifestations have been had. Some of these have been false; and under the operation of the law which I gave many, many years ago, those who make these false presentations are not to be feared among my people.</p></a>
+<a name="v15e"><p class="Verse">D&C 125:15e They are not justified in permitting their human sympathies to overcome that which has been written in my Scriptures. The spirit of the prophets is subject to the prophets.</p></a>
+<a name="v16a"><p class="Verse">D&C 125:16a The college debt should be paid; the ministers going out from the conferences held by the elders of my church are not expected or authorized to throw obstacles in the way of the accomplishment of that which has been intrusted to the Bishopric to pay this great debt.</p></a>
+<a name="v16b"><p class="Verse">D&C 125:16b Their right to free speech, their right to liberty of conscience, does not permit them as individuals to frustrate the commands of the body in conference assembly.</p></a>
+<a name="v16c"><p class="Verse">D&C 125:16c They are sent out as ministers to preach the gospel. And their voices-if opposed to what may be presented to the conference-should be heard in the conferences and not in the mission fields, to prevent the accomplishment of the object with which the officers of the church have been intrusted.</p></a>
+</div>
+</body>
+</html>

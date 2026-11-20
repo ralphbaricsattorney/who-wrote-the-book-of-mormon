@@ -1,0 +1,194 @@
+[
+ {
+  "doc_id": "letter_01",
+  "issue": "v1n01",
+  "lines": [
+   153,
+   168
+  ],
+  "date": "Oct 1834",
+  "desc": "Letter I to W. W. Phelps (Norton, Ohio, 7 Sep 1834), signed O. Cowdery",
+  "words": 1772,
+  "first": "DEAR BROTHER,- Before leaving home, I promised, if I tarried",
+  "last": "Lamb will be the light thereof.\" O. Cowdery."
+ },
+ {
+  "doc_id": "letter_02",
+  "issue": "v1n02",
+  "lines": [
+   125,
+   153
+  ],
+  "date": "Nov 1834",
+  "desc": "Letter II to W. W. Phelps; closes '-Editor.'",
+  "words": 3073,
+  "first": "To W. W. Phelps, Esq. DEAR BROTHER:- In the last",
+  "last": "the description I have proposed, I shall proceed.-Editor."
+ },
+ {
+  "doc_id": "letter_03",
+  "issue": "v1n03",
+  "lines": [
+   112,
+   127
+  ],
+  "date": "Dec 1834",
+  "desc": "Letter III to W. W. Phelps (unsigned in transcription)",
+  "words": 1273,
+  "first": "TO W. W. Phelps, Esq. DEAR BROTHER: After a silence",
+  "last": "whole plan of salvation, as revealed to us."
+ },
+ {
+  "doc_id": "letter_04",
+  "issue": "v1n05",
+  "lines": [
+   114,
+   141
+  ],
+  "date": "Feb 1835",
+  "desc": "Letter IV to W. W. Phelps, signed Oliver Cowdery, 27 Feb 1835",
+  "words": 2058,
+  "first": "To W. W. Phelps, Esq. DEAR BROTHER: In my last,",
+  "last": "Christ. OLIVER COWDERY. Kirtland, Ohio, Feb. 27, 1835."
+ },
+ {
+  "doc_id": "letter_05",
+  "issue": "v1n06",
+  "lines": [
+   144,
+   171
+  ],
+  "date": "Mar 1835",
+  "desc": "Letter V to W. W. Phelps (unsigned in transcription)",
+  "words": 2104,
+  "first": "LETTER V.-TO W. W. PHELPS, ESQ. Dear Brother: Yours of",
+  "last": "angel. Accept assurance of my esteem as ever."
+ },
+ {
+  "doc_id": "letter_06",
+  "issue": "v1n07",
+  "lines": [
+   144,
+   169
+  ],
+  "date": "Apr 1835",
+  "desc": "Letter VI to W. W. Phelps (unsigned in transcription)",
+  "words": 3325,
+  "first": "TO W. W. PHELPS, ESQ. Dear Sir:- Yours of the",
+  "last": "esteem of your unworthy brother in the gospel."
+ },
+ {
+  "doc_id": "letter_07",
+  "issue": "v1n10",
+  "lines": [
+   94,
+   124
+  ],
+  "date": "Jul 1835",
+  "desc": "Letter VII to W. W. Phelps, signed Oliver Cowdery",
+  "words": 3503,
+  "first": "TO W. W. Phelps, ESQ. DEAR BROTHER:-Circumstances having heretofore intervened",
+  "last": "myself your brother in the gospel. OLIVER COWDERY."
+ },
+ {
+  "doc_id": "letter_08",
+  "issue": "v2n01",
+  "lines": [
+   36,
+   66
+  ],
+  "date": "Oct 1835",
+  "desc": "Letter VIII to W. W. Phelps, signed Oliver Cowdery",
+  "words": 5107,
+  "first": "LETTER VIII. Dear Brother,- In my last I said I",
+  "last": "Lord Jesus. OLIVER COWDERY. To W. W. Phelps"
+ },
+ {
+  "doc_id": "editorial_address_1834",
+  "issue": "v1n01",
+  "segment": 1,
+  "date": "Oct 1834",
+  "desc": "Opening 'Address' of M&A, signed OLIVER COWDERY",
+  "words": 1149,
+  "first": "As this No. commences the Latter Day Saints' Messenger and",
+  "last": "and thereby be ready to meet the Bridegroom!"
+ },
+ {
+  "doc_id": "travel_letter_pontiac_1834",
+  "issue": "v1n01",
+  "segment": 3,
+  "date": "Oct 1834",
+  "desc": "Travel letter from Pontiac, M.T., 20 Oct 1834, signed OLIVER COWDERY",
+  "words": 3176,
+  "first": "Left Kirtland on the 16th in company with our brethren",
+  "last": "men\" into the abodes of civilization and peace."
+ },
+ {
+  "doc_id": "editorial_to_patrons_1835",
+  "issue": "v1n08",
+  "segment": 9,
+  "date": "May 1835",
+  "desc": "'To the Patrons', signed OLIVER COWDERY",
+  "words": 1250,
+  "first": "To the Patrons of the Latter Day Saints' Messenger &",
+  "last": "the prayer of your unworthy servant and friend."
+ },
+ {
+  "doc_id": "statement_1836_v2n03",
+  "issue": "v2n03",
+  "segment": 8,
+  "date": "Dec 1835",
+  "desc": "Signed statement, Oliver Cowdery",
+  "words": 1007,
+  "first": "\"This is to make known to all who may be",
+  "last": "the bonds of the new and everlasting covenant."
+ },
+ {
+  "doc_id": "editorial_v3n01_a",
+  "issue": "v3n01",
+  "segment": 1,
+  "date": "Oct 1836",
+  "desc": "Editorial, signed O. COWDERY",
+  "words": 772,
+  "first": "At the frequent solicitation of Elders, who obtain the principal",
+  "last": "be entitled to eleven copies for one year."
+ },
+ {
+  "doc_id": "editorial_v3n01_b",
+  "issue": "v3n01",
+  "segment": 5,
+  "date": "Oct 1836",
+  "desc": "Article, signed O. COWDERY",
+  "words": 1835,
+  "first": "At the examination, and at other times, it was usual",
+  "last": "our fathers died! Sincerely, as ever, your brother,"
+ },
+ {
+  "doc_id": "valedictory_1837",
+  "issue": "v3n11",
+  "segment": 4,
+  "date": "Aug 1837",
+  "desc": "Valedictory, signed OLIVER COWDERY",
+  "words": 858,
+  "first": "In the 8th number, Vol. first of the Messenger and",
+  "last": "shall meet in the presence of God. Farewell."
+ },
+ {
+  "doc_id": "ems_letter_to_wa_cowdery_1834",
+  "issue": "EMS v2n16_10",
+  "date": "Jan 1834",
+  "desc": "EMS 2:16, letter 'Dear Brother' to W. A. Cowdery (Kirtland, 23 Jan 1834 heading), signed OLIVER COWDERY",
+  "words": 789,
+  "first": "DEAR BROTHER, You will excuse my freedom in giving publicity",
+  "last": "the desire and fervent prayer of your brother."
+ },
+ {
+  "doc_id": "ems_address_to_patrons_1834",
+  "issue": "EMS v2n24_01",
+  "date": "Sep 1834",
+  "desc": "EMS 2:24, closing 'Address to the Patrons of The Evening and the Morning Star', signed O. COWDERY",
+  "words": 2764,
+  "first": "As this number closes the second Volume of the Star,",
+  "last": "us be ready, for HIS coming is near!"
+ }
+]

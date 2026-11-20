@@ -1,0 +1,23 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = First Book of Nephi
+ | previous    = [[Book of Mormon (1830)/Preface|Preface]]
+ | next        = [[Book of Mormon (1830)/2 Nephi|2 Nephi]]
+ | year        = 1830 
+ | notes       = <br>{{engine|The Book of Mormon|work=Book of Mormon (1830)}}
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" include="9" onlysection="TITLE" />
+
+{{AuxTOC|title=Chapters:|{{TOC begin}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/1 Nephi/Chapter 1|Chapter I]]|5}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/1 Nephi/Chapter 2|Chapter II]]|16}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/1 Nephi/Chapter 3|Chapter III]]|21}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/1 Nephi/Chapter 4|Chapter IV]]|35}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/1 Nephi/Chapter 5|Chapter V]]|38}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/1 Nephi/Chapter 6|Chapter VI]]|52}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/1 Nephi/Chapter 7|Chapter VII]]|56}}
+{{TOC end}}}}
+
+{{dhr}}

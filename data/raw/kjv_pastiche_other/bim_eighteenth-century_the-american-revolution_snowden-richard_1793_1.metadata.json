@@ -1,0 +1,1653 @@
+{"alternate_locations":{"servers":[{"server":"dn720004.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1"}],"workable":[{"server":"dn720004.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1"}]},"created":1794488665,"d1":"ia600503.us.archive.org","d2":"ia800503.us.archive.org","dir":"/10/items/bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1696922360","size":"19270","md5":"1e4f5429bb5535f2faae9f98d0f2bae6","crc32":"db903f6e","sha1":"6ef42132bf609bf69693137c9f57ddd1a0da0a2a","format":"Item Tile","rotation":"0"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1.epub","source":"derivative","hocr_epub_module_version":"0.0.1","hocr_epub_hocr_version":"1.1.66","format":"EPUB","original":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_hocr.html","mtime":"1777518088","size":"139459615","md5":"fdfe171566c0c85c07b52df5721ed0fc","crc32":"fdd29af2","sha1":"8a770e6f4ef126c854c583e1601fd34a568e0b1c"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_page_numbers.json","mtime":"1696921630","size":"76405140","md5":"866a0d74459e239f6caca3fc76f8b505","crc32":"46190051","sha1":"97bd593fd40f76849d424db19c932123ad9eadb0"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_archive.torrent","source":"metadata","btih":"4213e9033b62b0ee2f9de17852e55ebc7979722d","mtime":"1783439352","size":"47017","md5":"1099a4dde45c73e6a94739a109f8b929","crc32":"6be0b153","sha1":"bcceb52d8bf88b996200d0d3878aa646e817b7ba","format":"Archive BitTorrent"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_jp2.zip","mtime":"1696917750","size":"2723082","md5":"61a8c2bdbac307a8515dea33e2f5b2df","crc32":"7142fe09","sha1":"4f7ad1caa41ceeb712ae42c1c859b42940316d1d"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_djvu.txt","source":"derivative","format":"DjVuTXT","original":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_djvu.xml","mtime":"1696918173","size":"173862","md5":"ff1f1872cbc3cd87dbd819ba437d6c91","crc32":"4c193428","sha1":"1a7d76307c93490abc83090a75f8cd02c454d4d6"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_djvu.xml","source":"derivative","format":"Djvu XML","original":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_hocr.html","mtime":"1696917938","size":"2860809","md5":"4517a1dc2e4aed7b45b1e7af7653efb3","crc32":"140a7d3f","sha1":"e5548821a7de9644471bbde6810a4c7c51fafacf"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_files.xml","source":"original","format":"Metadata","md5":"38d048009096b6c42c5aca200900a2a1","summation":"md5"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_frame-md.json","source":"original","mtime":"1696191115","size":"224","md5":"f98f6da340dd50ec1505bc11bc81b88b","crc32":"6f6cd942","sha1":"469e273d518e708830a0c3fe44e068db0acf4b67","format":"JSON"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_chocr.html.gz","mtime":"1696917877","size":"5815596","md5":"f2ee41faa0d518905e690dbb4eaa118d","crc32":"2c5b920f","sha1":"c7f620e4cc014e2320ce5c667b0bf2aac8782d4d"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_hocr.html","mtime":"1696918032","size":"2706","md5":"ddebfe94391d96a24b3ce1834ef60cb5","crc32":"fc74b047","sha1":"e91b7549be9946a6556074d9d4342b674876c9f7"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"506","word_conf_11_20":"339","word_conf_21_30":"540","word_conf_31_40":"682","word_conf_41_50":"780","word_conf_51_60":"929","word_conf_61_70":"1049","word_conf_71_80":"1266","word_conf_81_90":"3050","word_conf_91_100":"23383","format":"OCR Search Text","original":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_hocr.html","mtime":"1696918126","size":"60667","md5":"fa4066d6b856137ae810496c8dc71895","crc32":"b2634ab4","sha1":"6c7c1f6296a148ac36f5e72e7327bbd8b79fcc0f"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_itemimage.png","source":"original","mtime":"1696191113","size":"3121331","md5":"c84a24486d210bd76acfb9b2a6cfe50b","crc32":"9faa2fc5","sha1":"4e523736a7af11722c49ee8394ec6daea734fd56","format":"Item Image"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_jp2.zip","source":"original","mtime":"1696191098","size":"817748810","md5":"9c6c0d1f93cdbb2ed9e40f9ed3557933","crc32":"5d90b533","sha1":"ad5f691daff1270f583a769aa9a2fec3776c86fc","preview-image":"n0","format":"Single Page Processed JP2 ZIP","filecount":"235"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_meta.sqlite","source":"original","mtime":"1696191137","size":"69632","md5":"01f6147be3e8d6bb2756e6e1590d729b","crc32":"1e9fda74","sha1":"2971c7fbc15d77fcbcca923f8cbb85eff390d3cd","format":"Metadata"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_meta.xml","source":"original","mtime":"1783439338","size":"3944","md5":"e3cc41f0485655e30b4ef57eadc7998d","crc32":"1cdddda4","sha1":"9a934a935c65ed04bc545397a679b2909bc1c625","format":"Metadata"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"86","format":"Page Numbers JSON","original":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_hocr.html","mtime":"1696918726","size":"39559","md5":"e66ed9337f1c500efdc4c096f02a584c","crc32":"35211965","sha1":"839d9fdb37236b19a697637b1894f6dcb3f49774"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_rotations.json","source":"original","mtime":"1696191118","size":"21922","md5":"4bd8770f3c8719bd13f9acebe695665b","crc32":"22695f8c","sha1":"f50a79a6a05db0787d2da10d34ccb6dc9723ddef","format":"JSON"},{"name":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_scandata.xml","source":"derivative","format":"Scandata","original":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_djvu.xml","mtime":"1696918727","size":"83313","md5":"4fb7be18809376d06f5ac25e02a973e6","crc32":"61803de5","sha1":"60107c76410e0cbff1722720e9dbd36b20282919"},{"name":"header\/header_0000.jp2","source":"original","mtime":"1696191121","size":"1230532","md5":"cf2e26abc2351416864ad4e2099d784b","crc32":"947c9b4c","sha1":"9f5bdef36b88e467e91a88d2ce1e5a8eb3fa0123","format":"JPEG 2000"},{"name":"header\/header_0001.jp2","source":"original","mtime":"1696191120","size":"4099869","md5":"a07a73f30982e926585f8847c0dd8e2b","crc32":"1c67b69f","sha1":"df744c6fb9b20d526d9461941ad84d1434c7e950","format":"JPEG 2000"},{"name":"header\/header_0002.jp2","source":"original","mtime":"1696191126","size":"6079135","md5":"2b735cbf75cfd2b1977dd6e974aa0308","crc32":"feededee","sha1":"e5c986f8fbacef9f57830fd54fd6ca9504c9a26b","format":"JPEG 2000"},{"name":"header\/header_0003.jp2","source":"original","mtime":"1696191123","size":"3969534","md5":"2d068db0f6a6d224a710c8e5a3e0899e","crc32":"610c4ec3","sha1":"85f05284a864c5fe5c839d4398257d0e10a41623","format":"JPEG 2000"},{"name":"header\/header_0004.jp2","source":"original","mtime":"1696191125","size":"1564723","md5":"03774924ca054d8f597be91849914393","crc32":"17c6875f","sha1":"e98eba74ac1b077bd2794ca1c45c3bf0854397d0","format":"JPEG 2000"}],"files_count":24,"frame-md":{"header": {"right_to_left": null, "frame_start": 1, "frame_end": 4}, "issue": {"right_to_left": null, "frame_start": 747, "frame_cover": 747, "frame_end": 866, "cover_reverse_handedness": false, "split_start_frame": false}},"item_last_updated":1783439352,"item_size":1065600292,"metadata":{"identifier":"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1","adaptive_ocr":"true","auditor":"associate-jobert-apor@archive.org","betterpdf":"true","boxid":"IA40316208","canister":"IA40316208-05","collection":["pub_eighteenth-century","bim_microfilm","microfilm"],"collection-catalog-number":"t028422","contrast_max":"145","contrast_min":"37","contributor":"Internet Archive","copies":"2","creator":"Snowden, Richard.","date":"1793","derive_version":"0.0.22","description":"The American revolution; written in the style of ancient history. In two volumes. 1793: <a href=\"https://archive.org/search.php?query=sim_pubid%3A24073%20AND%20volume%3A1\" rel=\"ugc nofollow\">Volume 1</a>.<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40316208-05/page/n299\" rel=\"ugc nofollow\">IA40316208-05</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_court-intrigues-or-an-_smith-alexander_1730\" rel=\"ugc nofollow\">bim_eighteenth-century_court-intrigues-or-an-_smith-alexander_1730</a>.<br />Next issue: <a href=\"https://archive.org/details/bim_eighteenth-century_the-american-revolution_snowden-richard_1794_2\" rel=\"ugc nofollow\">bim_eighteenth-century_the-american-revolution_snowden-richard_1794_2</a>.","language":"English","mediatype":"texts","metadata_operator":"associate-jobert-apor@archive.org","next_item":"bim_eighteenth-century_the-american-revolution_snowden-richard_1794_2","notes":"Anonymous. By Richard Snowden. Vol.2 dated 1794 with the imprint: Philadelphia, printed by Jacob Johnson & Co., 1794.","ppi":"800","previous_item":"bim_eighteenth-century_court-intrigues-or-an-_smith-alexander_1730","pub_type":"Books","scanner":"microfilm04.cebu.archive.org","scanningcenter":"cebu","sim_pubid":"24073","software_version":"nextStar 4.5.0.20626","source":["IA40316208-05","microfilm"],"subject":["Language & Literature","Literary And Political Reviews","General Interest Periodicals--United Kingdom","Law","Philosophy & Religion","Fine & Performing Arts","Social Sciences","History","History--History of North And South America","Books","microfilm"],"title":"The American revolution; written in the style of ancient history. In two volumes.  1793: Vol 1","volume":"1","uploader":"merlijn+microfilmderiver@archive.org","publicdate":"2023-10-01 20:11:53","addeddate":"2023-10-01 20:11:53","identifier-access":"http://archive.org/details/bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1","identifier-ark":"ark:/13960/s2dkz9cgjt7","imagecount":"235","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"-l enm+Fraktur","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"86","page_number_module_version":"1.0.3","pdf_module_version":"0.0.23","foldoutcount":"0"},"page_numbers":{
+    "identifier": "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 86,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": 79,
+            "pageNumber": "2",
+            "pageProb": 69,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "3",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "4",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "5",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": 83,
+            "pageNumber": "6",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 16,
+            "confidence": 100,
+            "pageNumber": "7",
+            "pageProb": 95,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "8",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": 100,
+            "pageNumber": "9",
+            "pageProb": 95,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 19,
+            "confidence": 94,
+            "pageNumber": "10",
+            "pageProb": 84,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 20,
+            "confidence": 100,
+            "pageNumber": "11",
+            "pageProb": 93,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 21,
+            "confidence": 86,
+            "pageNumber": "12",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 22,
+            "confidence": 97,
+            "pageNumber": "13",
+            "pageProb": 87,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 23,
+            "confidence": 77,
+            "pageNumber": "14",
+            "pageProb": 67,
+            "wordConf": 79
+        },
+        {
+            "leafNum": 24,
+            "confidence": 99,
+            "pageNumber": "15",
+            "pageProb": 89,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 25,
+            "confidence": 81,
+            "pageNumber": "16",
+            "pageProb": 71,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 26,
+            "confidence": null,
+            "pageNumber": "17",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 27,
+            "confidence": null,
+            "pageNumber": "18",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 28,
+            "confidence": 100,
+            "pageNumber": "19",
+            "pageProb": 95,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 29,
+            "confidence": 90,
+            "pageNumber": "20",
+            "pageProb": 80,
+            "wordConf": 84
+        },
+        {
+            "leafNum": 30,
+            "confidence": 100,
+            "pageNumber": "21",
+            "pageProb": 95,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 31,
+            "confidence": 84,
+            "pageNumber": "24",
+            "pageProb": 74,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 32,
+            "confidence": null,
+            "pageNumber": "25",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 33,
+            "confidence": null,
+            "pageNumber": "26",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 34,
+            "confidence": 100,
+            "pageNumber": "27",
+            "pageProb": 90,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 35,
+            "confidence": 90,
+            "pageNumber": "28",
+            "pageProb": 80,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 36,
+            "confidence": 100,
+            "pageNumber": "29",
+            "pageProb": 94,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 37,
+            "confidence": 94,
+            "pageNumber": "30",
+            "pageProb": 84,
+            "wordConf": 79
+        },
+        {
+            "leafNum": 38,
+            "confidence": 100,
+            "pageNumber": "31",
+            "pageProb": 92,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 39,
+            "confidence": null,
+            "pageNumber": "32",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 40,
+            "confidence": 100,
+            "pageNumber": "33",
+            "pageProb": 94,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 41,
+            "confidence": 97,
+            "pageNumber": "34",
+            "pageProb": 87,
+            "wordConf": 86
+        },
+        {
+            "leafNum": 42,
+            "confidence": 100,
+            "pageNumber": "35",
+            "pageProb": 91,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 43,
+            "confidence": 94,
+            "pageNumber": "36",
+            "pageProb": 84,
+            "wordConf": 80
+        },
+        {
+            "leafNum": 44,
+            "confidence": 96,
+            "pageNumber": "37",
+            "pageProb": 86,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 45,
+            "confidence": 78,
+            "pageNumber": "38",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 46,
+            "confidence": 100,
+            "pageNumber": "39",
+            "pageProb": 91,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 47,
+            "confidence": 85,
+            "pageNumber": "40",
+            "pageProb": 75,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 48,
+            "confidence": null,
+            "pageNumber": "41",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 49,
+            "confidence": 86,
+            "pageNumber": "42",
+            "pageProb": 76,
+            "wordConf": 67
+        },
+        {
+            "leafNum": 50,
+            "confidence": 100,
+            "pageNumber": "43",
+            "pageProb": 94,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 51,
+            "confidence": null,
+            "pageNumber": "44",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 52,
+            "confidence": 100,
+            "pageNumber": "45",
+            "pageProb": 94,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 53,
+            "confidence": 90,
+            "pageNumber": "46",
+            "pageProb": 80,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 54,
+            "confidence": 100,
+            "pageNumber": "47",
+            "pageProb": 90,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 55,
+            "confidence": null,
+            "pageNumber": "48",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 56,
+            "confidence": 98,
+            "pageNumber": "49",
+            "pageProb": 88,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 57,
+            "confidence": 83,
+            "pageNumber": "50",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 58,
+            "confidence": null,
+            "pageNumber": "51",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 59,
+            "confidence": 81,
+            "pageNumber": "52",
+            "pageProb": 71,
+            "wordConf": 84
+        },
+        {
+            "leafNum": 60,
+            "confidence": 99,
+            "pageNumber": "53",
+            "pageProb": 89,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 61,
+            "confidence": 77,
+            "pageNumber": "54",
+            "pageProb": 67,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 62,
+            "confidence": null,
+            "pageNumber": "55",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 63,
+            "confidence": 78,
+            "pageNumber": "56",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 64,
+            "confidence": 100,
+            "pageNumber": "57",
+            "pageProb": 94,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 65,
+            "confidence": 89,
+            "pageNumber": "58",
+            "pageProb": 79,
+            "wordConf": 78
+        },
+        {
+            "leafNum": 66,
+            "confidence": 100,
+            "pageNumber": "59",
+            "pageProb": 93,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 67,
+            "confidence": 81,
+            "pageNumber": "60",
+            "pageProb": 71,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 68,
+            "confidence": null,
+            "pageNumber": "61",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 69,
+            "confidence": 78,
+            "pageNumber": "62",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 70,
+            "confidence": 98,
+            "pageNumber": "63",
+            "pageProb": 88,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 71,
+            "confidence": 70,
+            "pageNumber": "64",
+            "pageProb": 60,
+            "wordConf": 60
+        },
+        {
+            "leafNum": 72,
+            "confidence": 99,
+            "pageNumber": "65",
+            "pageProb": 89,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 73,
+            "confidence": 81,
+            "pageNumber": "66",
+            "pageProb": 71,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 74,
+            "confidence": 100,
+            "pageNumber": "67",
+            "pageProb": 91,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 75,
+            "confidence": 76,
+            "pageNumber": "68",
+            "pageProb": 66,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 76,
+            "confidence": 100,
+            "pageNumber": "69",
+            "pageProb": 95,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 77,
+            "confidence": 96,
+            "pageNumber": "70",
+            "pageProb": 86,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 78,
+            "confidence": 92,
+            "pageNumber": "71",
+            "pageProb": 82,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 79,
+            "confidence": 66,
+            "pageNumber": "72",
+            "pageProb": 56,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 80,
+            "confidence": 85,
+            "pageNumber": "73",
+            "pageProb": 75,
+            "wordConf": 86
+        },
+        {
+            "leafNum": 81,
+            "confidence": 76,
+            "pageNumber": "74",
+            "pageProb": 66,
+            "wordConf": 60
+        },
+        {
+            "leafNum": 82,
+            "confidence": null,
+            "pageNumber": "75",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 83,
+            "confidence": 88,
+            "pageNumber": "76",
+            "pageProb": 78,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 84,
+            "confidence": 100,
+            "pageNumber": "77",
+            "pageProb": 91,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 85,
+            "confidence": 94,
+            "pageNumber": "78",
+            "pageProb": 84,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 86,
+            "confidence": 100,
+            "pageNumber": "79",
+            "pageProb": 94,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 87,
+            "confidence": 94,
+            "pageNumber": "80",
+            "pageProb": 84,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 88,
+            "confidence": 100,
+            "pageNumber": "81",
+            "pageProb": 95,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 89,
+            "confidence": 100,
+            "pageNumber": "82",
+            "pageProb": 91,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 90,
+            "confidence": 92,
+            "pageNumber": "83",
+            "pageProb": 82,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 91,
+            "confidence": null,
+            "pageNumber": "84",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 92,
+            "confidence": null,
+            "pageNumber": "85",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 93,
+            "confidence": 84,
+            "pageNumber": "86",
+            "pageProb": 74,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 94,
+            "confidence": 98,
+            "pageNumber": "87",
+            "pageProb": 88,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 95,
+            "confidence": null,
+            "pageNumber": "88",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 96,
+            "confidence": 99,
+            "pageNumber": "89",
+            "pageProb": 89,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 97,
+            "confidence": null,
+            "pageNumber": "90",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 98,
+            "confidence": 95,
+            "pageNumber": "91",
+            "pageProb": 85,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 99,
+            "confidence": 86,
+            "pageNumber": "92",
+            "pageProb": 76,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 100,
+            "confidence": null,
+            "pageNumber": "93",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 101,
+            "confidence": null,
+            "pageNumber": "94",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 102,
+            "confidence": 92,
+            "pageNumber": "95",
+            "pageProb": 82,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 103,
+            "confidence": null,
+            "pageNumber": "96",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 104,
+            "confidence": 80,
+            "pageNumber": "97",
+            "pageProb": 70,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 105,
+            "confidence": null,
+            "pageNumber": "98",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 106,
+            "confidence": null,
+            "pageNumber": "99",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 107,
+            "confidence": 85,
+            "pageNumber": "100",
+            "pageProb": 75,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 108,
+            "confidence": 90,
+            "pageNumber": "101",
+            "pageProb": 80,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 109,
+            "confidence": 84,
+            "pageNumber": "102",
+            "pageProb": 74,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 110,
+            "confidence": 95,
+            "pageNumber": "103",
+            "pageProb": 85,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 111,
+            "confidence": 87,
+            "pageNumber": "104",
+            "pageProb": 77,
+            "wordConf": 77
+        },
+        {
+            "leafNum": 112,
+            "confidence": 80,
+            "pageNumber": "105",
+            "pageProb": 70,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 113,
+            "confidence": null,
+            "pageNumber": "106",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 114,
+            "confidence": null,
+            "pageNumber": "107",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 115,
+            "confidence": 89,
+            "pageNumber": "108",
+            "pageProb": 79,
+            "wordConf": 76
+        },
+        {
+            "leafNum": 116,
+            "confidence": null,
+            "pageNumber": "109",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 117,
+            "confidence": null,
+            "pageNumber": "110",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 118,
+            "confidence": 67,
+            "pageNumber": "111",
+            "pageProb": 57,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 119,
+            "confidence": 81,
+            "pageNumber": "112",
+            "pageProb": 71,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 120,
+            "confidence": null,
+            "pageNumber": "113",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 121,
+            "confidence": 84,
+            "pageNumber": "114",
+            "pageProb": 74,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 122,
+            "confidence": 87,
+            "pageNumber": "115",
+            "pageProb": 77,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 123,
+            "confidence": 91,
+            "pageNumber": "116",
+            "pageProb": 81,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 124,
+            "confidence": 87,
+            "pageNumber": "117",
+            "pageProb": 77,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 125,
+            "confidence": 81,
+            "pageNumber": "118",
+            "pageProb": 71,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 126,
+            "confidence": 69,
+            "pageNumber": "119",
+            "pageProb": 59,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 127,
+            "confidence": 77,
+            "pageNumber": "120",
+            "pageProb": 67,
+            "wordConf": 81
+        },
+        {
+            "leafNum": 128,
+            "confidence": null,
+            "pageNumber": "121",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 129,
+            "confidence": null,
+            "pageNumber": "122",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 130,
+            "confidence": 80,
+            "pageNumber": "123",
+            "pageProb": 70,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 131,
+            "confidence": 80,
+            "pageNumber": "124",
+            "pageProb": 70,
+            "wordConf": 67
+        },
+        {
+            "leafNum": 132,
+            "confidence": 87,
+            "pageNumber": "125",
+            "pageProb": 77,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 133,
+            "confidence": 87,
+            "pageNumber": "126",
+            "pageProb": 77,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 134,
+            "confidence": 79,
+            "pageNumber": "127",
+            "pageProb": 69,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 135,
+            "confidence": 90,
+            "pageNumber": "128",
+            "pageProb": 80,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 136,
+            "confidence": 73,
+            "pageNumber": "129",
+            "pageProb": 63,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 137,
+            "confidence": 88,
+            "pageNumber": "130",
+            "pageProb": 78,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 138,
+            "confidence": 83,
+            "pageNumber": "131",
+            "pageProb": 73,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 139,
+            "confidence": 86,
+            "pageNumber": "132",
+            "pageProb": 76,
+            "wordConf": 86
+        },
+        {
+            "leafNum": 140,
+            "confidence": 77,
+            "pageNumber": "133",
+            "pageProb": 67,
+            "wordConf": 77
+        },
+        {
+            "leafNum": 141,
+            "confidence": 76,
+            "pageNumber": "134",
+            "pageProb": 66,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 142,
+            "confidence": 78,
+            "pageNumber": "135",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 143,
+            "confidence": null,
+            "pageNumber": "136",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 144,
+            "confidence": 85,
+            "pageNumber": "137",
+            "pageProb": 75,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 145,
+            "confidence": 89,
+            "pageNumber": "138",
+            "pageProb": 79,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 146,
+            "confidence": 85,
+            "pageNumber": "139",
+            "pageProb": 75,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 147,
+            "confidence": 83,
+            "pageNumber": "140",
+            "pageProb": 73,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 148,
+            "confidence": 78,
+            "pageNumber": "141",
+            "pageProb": 68,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 149,
+            "confidence": 94,
+            "pageNumber": "142",
+            "pageProb": 84,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 150,
+            "confidence": 63,
+            "pageNumber": "143",
+            "pageProb": 53,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 151,
+            "confidence": 72,
+            "pageNumber": "144",
+            "pageProb": 62,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 152,
+            "confidence": null,
+            "pageNumber": "145",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 153,
+            "confidence": 72,
+            "pageNumber": "146",
+            "pageProb": 62,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 154,
+            "confidence": 79,
+            "pageNumber": "147",
+            "pageProb": 69,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 155,
+            "confidence": 77,
+            "pageNumber": "148",
+            "pageProb": 67,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 156,
+            "confidence": 89,
+            "pageNumber": "149",
+            "pageProb": 79,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 157,
+            "confidence": 83,
+            "pageNumber": "150",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 158,
+            "confidence": 71,
+            "pageNumber": "151",
+            "pageProb": 61,
+            "wordConf": 69
+        },
+        {
+            "leafNum": 159,
+            "confidence": 80,
+            "pageNumber": "152",
+            "pageProb": 70,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 160,
+            "confidence": 99,
+            "pageNumber": "153",
+            "pageProb": 89,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 161,
+            "confidence": 97,
+            "pageNumber": "154",
+            "pageProb": 87,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 162,
+            "confidence": null,
+            "pageNumber": "155",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 163,
+            "confidence": 66,
+            "pageNumber": "156",
+            "pageProb": 56,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 164,
+            "confidence": 62,
+            "pageNumber": "157",
+            "pageProb": 52,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 165,
+            "confidence": 72,
+            "pageNumber": "158",
+            "pageProb": 62,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 166,
+            "confidence": 83,
+            "pageNumber": "159",
+            "pageProb": 73,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 167,
+            "confidence": 83,
+            "pageNumber": "160",
+            "pageProb": 73,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 168,
+            "confidence": 81,
+            "pageNumber": "161",
+            "pageProb": 71,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 169,
+            "confidence": 79,
+            "pageNumber": "162",
+            "pageProb": 69,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 170,
+            "confidence": 74,
+            "pageNumber": "163",
+            "pageProb": 64,
+            "wordConf": 53
+        },
+        {
+            "leafNum": 171,
+            "confidence": 74,
+            "pageNumber": "164",
+            "pageProb": 64,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 172,
+            "confidence": 96,
+            "pageNumber": "165",
+            "pageProb": 86,
+            "wordConf": 82
+        },
+        {
+            "leafNum": 173,
+            "confidence": 92,
+            "pageNumber": "166",
+            "pageProb": 82,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 174,
+            "confidence": 71,
+            "pageNumber": "167",
+            "pageProb": 61,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 175,
+            "confidence": null,
+            "pageNumber": "168",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 176,
+            "confidence": 75,
+            "pageNumber": "169",
+            "pageProb": 65,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 177,
+            "confidence": 74,
+            "pageNumber": "170",
+            "pageProb": 64,
+            "wordConf": 88
+        },
+        {
+            "leafNum": 178,
+            "confidence": 85,
+            "pageNumber": "171",
+            "pageProb": 75,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 179,
+            "confidence": 85,
+            "pageNumber": "172",
+            "pageProb": 75,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 180,
+            "confidence": 82,
+            "pageNumber": "173",
+            "pageProb": 72,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 181,
+            "confidence": 74,
+            "pageNumber": "174",
+            "pageProb": 64,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 182,
+            "confidence": 86,
+            "pageNumber": "175",
+            "pageProb": 76,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 183,
+            "confidence": 90,
+            "pageNumber": "176",
+            "pageProb": 80,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 184,
+            "confidence": null,
+            "pageNumber": "177",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 185,
+            "confidence": 85,
+            "pageNumber": "178",
+            "pageProb": 75,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 186,
+            "confidence": 75,
+            "pageNumber": "179",
+            "pageProb": 65,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 187,
+            "confidence": 67,
+            "pageNumber": "180",
+            "pageProb": 57,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 188,
+            "confidence": 79,
+            "pageNumber": "181",
+            "pageProb": 69,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 189,
+            "confidence": 76,
+            "pageNumber": "182",
+            "pageProb": 66,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 190,
+            "confidence": null,
+            "pageNumber": "183",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 191,
+            "confidence": 67,
+            "pageNumber": "184",
+            "pageProb": 57,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 192,
+            "confidence": 78,
+            "pageNumber": "185",
+            "pageProb": 68,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 193,
+            "confidence": 80,
+            "pageNumber": "186",
+            "pageProb": 70,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 194,
+            "confidence": null,
+            "pageNumber": "187",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 195,
+            "confidence": 75,
+            "pageNumber": "188",
+            "pageProb": 65,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 196,
+            "confidence": 86,
+            "pageNumber": "189",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 197,
+            "confidence": 77,
+            "pageNumber": "190",
+            "pageProb": 67,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 198,
+            "confidence": 81,
+            "pageNumber": "191",
+            "pageProb": 71,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 199,
+            "confidence": 78,
+            "pageNumber": "192",
+            "pageProb": 68,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 200,
+            "confidence": 87,
+            "pageNumber": "193",
+            "pageProb": 77,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 201,
+            "confidence": null,
+            "pageNumber": "194",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 202,
+            "confidence": 75,
+            "pageNumber": "195",
+            "pageProb": 65,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 203,
+            "confidence": 73,
+            "pageNumber": "196",
+            "pageProb": 63,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 204,
+            "confidence": 73,
+            "pageNumber": "197",
+            "pageProb": 63,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 205,
+            "confidence": 76,
+            "pageNumber": "198",
+            "pageProb": 66,
+            "wordConf": 89
+        },
+        {
+            "leafNum": 206,
+            "confidence": 86,
+            "pageNumber": "199",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 207,
+            "confidence": 77,
+            "pageNumber": "200",
+            "pageProb": 67,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 208,
+            "confidence": 91,
+            "pageNumber": "201",
+            "pageProb": 81,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 209,
+            "confidence": 86,
+            "pageNumber": "202",
+            "pageProb": 76,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 210,
+            "confidence": 67,
+            "pageNumber": "203",
+            "pageProb": 57,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 211,
+            "confidence": 70,
+            "pageNumber": "204",
+            "pageProb": 60,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 212,
+            "confidence": 81,
+            "pageNumber": "205",
+            "pageProb": 71,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 213,
+            "confidence": null,
+            "pageNumber": "206",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 214,
+            "confidence": 73,
+            "pageNumber": "207",
+            "pageProb": 63,
+            "wordConf": 90
+        },
+        {
+            "leafNum": 215,
+            "confidence": 71,
+            "pageNumber": "208",
+            "pageProb": 61,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 216,
+            "confidence": 82,
+            "pageNumber": "209",
+            "pageProb": 72,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 217,
+            "confidence": 77,
+            "pageNumber": "210",
+            "pageProb": 67,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 218,
+            "confidence": 100,
+            "pageNumber": "211",
+            "pageProb": 90,
+            "wordConf": 95
+        },
+        {
+            "leafNum": 219,
+            "confidence": 87,
+            "pageNumber": "212",
+            "pageProb": 77,
+            "wordConf": 93
+        },
+        {
+            "leafNum": 220,
+            "confidence": 100,
+            "pageNumber": "213",
+            "pageProb": 93,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 221,
+            "confidence": 91,
+            "pageNumber": "214",
+            "pageProb": 81,
+            "wordConf": 91
+        },
+        {
+            "leafNum": 222,
+            "confidence": null,
+            "pageNumber": "215",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 223,
+            "confidence": 84,
+            "pageNumber": "216",
+            "pageProb": 74,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 224,
+            "confidence": 92,
+            "pageNumber": "217",
+            "pageProb": 82,
+            "wordConf": 94
+        },
+        {
+            "leafNum": 225,
+            "confidence": 72,
+            "pageNumber": "218",
+            "pageProb": 62,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 226,
+            "confidence": 83,
+            "pageNumber": "219",
+            "pageProb": 73,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 227,
+            "confidence": 64,
+            "pageNumber": "220",
+            "pageProb": 54,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 228,
+            "confidence": null,
+            "pageNumber": "221",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 229,
+            "confidence": 80,
+            "pageNumber": "222",
+            "pageProb": 70,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 230,
+            "confidence": 97,
+            "pageNumber": "223",
+            "pageProb": 87,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 231,
+            "confidence": 79,
+            "pageNumber": "224",
+            "pageProb": 69,
+            "wordConf": 92
+        },
+        {
+            "leafNum": 232,
+            "confidence": 98,
+            "pageNumber": "225",
+            "pageProb": 88,
+            "wordConf": 96
+        },
+        {
+            "leafNum": 233,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 234,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"rotations":{"issue": {"mean": -0.1548766394849785, "std": 1.3831667267583556, "lh_mean": -1.1348213362068966, "lh_std": 1.0214521686386677, "rh_mean": 0.8166924615384614, "rh_std": 0.9378013028438466}, "pages": {"bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0000.jp2": -0.463451, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0001.jp2": null, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0002.jp2": 1.700147, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0003.jp2": -0.589703, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0004.jp2": 1.410362, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0005.jp2": -1.270206, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0006.jp2": -0.355177, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0007.jp2": -1.345621, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0008.jp2": -0.795047, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0009.jp2": -0.880658, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0010.jp2": 1.203587, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0011.jp2": -0.862655, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0012.jp2": 0.119111, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0013.jp2": -0.273551, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0014.jp2": -0.545117, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0015.jp2": -1.379556, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0016.jp2": -1.15785, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0017.jp2": -0.148438, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0018.jp2": 1.090112, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0019.jp2": -1.016166, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0020.jp2": -0.530109, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0021.jp2": -0.159322, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0022.jp2": -0.505679, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0023.jp2": -0.858218, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0024.jp2": 0.60102, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0025.jp2": -2.014248, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0026.jp2": -0.524432, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0027.jp2": 0.408434, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0028.jp2": 1.361701, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0029.jp2": -0.64327, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0030.jp2": 0.279399, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0031.jp2": -1.207405, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0032.jp2": 1.263429, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0033.jp2": -1.311343, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0034.jp2": 1.994325, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0035.jp2": -0.575941, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0036.jp2": -0.327294, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0037.jp2": 1.162454, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0038.jp2": 0.609767, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0039.jp2": -0.122728, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0040.jp2": 1.495723, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0041.jp2": 0.794958, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0042.jp2": 1.396753, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0043.jp2": -0.166764, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0044.jp2": 1.913162, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0045.jp2": -1.880777, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0046.jp2": -0.186709, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0047.jp2": -1.358925, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0048.jp2": -1.105946, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0049.jp2": 0.02637, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0050.jp2": -0.544034, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0051.jp2": -1.203444, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0052.jp2": -0.814895, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0053.jp2": -0.611466, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0054.jp2": -0.467261, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0055.jp2": -0.396827, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0056.jp2": 1.892435, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0057.jp2": -1.059393, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0058.jp2": 1.61487, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0059.jp2": -1.982194, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0060.jp2": 0.622522, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0061.jp2": -1.145397, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0062.jp2": 0.332978, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0063.jp2": -0.627523, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0064.jp2": -0.515793, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0065.jp2": -0.525476, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0066.jp2": 0.792759, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0067.jp2": -1.120624, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0068.jp2": 1.54483, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0069.jp2": -1.754448, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0070.jp2": 2.113824, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0071.jp2": -2.273475, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0072.jp2": 0.520037, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0073.jp2": -1.318006, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0074.jp2": 0.444324, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0075.jp2": -2.227144, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0076.jp2": -0.089431, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0077.jp2": 0.579795, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0078.jp2": 2.067512, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0079.jp2": -0.963226, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0080.jp2": 1.118538, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0081.jp2": -0.174199, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0082.jp2": 1.718779, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0083.jp2": -1.414855, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0084.jp2": 1.228246, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0085.jp2": -0.155321, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0086.jp2": 0.821408, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0087.jp2": -0.112115, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0088.jp2": 1.053853, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0089.jp2": 0.19987, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0090.jp2": 2.387322, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0091.jp2": 1.458693, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0092.jp2": 1.634253, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0093.jp2": -1.529654, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0094.jp2": 2.114225, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0095.jp2": -1.177113, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0096.jp2": 0.560545, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0097.jp2": 0.391914, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0098.jp2": 2.498923, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0099.jp2": -0.846175, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0100.jp2": 0.585524, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0101.jp2": 0.245758, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0102.jp2": 1.137701, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0103.jp2": -1.701803, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0104.jp2": 1.206605, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0105.jp2": -1.467696, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0106.jp2": 1.975219, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0107.jp2": -1.705713, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0108.jp2": 1.270957, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0109.jp2": -1.741964, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0110.jp2": 1.271512, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0111.jp2": -1.833829, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0112.jp2": 0.350127, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0113.jp2": 0.07529, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0114.jp2": -0.652951, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0115.jp2": 0.654105, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0116.jp2": 1.495304, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0117.jp2": -1.412733, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0118.jp2": 1.230878, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0119.jp2": -1.832126, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0120.jp2": 0.940129, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0121.jp2": -1.910983, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0122.jp2": 0.532236, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0123.jp2": -0.78202, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0124.jp2": 0.539538, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0125.jp2": -1.006463, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0126.jp2": -0.004074, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0127.jp2": -0.887833, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0128.jp2": 0.89542, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0129.jp2": -1.418362, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0130.jp2": 1.183073, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0131.jp2": -2.340185, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0132.jp2": -0.187809, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0133.jp2": -0.67258, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0134.jp2": 0.377692, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0135.jp2": -1.088931, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0136.jp2": 0.351313, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0137.jp2": -0.400575, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0138.jp2": 0.149779, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0139.jp2": -0.318985, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0140.jp2": 0.220773, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0141.jp2": 0.072057, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0142.jp2": 2.087174, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0143.jp2": -1.644777, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0144.jp2": 0.352371, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0145.jp2": 0.116823, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0146.jp2": 1.227686, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0147.jp2": -1.412071, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0148.jp2": 0.377852, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0149.jp2": 0.105365, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0150.jp2": 1.868099, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0151.jp2": -2.655616, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0152.jp2": -1.249161, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0153.jp2": -0.329291, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0154.jp2": 1.839827, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0155.jp2": -2.536803, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0156.jp2": -0.309373, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0157.jp2": -0.068003, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0158.jp2": 0.734156, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0159.jp2": -1.916812, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0160.jp2": -0.664269, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0161.jp2": 0.014613, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0162.jp2": 1.99399, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0163.jp2": -3.902871, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0164.jp2": 1.538752, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0165.jp2": -1.308675, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0166.jp2": 1.722993, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0167.jp2": -2.628643, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0168.jp2": 0.663111, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0169.jp2": -1.394692, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0170.jp2": 0.583574, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0171.jp2": -2.384795, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0172.jp2": -0.055973, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0173.jp2": -0.284626, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0174.jp2": 0.412828, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0175.jp2": -0.846494, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0176.jp2": 1.709093, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0177.jp2": -1.652942, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0178.jp2": 2.286131, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0179.jp2": -1.826537, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0180.jp2": 2.515929, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0181.jp2": -3.784395, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0182.jp2": -0.575085, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0183.jp2": 0.046801, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0184.jp2": 0.461666, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0185.jp2": -1.520107, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0186.jp2": 0.355724, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0187.jp2": -1.472786, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0188.jp2": 0.677999, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0189.jp2": -1.526156, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0190.jp2": 1.328344, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0191.jp2": -3.106666, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0192.jp2": 0.396069, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0193.jp2": -0.398704, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0194.jp2": 1.948702, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0195.jp2": -1.801048, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0196.jp2": 0.830552, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0197.jp2": -1.858998, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0198.jp2": 0.978512, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0199.jp2": -1.856598, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0200.jp2": 1.083178, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0201.jp2": -0.907547, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0202.jp2": 2.286016, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0203.jp2": -3.39915, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0204.jp2": 1.507733, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0205.jp2": -2.124711, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0206.jp2": 0.510344, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0207.jp2": -1.087857, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0208.jp2": -0.035561, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0209.jp2": -0.428557, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0210.jp2": 2.362555, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0211.jp2": -2.965487, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0212.jp2": -0.22605, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0213.jp2": -0.060015, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0214.jp2": 1.715443, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0215.jp2": -2.860547, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0216.jp2": 1.03515, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0217.jp2": -1.13652, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0218.jp2": 1.055582, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0219.jp2": -1.142179, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0220.jp2": -0.182302, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0221.jp2": -0.33699, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0222.jp2": 2.280021, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0223.jp2": -2.928784, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0224.jp2": 2.45231, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0225.jp2": -3.080033, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0226.jp2": 2.000907, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0227.jp2": -2.263172, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0228.jp2": 1.588698, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0229.jp2": -2.344304, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0230.jp2": 0.597512, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0231.jp2": -1.450768, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0232.jp2": 0.022707, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0233.jp2": -2.150497, "bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1_0234.jp2": null}},"server":"ia800503.us.archive.org","uniq":2062630432,"workable_servers":["ia800503.us.archive.org","ia600503.us.archive.org"]}

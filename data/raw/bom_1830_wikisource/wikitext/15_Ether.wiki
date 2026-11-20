@@ -1,0 +1,22 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = Book of Ether
+ | previous    = [[Book of Mormon (1830)/Mormon|Mormon]]
+ | next        = [[Book of Mormon (1830)/Moroni|Moroni]]
+ | year        = 1830 
+ | notes       = <br>{{engine|The Book of Mormon|work=Book of Mormon (1830)}}
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" include="542" onlysection="TITLE" />
+
+{{AuxTOC|title=Chapters:|{{TOC begin}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Ether/Chapter 1|Chapter I]]|538}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Ether/Chapter 2|Chapter II]]|547}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Ether/Chapter 3|Chapter III]]|548}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Ether/Chapter 4|Chapter IV]]|555}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Ether/Chapter 5|Chapter V]]|562}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Ether/Chapter 6|Chapter VI]]|566}}
+{{TOC end}}}}
+
+{{dhr}}

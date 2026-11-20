@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SECTION 131 - Doctrine and Covenants</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script src="../../lib/soundmanager/script/soundmanager2.js"></script>
+	<script src="../../js/bar-ui.js"></script>
+	<script src="../../js/sidebar.js"></script>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css'>
+	<link rel="stylesheet" type="text/css" href="../../css/site.css">
+	<link rel="stylesheet" href="../../css/bar-ui.css" />
+	<link rel="stylesheet" href="../../css/bootstrap_5_0_0_sidebar.css">
+	<script src="../js/chapterdata.js"></script>
+	<script src="../js/navscripts.js"></script>
+	<script>document.addEventListener('copy', (event) => {copyAddBook();} );</script>
+	<style>
+html {
+    height: 100%;
+	min-height: 100%;
+    padding: 0px 0px;
+} 
+body {
+    height: 100%;
+	overflow: hidden;
+    padding: 0px 0px;
+    margin: 0px 0px;	
+}
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px; 
+	z-index: 1;
+	background-color: skyblue;
+	text-align: center;
+}
+.header-padding {
+	padding-top: 70px; 
+}
+.content {
+    position: relative;
+    height: 100%;
+    height: -webkit-calc(100% - 60px);
+    height: -moz-calc(100% - 60px);
+    height: calc(100% - 60px);
+	overflow-y: auto;
+	padding: 0px 2px 50px 3px; 
+	margin: 0px 0px 0px 0px; 	
+ }
+	</style>
+</head>
+<body onload="setupNav();">
+<header>
+	<span id="BkName"><b>DC</b></span>&nbsp;
+	<select id="selectedBook" onChange="updateBook()">
+		<option value="../../library/default.asp">Home</option>
+	</select>
+	<select id="selectedChapter" onchange="updateChapter()">
+	</select>
+	<input id="selectedVerse" type="hidden" value="1"><br>
+
+	<div class="sm2-bar-ui">
+	 <div class="bd sm2-main-controls">
+	  <div class="sm2-inline-element sm2-button-element">
+	   <div class="sm2-button-bd">
+		<a href="#play" class="sm2-inline-button sm2-icon-play-pause">Play / pause</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-inline-status">
+	   <div class="sm2-playlist">
+		<div class="sm2-playlist-target">
+		 <!-- playlist <ul> + <li> markup will be injected here -->
+		 <noscript><p>JavaScript is required.</p></noscript>
+		</div>
+	   </div>
+
+	   <div class="sm2-progress">
+		<div class="sm2-row">
+		<div class="sm2-inline-time">0:00</div>
+		 <div class="sm2-progress-bd">
+		  <div class="sm2-progress-track">
+		   <div class="sm2-progress-bar"></div>
+		   <div class="sm2-progress-ball"><div class="icon-overlay"></div></div>
+		  </div>
+		 </div>
+		 <div class="sm2-inline-duration">0:00</div>
+		</div>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-volume">
+	   <div class="sm2-button-bd">
+		<span class="sm2-inline-button sm2-volume-control volume-shade"></span>
+		<a href="#volume" class="sm2-inline-button sm2-volume-control">volume</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-menu">
+	   <div class="sm2-button-bd">
+		<a href="#menu" class="sm2-inline-button sm2-icon-menu">menu</a>
+	   </div>
+	  </div>
+	 </div>
+	 <div class="bd sm2-playlist-drawer sm2-element">
+	  <!-- playlist content is mirrored here -->
+	  <div class="sm2-playlist-wrapper">
+		<ul id="listAudioLinks" class="sm2-playlist-bd">
+		</ul>
+	  </div>
+	 </div>
+	</div>
+</header>
+<div class="header-padding"></div>
+<div class="content">
+<br>
+<h2 class="Book text-center" data-abbr="D&C">Doctrine and Covenants</h2><h3 class="text-center">Section 131</h3>
+<p class="Pcope red">April 14, 1914-Independence, Missouri. The last revelation given to the church through Joseph Smith III before his death on December 10, 1914.</p>
+<p class="Pcope red">Counsel to the Bishopric-Counsel against spreading suspicion and distrust</p>
+<a name="v1a"><p class="Verse">D&C 131:1a In agreement with the notice for the general fast of the church to be observed on the first Sunday, being the fifth day of April, 1914, I, Joseph Smith, President of the church, in common with the custom of the brotherhood, observed the rule requiring the fast and spent that day in meditation and prayer upon the work of God and our present duty in the affairs intrusted to our care.</p></a>
+<a name="v1b"><p class="Verse">D&C 131:1b Before the hour of breaking the fast came, I was blessed by the presence of the Holy Spirit resting upon me in quiet assurance and in power.</p></a>
+<a name="v1c"><p class="Verse">D&C 131:1c In the still, small voice which giveth light and understanding to the intelligence of man, exalting the soul and sanctifying the spirit, there came unto me the directing voice of him whose work we are engaged in.</p></a>
+<a name="v2a"><p class="Verse">D&C 131:2a Thus saith the Spirit unto the church: The time has now come when the necessities of the work require that the servants of the church, Bishops Edwin A. Blakeslee and Edmund L. Kelley, should be more closely associated in the carrying on of the financial affairs of the church and caring for the various organizations requiring the expenditure of moneys collected from the membership of the church and the care of the properties belonging to the church as an organization under the laws of the church and of the land.</p></a>
+<a name="v2b"><p class="Verse">D&C 131:2b To accomplish this object, the servant of the church, Edwin A. Blakeslee, should make himself more thoroughly acquainted with the affairs in the office of the Bishopric, that he may be better prepared to advise, strengthen, and aid in controlling the affairs of the Bishopric to the successful accomplishment of the object in view when he was called and ordained to the Bishopric.</p></a>
+<a name="v3a"><p class="Verse">D&C 131:3a The Spirit saith further that it is expedient that additional aid be given to the Bishopric in charge of the general affairs of the finances;</p></a>
+<a name="v3b"><p class="Verse">D&C 131:3b and to do this, Richard C. Kelley, son of my servant Bishop Edmund L. Kelley, should be called and ordained to the office of an elder, that he may act with the Bishopric in case of necessities and to work in the office of the Bishop in looking after and caring for the affairs appertaining to that office;</p></a>
+<a name="v3c"><p class="Verse">D&C 131:3c and in due time, if he approve himself in this work, he should receive an ordination to the high priesthood which would authorize him to act fully as a part of the Bishopric.</p></a>
+<a name="v4a"><p class="Verse">D&C 131:4a The Spirit saith further that the spirit of distrust and want of confidence in those who are called and ordained to act in the various responsible positions in the priesthood and in authority in the church is unbecoming those professing faith in God, Jesus Christ, his Son, and the Holy Spirit of truth, and evinces a serious lack of that charity which Paul, an apostle of Christ, declared to be the quality of Christian virtue which thinketh no evil.</p></a>
+<a name="v4b"><p class="Verse">D&C 131:4b Those who go out from the assemblies and solemn conclaves of the church should exercise great care in their ministration abroad, both to the branches where they may officiate and in their preaching the gospel to those outside, to avoid sowing seeds of distrust and suspicion either in public ministration or in private conversation.</p></a>
+<a name="v4c"><p class="Verse">D&C 131:4c The church has been admonished heretofore in this respect; and the Spirit saith again, It is unbecoming to the character and calling of those who administer in the name of Jesus Christ, the Lord.</p></a>
+<a name="v5"><p class="Verse">D&C 131:5 In witness whereof, I, Joseph Smith, president and servant of the church, hereto set my hand this fourteenth day of April in the year of our Lord 1914.</p></a>
+<p class="Pcope red">(Signed) Joseph Smith</p>
+</div>
+</body>
+</html>

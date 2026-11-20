@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SECTION 116 - Doctrine and Covenants</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script src="../../lib/soundmanager/script/soundmanager2.js"></script>
+	<script src="../../js/bar-ui.js"></script>
+	<script src="../../js/sidebar.js"></script>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css'>
+	<link rel="stylesheet" type="text/css" href="../../css/site.css">
+	<link rel="stylesheet" href="../../css/bar-ui.css" />
+	<link rel="stylesheet" href="../../css/bootstrap_5_0_0_sidebar.css">
+	<script src="../js/chapterdata.js"></script>
+	<script src="../js/navscripts.js"></script>
+	<script>document.addEventListener('copy', (event) => {copyAddBook();} );</script>
+	<style>
+html {
+    height: 100%;
+	min-height: 100%;
+    padding: 0px 0px;
+} 
+body {
+    height: 100%;
+	overflow: hidden;
+    padding: 0px 0px;
+    margin: 0px 0px;	
+}
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px; 
+	z-index: 1;
+	background-color: skyblue;
+	text-align: center;
+}
+.header-padding {
+	padding-top: 70px; 
+}
+.content {
+    position: relative;
+    height: 100%;
+    height: -webkit-calc(100% - 60px);
+    height: -moz-calc(100% - 60px);
+    height: calc(100% - 60px);
+	overflow-y: auto;
+	padding: 0px 2px 50px 3px; 
+	margin: 0px 0px 0px 0px; 	
+ }
+	</style>
+</head>
+<body onload="setupNav();">
+<header>
+	<span id="BkName"><b>DC</b></span>&nbsp;
+	<select id="selectedBook" onChange="updateBook()">
+		<option value="../../library/default.asp">Home</option>
+	</select>
+	<select id="selectedChapter" onchange="updateChapter()">
+	</select>
+	<input id="selectedVerse" type="hidden" value="1"><br>
+
+	<div class="sm2-bar-ui">
+	 <div class="bd sm2-main-controls">
+	  <div class="sm2-inline-element sm2-button-element">
+	   <div class="sm2-button-bd">
+		<a href="#play" class="sm2-inline-button sm2-icon-play-pause">Play / pause</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-inline-status">
+	   <div class="sm2-playlist">
+		<div class="sm2-playlist-target">
+		 <!-- playlist <ul> + <li> markup will be injected here -->
+		 <noscript><p>JavaScript is required.</p></noscript>
+		</div>
+	   </div>
+
+	   <div class="sm2-progress">
+		<div class="sm2-row">
+		<div class="sm2-inline-time">0:00</div>
+		 <div class="sm2-progress-bd">
+		  <div class="sm2-progress-track">
+		   <div class="sm2-progress-bar"></div>
+		   <div class="sm2-progress-ball"><div class="icon-overlay"></div></div>
+		  </div>
+		 </div>
+		 <div class="sm2-inline-duration">0:00</div>
+		</div>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-volume">
+	   <div class="sm2-button-bd">
+		<span class="sm2-inline-button sm2-volume-control volume-shade"></span>
+		<a href="#volume" class="sm2-inline-button sm2-volume-control">volume</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-menu">
+	   <div class="sm2-button-bd">
+		<a href="#menu" class="sm2-inline-button sm2-icon-menu">menu</a>
+	   </div>
+	  </div>
+	 </div>
+	 <div class="bd sm2-playlist-drawer sm2-element">
+	  <!-- playlist content is mirrored here -->
+	  <div class="sm2-playlist-wrapper">
+		<ul id="listAudioLinks" class="sm2-playlist-bd">
+		</ul>
+	  </div>
+	 </div>
+	</div>
+</header>
+<div class="header-padding"></div>
+<div class="content">
+<br>
+<h2 class="Book text-center" data-abbr="D&C">Doctrine and Covenants</h2><h3 class="text-center">Section 116</h3>
+<p class="Pcope red">May 4, 1865-Kendall County, Illinois. Following the United States Civil War, a council of the First Presidency and Quorum of Twelve met at the home of Bishop Israel L. Rogers to consider a number of issues, including "the ordination of men of the Negro race." Joseph Smith III received this revelation in response to the fasting and prayer of the council to receive the Lord's will.</p>
+<p class="Pcope red">Men of every race may be ordained to the priesthood-Admonitions to the priesthood</p>
+<a name="v1a"><p class="Verse">D&C 116:1a Hearken, ye elders of my church. I am he who hath called you friends. Concerning the matter you have asked of me,</p></a>
+<a name="v1b"><p class="Verse">D&C 116:1b Lo, it is my will that my gospel shall be preached to all nations in every land and that men of every tongue shall minister before me;</p></a>
+<a name="v1c"><p class="Verse">D&C 116:1c therefore, it is expedient in me that you ordain priests unto me of every race who receive the teachings of my law and become heirs according to the promise.</p></a>
+<a name="v2a"><p class="Verse">D&C 116:2a Be ye very careful, for many elders have been ordained unto me and are come under my condemnation, by reason of neglecting to lift up their voices in my cause; and for such there is tribulation and anguish;</p></a>
+<a name="v2b"><p class="Verse">D&C 116:2b haply they themselves may be saved (if doing no evil) though their glory, which is given for their works, be withheld or, in other words, their works are burned, not being profitable unto me.</p></a>
+<a name="v3a"><p class="Verse">D&C 116:3a Loosen ye one another's hands, and uphold one another, that ye who are of the Quorum of Twelve may all labor in the vineyard, for upon you rests much responsibility;</p></a>
+<a name="v3b"><p class="Verse">D&C 116:3b and if ye labor diligently, the time is soon when others shall be added to your number till the quorum be full, even twelve.</p></a>
+<a name="v4a"><p class="Verse">D&C 116:4a Be not hasty in ordaining men of the Negro race to offices in my church; for verily, I say unto you,</p></a>
+<a name="v4b"><p class="Verse">D&C 116:4b All are not acceptable unto me as servants; nevertheless, I will that all may be saved, but every man in his own order; and there are some who are chosen instruments to be ministers to their own race. Be ye content; I, the Lord, have spoken it.</p></a>
+</div>
+</body>
+</html>

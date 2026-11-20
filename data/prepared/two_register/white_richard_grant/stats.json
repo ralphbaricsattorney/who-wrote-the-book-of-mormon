@@ -1,0 +1,92 @@
+{
+ "scripture_ranges": {
+  "first": 889,
+  "last": 13228,
+  "notes_dropped": [
+   [
+    3494,
+    3748
+   ],
+   [
+    6511,
+    6698
+   ]
+  ]
+ },
+ "scripture_raw_words": 79145,
+ "scripture_verse_numbers_stripped": 1144,
+ "scripture_join": {
+  "hyphen_joined": 837,
+  "hyphen_kept": 31
+ },
+ "wtu_range": [
+  688,
+  17623
+ ],
+ "wtu_raw_words": 127913,
+ "wtu_join": {
+  "unhyphenated_joined": 1480,
+  "hyphen_joined": 142,
+  "hyphen_kept": 56
+ },
+ "wtu_words_before_quote_removal": 110698,
+ "england_range": [
+  441,
+  23997
+ ],
+ "england_raw_words": 193346,
+ "england_join": {
+  "hyphen_joined": 2721,
+  "hyphen_kept": 183
+ },
+ "england_words_before_quote_removal": 179334,
+ "words": {
+  "scripture__new_gospel_of_peace.txt": 60397,
+  "prose__words_and_their_uses.txt": 108329,
+  "prose__england_without_and_within.txt": 177080
+ },
+ "quotes_removed": {
+  "wtu": {
+   "spans": 31,
+   "words": 1211
+  },
+  "england": {
+   "spans": 5,
+   "words": 452
+  }
+ },
+ "removed_words_by_rule": {
+  "england:footnote": 4542,
+  "england:footnote_zone": 1330,
+  "england:heading": 161,
+  "england:junk": 49,
+  "england:running_head": 2547,
+  "england:small_type": 2060,
+  "england:verse": 373,
+  "england:verse_in_paragraph": 14,
+  "scripture:end_note": 2969,
+  "scripture:heading": 109,
+  "scripture:junk": 27,
+  "scripture:note": 9240,
+  "scripture:note_tail": 90,
+  "scripture:note_tail_before": 49,
+  "scripture:running_head": 1953,
+  "scripture:summary": 2253,
+  "wtu:footnote": 1970,
+  "wtu:footnote_zone": 886,
+  "wtu:heading": 207,
+  "wtu:junk": 74,
+  "wtu:running_head": 1813,
+  "wtu:small_type": 9749,
+  "wtu:verse": 789,
+  "wtu:verse_in_paragraph": 30
+ },
+ "long_s_check": {
+  "fuch": 0,
+  "himfelf": 0,
+  "faid": 0,
+  "firft": 0,
+  "fome": 0,
+  "alfo": 0
+ }
+}

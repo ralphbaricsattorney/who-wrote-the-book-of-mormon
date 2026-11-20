@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SECTION 117 - Doctrine and Covenants</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script src="../../lib/soundmanager/script/soundmanager2.js"></script>
+	<script src="../../js/bar-ui.js"></script>
+	<script src="../../js/sidebar.js"></script>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css'>
+	<link rel="stylesheet" type="text/css" href="../../css/site.css">
+	<link rel="stylesheet" href="../../css/bar-ui.css" />
+	<link rel="stylesheet" href="../../css/bootstrap_5_0_0_sidebar.css">
+	<script src="../js/chapterdata.js"></script>
+	<script src="../js/navscripts.js"></script>
+	<script>document.addEventListener('copy', (event) => {copyAddBook();} );</script>
+	<style>
+html {
+    height: 100%;
+	min-height: 100%;
+    padding: 0px 0px;
+} 
+body {
+    height: 100%;
+	overflow: hidden;
+    padding: 0px 0px;
+    margin: 0px 0px;	
+}
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px; 
+	z-index: 1;
+	background-color: skyblue;
+	text-align: center;
+}
+.header-padding {
+	padding-top: 70px; 
+}
+.content {
+    position: relative;
+    height: 100%;
+    height: -webkit-calc(100% - 60px);
+    height: -moz-calc(100% - 60px);
+    height: calc(100% - 60px);
+	overflow-y: auto;
+	padding: 0px 2px 50px 3px; 
+	margin: 0px 0px 0px 0px; 	
+ }
+	</style>
+</head>
+<body onload="setupNav();">
+<header>
+	<span id="BkName"><b>DC</b></span>&nbsp;
+	<select id="selectedBook" onChange="updateBook()">
+		<option value="../../library/default.asp">Home</option>
+	</select>
+	<select id="selectedChapter" onchange="updateChapter()">
+	</select>
+	<input id="selectedVerse" type="hidden" value="1"><br>
+
+	<div class="sm2-bar-ui">
+	 <div class="bd sm2-main-controls">
+	  <div class="sm2-inline-element sm2-button-element">
+	   <div class="sm2-button-bd">
+		<a href="#play" class="sm2-inline-button sm2-icon-play-pause">Play / pause</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-inline-status">
+	   <div class="sm2-playlist">
+		<div class="sm2-playlist-target">
+		 <!-- playlist <ul> + <li> markup will be injected here -->
+		 <noscript><p>JavaScript is required.</p></noscript>
+		</div>
+	   </div>
+
+	   <div class="sm2-progress">
+		<div class="sm2-row">
+		<div class="sm2-inline-time">0:00</div>
+		 <div class="sm2-progress-bd">
+		  <div class="sm2-progress-track">
+		   <div class="sm2-progress-bar"></div>
+		   <div class="sm2-progress-ball"><div class="icon-overlay"></div></div>
+		  </div>
+		 </div>
+		 <div class="sm2-inline-duration">0:00</div>
+		</div>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-volume">
+	   <div class="sm2-button-bd">
+		<span class="sm2-inline-button sm2-volume-control volume-shade"></span>
+		<a href="#volume" class="sm2-inline-button sm2-volume-control">volume</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-menu">
+	   <div class="sm2-button-bd">
+		<a href="#menu" class="sm2-inline-button sm2-icon-menu">menu</a>
+	   </div>
+	  </div>
+	 </div>
+	 <div class="bd sm2-playlist-drawer sm2-element">
+	  <!-- playlist content is mirrored here -->
+	  <div class="sm2-playlist-wrapper">
+		<ul id="listAudioLinks" class="sm2-playlist-bd">
+		</ul>
+	  </div>
+	 </div>
+	</div>
+</header>
+<div class="header-padding"></div>
+<div class="content">
+<br>
+<h2 class="Book text-center" data-abbr="D&C">Doctrine and Covenants</h2><h3 class="text-center">Section 117</h3>
+<p class="Pcope red">March 3, 1873-Plano, Illinois. Joseph Smith III received this revelation "in answer to long and continued and earnest prayer to God upon the condition of the quorums of the church." Joseph's only counselor in the First Presidency, William Marks, had died the previous year, and the death of Apostle Samuel Powers in February had left the Quorum of Twelve with only five members. Following this revelation, the First Presidency was filled for the first time since the church was reorganized in 1860.</p>
+<p class="Pcope red">  W. W. Blair and David H. Smith are called to the Presidency-Several are called to the Quorum of Twelve-The Bishop is to choose counselors and bishop's agents-Let contentions cease</p>
+<a name="v1"><p class="Verse">D&C 117:1 Hearken to the voice of the Spirit, O ye elders of my church. The prayers of my people have prevailed with me.</p></a>
+<a name="v2"><p class="Verse">D&C 117:2 Behold, it is wisdom in me and expedient in my church that the chief quorums should be more nearly filled and their organization more nearly completed. Thus saith the Spirit:</p></a>
+<a name="v3a"><p class="Verse">D&C 117:3a Let my servants William W. Blair and David H. Smith be chosen and ordained to be counselors to my servant, the presiding elder of my church.</p></a>
+<a name="v3b"><p class="Verse">D&C 117:3b Let them be set apart to this office by the laying on of hands by my servants, whose duty it is to ordain and set in order the officers of my church;</p></a>
+<a name="v3c"><p class="Verse">D&C 117:3c and let my servants, the president of the high priests' quorum and the president of the lesser priesthood, also lay their hands upon these, their brethren, who are to be counselors; but let my servants of the Twelve be the spokesmen.</p></a>
+<a name="v4a"><p class="Verse">D&C 117:4a Let my servants William H. Kelley, Thomas W. Smith, James Caffall, John H. Lake, Alexander H. Smith, Zenas H. Gurley, and Joseph R. Lambert be chosen as especial witnesses, even of the Quorum of Twelve, for they are called thereunto that they may take this ministry upon them.</p></a>
+<a name="v4b"><p class="Verse">D&C 117:4b Let them be ordained and set apart to this office by the laying on of the hands of my servants Joseph Smith, Jason W. Briggs, and William W. Blair.</p></a>
+<a name="v5"><p class="Verse">D&C 117:5 Verily, I say unto you, If these, my servants, will henceforth magnify their calling in honor before me, they shall become men of power and excellent wisdom in the assemblies of my people.</p></a>
+<a name="v6"><p class="Verse">D&C 117:6 Let the names of my servants Daniel B. Rasey and Reuben Newkirk be taken from the record of the Quorum of the Twelve and placed with the records of the names of the elders; and let them labor as elders, and their labors will be accepted by me.</p></a>
+<a name="v7a"><p class="Verse">D&C 117:7a It is my will that my servants Jason W. Briggs, Josiah Ells, and Edmund C. Briggs remain and stand in their lot as especial witnesses before me.</p></a>
+<a name="v7b"><p class="Verse">D&C 117:7b Let them diligently labor in their ministry, encouraging and directing their brethren in their labors.</p></a>
+<a name="v7c"><p class="Verse">D&C 117:7c It is expedient for the good of my cause that my servant Jason take the active oversight of this quorum.</p></a>
+<a name="v8a"><p class="Verse">D&C 117:8a Let my servants Archibald M. Wilsey, William D. Morton, and George Rarick be ordained high priests;</p></a>
+<a name="v8b"><p class="Verse">D&C 117:8b and let my servants E. C. Brand, Charles W. Wandell, and Duncan Campbell be appointed as special witnesses of the Seventy in their places;</p></a>
+<a name="v8c"><p class="Verse">D&C 117:8c and let my servants Joseph Lakeman, Glaud Rodger, John T. Davies, and John S. Patterson be also appointed as witnesses of the Seventy before me.</p></a>
+<a name="v9a"><p class="Verse">D&C 117:9a Until such time as the Quorum of the Twelve shall be filled, the decision of that quorum, a unanimous decision, shall be accounted final, as if such quorum were filled, according to my law as given in the Book of Doctrine and Covenants.</p></a>
+<a name="v9b"><p class="Verse">D&C 117:9b And until such time as the Quorum of the Seventy shall be filled, their decision, if unanimous and agreeing with that of the Quorum of the Twelve, shall be considered the same as if the quorum were filled.</p></a>
+<a name="v10a"><p class="Verse">D&C 117:10a It is expedient that the Bishop of my church shall choose two counselors and that they be ordained to their office as my law directs, that there may be henceforth no caviling among my people.</p></a>
+<a name="v10b"><p class="Verse">D&C 117:10b The Bishop of my church may also choose and appoint Bishop's agents until it shall be wisdom in me to ordain other bishops in the districts and large branches of my church.</p></a>
+<a name="v11a"><p class="Verse">D&C 117:11a It is not expedient in me that there shall be any stakes appointed until I command my people. When it shall be necessary, I will command that they be established.</p></a>
+<a name="v11b"><p class="Verse">D&C 117:11b Let my commandments to gather into the regions round about and the counsel of the elders of my church guide in this matter until it shall be otherwise given of me.</p></a>
+<a name="v12"><p class="Verse">D&C 117:12 Behold, if my servants and my handmaidens of the different organizations for good among my people shall continue in righteousness, they shall be blessed, even as they bless others of the household of faith.</p></a>
+<a name="v13"><p class="Verse">D&C 117:13 Let contentions and quarrelings among you cease. Sustain each other in peace; and ye shall be blessed with my Spirit, in comforting and strengthening you for my work.</p></a>
+<a name="v14"><p class="Verse">D&C 117:14 It is not expedient that I command you further at this time; but be ye diligent, wise, and faithful, doing all things with an eye single for the glory of your God and for the good of his people. Thus saith the Lord. Amen.</p></a>
+</div>
+</body>
+</html>

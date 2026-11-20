@@ -1,0 +1,568 @@
+{"alternate_locations":{"servers":[{"server":"dn720506.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751"},{"server":"dn760100.eu.archive.org","dir":"/0/items/bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751"}],"workable":[{"server":"dn720506.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751"},{"server":"dn760100.eu.archive.org","dir":"/0/items/bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751"}]},"created":1794778205,"d1":"ia601905.us.archive.org","d2":"ia801905.us.archive.org","dir":"/10/items/bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1687425780","size":"16459","md5":"849ea26f9d6009d0ccb1f282774e8128","crc32":"919d9bcd","sha1":"d375071dc7452da734003786863a5c8c263f5220","format":"Item Tile","rotation":"0"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751.epub","source":"derivative","original":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_hocr.html","mtime":"1699776544","size":"19774377","md5":"2e37c4aaa3dce90584495ccd034548e1","crc32":"961bdc1e","sha1":"a6aacce692f3197a75344bcd1e0ef980a105b929","format":"EPUB"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751.pdf","source":"derivative","pdf_module_version":"0.0.25","pdf_degraded":"invalid-jp2-headers","format":"Text PDF","original":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_page_numbers.json","mtime":"1776358819","size":"75359233","md5":"758886975afdb6cf34c27a77eaf66110","crc32":"b737e88e","sha1":"4086507f8db0fc867d65c4af88c812a0632039fb"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_archive.torrent","source":"metadata","btih":"e6e6db7773a13b38d65a4b88d370411869b9c5db","mtime":"1783440092","size":"22745","md5":"1a41393c94c12ee6caad88fbe518aad7","crc32":"b9f1fde1","sha1":"9bd04bcd811197f511d682cbf8902e2c7b8f53d4","format":"Archive BitTorrent"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.8817","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_jp2.zip","mtime":"1687422915","size":"3390619","md5":"713ffe32913fd674fd5f61b3b09c7912","crc32":"706c945e","sha1":"cc44973b569374cffa29edb8c86706b4e615a755"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_daisy.zip","source":"derivative","hocr_epub_module_version":"0.0.1","hocr_epub_hocr_version":"1.1.66","format":"Daisy","original":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_hocr.html","mtime":"1776353489","size":"165560","md5":"f61637d45a5071c9c2e59ed9f196f42e","crc32":"48ba9a25","sha1":"f1cdb39871693c2a3c663f2c968edeb0a548f878","filecount":"9"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_djvu.txt","source":"derivative","format":"DjVuTXT","original":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_djvu.xml","mtime":"1687423402","size":"227346","md5":"5cd867eaa753ec06c260e5a842d0fea0","crc32":"eef55b4e","sha1":"a3478846067fea092a6f8d7ef2ea1723770e0445"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_djvu.xml","source":"derivative","format":"Djvu XML","original":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_hocr.html","mtime":"1687423132","size":"3693024","md5":"f31f5ea0bcec58478269fbd700709dcd","crc32":"204ca8c8","sha1":"d773442ac5706c30992b01503409d386bb6cdd10"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_files.xml","source":"original","format":"Metadata","md5":"107b3ca1536af3bf0e673cd0960542f2","summation":"md5"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_frame-md.json","source":"original","mtime":"1687419133","size":"227","md5":"d97574152710f1e3ddf4b2b9aa43bb08","crc32":"c5bdccbb","sha1":"614a49246f7cfa9633b2421c1d58a8ee668bc21e","format":"JSON"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.1.0","hocr_char_to_word_hocr_version":"1.1.15","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.8817","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_chocr.html.gz","mtime":"1687423108","size":"7681526","md5":"aa3a46d9a6c45eab7a18101f88bde703","crc32":"d3ff3e0b","sha1":"732f8fac6cbb11c6d3ee3c8055fa23e2c680c7bd"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_hocr.html","mtime":"1687423286","size":"982","md5":"cd4a4aa4d288ee4f2a9b95c3fcd103ca","crc32":"45d11690","sha1":"02ff739f662114f86449591b1e1ee44e7b3b9863"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"522","word_conf_11_20":"415","word_conf_21_30":"568","word_conf_31_40":"726","word_conf_41_50":"828","word_conf_51_60":"869","word_conf_61_70":"1026","word_conf_71_80":"1392","word_conf_81_90":"4305","word_conf_91_100":"31671","format":"OCR Search Text","original":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_hocr.html","mtime":"1687423384","size":"78759","md5":"a7588e83d99f8f579e33e48842d662ec","crc32":"80fcedeb","sha1":"a62ff9c46536a39e45f5a2b1985bd45151dbe464"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_itemimage.png","source":"original","mtime":"1687419138","size":"7144267","md5":"be13021acc7eb9a7c2db3d239b072173","crc32":"e0b0418b","sha1":"332ffcb309b440b0b6a709a077ba1042bc7a5e07","format":"Item Image"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_jp2.zip","source":"original","mtime":"1687419121","size":"316980880","md5":"a04d0438c34dca4e9e2098a022ac9912","crc32":"5d7a27a8","sha1":"14ea4119bb2ed8581f25bea1ffed91fddb73d0d8","preview-image":"n0","format":"Single Page Processed JP2 ZIP","filecount":"80"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_meta.sqlite","source":"original","mtime":"1687419162","size":"49152","md5":"8dacfc9d583f8da7f5f98f03ec983163","crc32":"ebb44dc0","sha1":"06d9edc795005c97858385ee00a784157ff45764","format":"Metadata"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_meta.xml","source":"original","mtime":"1783440086","size":"3506","md5":"ccd940d992c3665e2e8d9f057384398d","crc32":"fa85fbd8","sha1":"baa58c0f766cac68be5bd090cb9a194886e2c6c6","format":"Metadata"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.5","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_hocr.html","mtime":"1776353949","size":"13705","md5":"a68a0d5bc1db3354f637901d15b49f78","crc32":"39d33aa5","sha1":"df364c1d59fcfcdd660b3ef89b32533e8ba3b739"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_rotations.json","source":"original","mtime":"1687419135","size":"6699","md5":"a293c4c00eeffc2bf6a5078e2b1e2311","crc32":"da4ff21e","sha1":"3fe9d9b5c6b5d858b45a34ee86d3ebe7d5260b1e","format":"JSON"},{"name":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_scandata.xml","source":"derivative","format":"Scandata","original":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_djvu.xml","mtime":"1776353949","size":"26058","md5":"3dcb385678b3ab535f7d11d011600a46","crc32":"9eb1e562","sha1":"cccb5f8752e23cbdf28d6f7ddb1493cc5591a1ef"},{"name":"header\/header_0000.jp2","source":"original","mtime":"1687419142","size":"504818","md5":"c511b309aaf25617d190b851462dc6a1","crc32":"775d7a55","sha1":"f34fc131bc62bb83475ebe1442322a3c032ca492","format":"JPEG 2000"},{"name":"header\/header_0001.jp2","source":"original","mtime":"1687419144","size":"2452643","md5":"045812cf1c15a7c0bdc305ff88e56c32","crc32":"e98cf806","sha1":"2878954ab68b4bb54dfacbc588a02907411ff77d","format":"JPEG 2000"},{"name":"header\/header_0002.jp2","source":"original","mtime":"1687419147","size":"2300328","md5":"1426e91908352a092364527d80ee74b7","crc32":"d4eea40d","sha1":"cc17c0f79f946e4b598a3f1c7a24a707928e8d86","format":"JPEG 2000"}],"files_count":23,"frame-md":{"header": {"right_to_left": null, "frame_start": 1, "frame_end": 2}, "issue": {"right_to_left": null, "frame_start": 1083, "frame_cover": 1083, "frame_end": 1123, "cover_reverse_handedness": false, "split_start_frame": false}},"item_last_updated":1783440092,"item_size":439892913,"metadata":{"identifier":"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751","adaptive_ocr":"true","auditor":"associate-jonathan-balignot@archive.org","betterpdf":"true","boxid":"IA40315908","canister":"IA40315908-85","collection":["pub_eighteenth-century","bim_microfilm","microfilm"],"contrast_max":"156","contrast_min":"21","contributor":"Internet Archive","copies":"2","creator":"[Ilive, Jacob].","date":"1751","derive_version":"0.0.22","description":"The Book of Jasher. 1751..<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40315908-85/page/n478\" rel=\"ugc nofollow\">IA40315908-85</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_a-common-place-book-to-t_bible-selections_1766\" rel=\"ugc nofollow\">bim_eighteenth-century_a-common-place-book-to-t_bible-selections_1766</a>.<br />Next issue: <a href=\"https://archive.org/details/bim_eighteenth-century_a-letter-to-the-right-re_geddes-alexander_1787\" rel=\"ugc nofollow\">bim_eighteenth-century_a-letter-to-the-right-re_geddes-alexander_1787</a>.","language":"English","mediatype":"texts","metadata_operator":"associate-jonathan-balignot@archive.org","next_item":"bim_eighteenth-century_a-letter-to-the-right-re_geddes-alexander_1787","ppi":"800","previous_item":"bim_eighteenth-century_a-common-place-book-to-t_bible-selections_1766","pub_type":"Books","scanner":"microfilm04.cebu.archive.org","scanningcenter":"cebu","sim_pubid":"24073","software_version":"nextStar 4.5.0.20626","source":["IA40315908-85","microfilm"],"subject":["Language & Literature","Literary And Political Reviews","General Interest Periodicals--United Kingdom","Law","Philosophy & Religion","Fine & Performing Arts","Social Sciences","History","History--History of North And South America","Books","microfilm"],"title":"The Book of Jasher.  1751","uploader":"merlijn+microfilmderiver@archive.org","publicdate":"2023-06-22 07:32:15","addeddate":"2023-06-22 07:32:15","identifier-access":"http://archive.org/details/bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751","identifier-ark":"ark:/13960/s2pv1bd3cnf","imagecount":"80","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"-l enm+Fraktur","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"0.8817","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","foldoutcount":"0","page_number_confidence":"0","page_number_module_version":"1.0.5","pdf_degraded":"invalid-jp2-headers","pdf_module_version":"0.0.25"},"page_numbers":{
+    "identifier": "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 0,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 19,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 20,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 21,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 22,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 23,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 24,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 25,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 26,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 27,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 28,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 29,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 30,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 31,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 32,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 33,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 34,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 35,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 36,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 37,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 38,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 39,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 40,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 41,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 42,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 43,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 44,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 45,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 46,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 47,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 48,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 49,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 50,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 51,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 52,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 53,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 54,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 55,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 56,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 57,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 58,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 59,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 60,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 61,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 62,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 63,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 64,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 65,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 66,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 67,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 68,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 69,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 70,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 71,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 72,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 73,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 74,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 75,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 76,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 77,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 78,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 79,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"rotations":{"issue": {"mean": 0.032077379746835444, "std": 0.6816381009700144, "lh_mean": -0.24298420512820512, "lh_std": 0.7439049030261309, "rh_mean": 0.300262425, "rh_std": 0.48207361954212385}, "pages": {"bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0000.jp2": 0.115352, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0001.jp2": null, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0002.jp2": 0.732066, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0003.jp2": 0.182185, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0004.jp2": 0.680073, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0005.jp2": -0.07938, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0006.jp2": -0.104367, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0007.jp2": -0.596022, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0008.jp2": 1.078574, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0009.jp2": 0.133652, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0010.jp2": 1.412076, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0011.jp2": 0.281133, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0012.jp2": 0.706439, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0013.jp2": -0.654823, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0014.jp2": 0.680579, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0015.jp2": -0.160527, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0016.jp2": -0.497778, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0017.jp2": -1.021537, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0018.jp2": -0.030389, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0019.jp2": 0.511183, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0020.jp2": -0.214877, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0021.jp2": 1.175393, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0022.jp2": 0.709119, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0023.jp2": -0.049545, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0024.jp2": 0.82158, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0025.jp2": -0.078828, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0026.jp2": 0.172967, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0027.jp2": 0.342395, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0028.jp2": 0.277056, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0029.jp2": 0.628474, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0030.jp2": 0.684047, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0031.jp2": 0.461589, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0032.jp2": 0.426697, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0033.jp2": -0.023552, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0034.jp2": 0.239878, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0035.jp2": 0.583345, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0036.jp2": 0.554601, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0037.jp2": 0.033978, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0038.jp2": 0.476427, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0039.jp2": 0.018417, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0040.jp2": 0.398665, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0041.jp2": -0.568154, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0042.jp2": 0.326038, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0043.jp2": -0.787424, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0044.jp2": -0.125082, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0045.jp2": 0.511607, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0046.jp2": 0.777845, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0047.jp2": -1.980739, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0048.jp2": -0.400109, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0049.jp2": 0.062674, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0050.jp2": -0.476472, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0051.jp2": -1.100668, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0052.jp2": -0.873765, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0053.jp2": 0.470433, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0054.jp2": -0.08466, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0055.jp2": -2.350215, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0056.jp2": 0.146572, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0057.jp2": 0.37815, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0058.jp2": 1.08028, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0059.jp2": -0.385541, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0060.jp2": -0.08974, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0061.jp2": 0.439946, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0062.jp2": 0.636433, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0063.jp2": -0.582007, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0064.jp2": -0.08901, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0065.jp2": 0.450229, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0066.jp2": 0.319921, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0067.jp2": -0.581621, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0068.jp2": 0.572905, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0069.jp2": -0.333939, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0070.jp2": 0.822807, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0071.jp2": -1.680349, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0072.jp2": 0.216619, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0073.jp2": -0.945302, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0074.jp2": -0.266884, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0075.jp2": -0.351635, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0076.jp2": 0.24033, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0077.jp2": -0.693909, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0078.jp2": -0.042316, "bim_eighteenth-century_the-book-of-jasher_ilive-jacob_1751_0079.jp2": -1.13545}},"server":"ia601905.us.archive.org","uniq":1547313094,"workable_servers":["ia601905.us.archive.org","ia801905.us.archive.org"]}

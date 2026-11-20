@@ -1,0 +1,358 @@
+{"alternate_locations":{"servers":[{"server":"dn720208.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741"}],"workable":[{"server":"dn720208.ca.archive.org","dir":"/0/items/bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741"}]},"created":1794778490,"d1":"ia600505.us.archive.org","d2":"ia800505.us.archive.org","dir":"/35/items/bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1783445925","size":"22662","md5":"9ddf74f17bec34742fa22d92989a16c3","crc32":"3377520c","sha1":"05680e23dc791eba8d629bf0a89fb4fe3818b9bf","format":"Item Tile","rotation":"0"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741.pdf","source":"derivative","pdf_module_version":"0.0.23","format":"Text PDF","original":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_page_numbers.json","mtime":"1696500945","size":"44462730","md5":"02354664e9f2445b2fc2290ead6085a4","crc32":"1ddf5291","sha1":"042fc897f414f893eb5c7048957b8a3a4f0377c1"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_archive.torrent","source":"metadata","btih":"9eb9d3db1dd9293be7e01cee2555effda0848d44","mtime":"1783445930","size":"18332","md5":"5c9be0d7386a7123ccd066559fb381da","crc32":"ac346e42","sha1":"52325c4c9b028afea75fa6dba8825ddaee5c010f","format":"Archive BitTorrent"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_chocr.html.gz","source":"derivative","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"chOCR","original":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_jp2.zip","mtime":"1696498429","size":"848362","md5":"aac9bd2bc26cd8d07523ccc7ca10a4e5","crc32":"b7065624","sha1":"0aa664bb1779f06767f3820ad472943fd0d4552b"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_djvu.txt","source":"derivative","format":"DjVuTXT","original":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_djvu.xml","mtime":"1696499325","size":"52576","md5":"764f8f6674c8992232a014541b5f54f8","crc32":"b3d95636","sha1":"bb2a79c8d7edcef3040251a52ba8760a29ad97bd"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_djvu.xml","source":"derivative","format":"Djvu XML","original":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_hocr.html","mtime":"1696498761","size":"937270","md5":"de24bc981cfad6baddec80b9347a78c2","crc32":"ef3fb67e","sha1":"9e80a582c0b75f72b8d9e62428b19cb44bc4c765"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_files.xml","source":"original","format":"Metadata","md5":"ef07006d8c9871482d9e0410a8f40f43","summation":"md5"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_frame-md.json","source":"original","mtime":"1695869350","size":"227","md5":"66fa9398a48dc960eb3c0a223770a7f8","crc32":"fed5cdae","sha1":"a9f9f6e9ebad4a12144e77d8825e55ff0005e954","format":"JSON"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_parameters":"lang-enm;lang-Fraktur;two-pass-disabled;pass-dpi-enabled;autonomous-mode-disabled;binarisation-method-leptonica-sauvola","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","format":"hOCR","original":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_chocr.html.gz","mtime":"1696498730","size":"1938114","md5":"ce605eded8fbc9d013d65bd03aed4033","crc32":"4540c165","sha1":"1e9a6b07839ad521c9b10478fcef32a7b91e4258"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_hocr.html","mtime":"1696498967","size":"581","md5":"c24cc5efe59ec612ecaae7febd26a809","crc32":"78a7d3b9","sha1":"355743ac9849c8d414f7e1f104860104ef3aea1d"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"385","word_conf_11_20":"345","word_conf_21_30":"479","word_conf_31_40":"574","word_conf_41_50":"603","word_conf_51_60":"567","word_conf_61_70":"589","word_conf_71_80":"633","word_conf_81_90":"1222","word_conf_91_100":"5589","format":"OCR Search Text","original":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_hocr.html","mtime":"1696499247","size":"23223","md5":"54d375208c73bf64855c9a19fd21ed96","crc32":"138265bb","sha1":"ef432c8dcacaec05058776d81bb5c94169388701"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_itemimage.png","source":"original","mtime":"1695869349","size":"4575496","md5":"ead21dc460e3c38ae1e8a7a611e332b0","crc32":"ff5cf221","sha1":"de1e750b12f9623d574aff2b31fc89ae02a03a8c","format":"Item Image"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_jp2.zip","source":"original","mtime":"1695869332","size":"237316678","md5":"96d6bd6817d4d68ca266a15c36d9d53c","crc32":"0c6b9e4d","sha1":"c9919c8b6bc0efb5bb6fb9895db2d7f5be1b5770","preview-image":"n0","format":"Single Page Processed JP2 ZIP","filecount":"50"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_meta.sqlite","source":"original","mtime":"1695869372","size":"73728","md5":"022e46dd68180fc8ed4e02b656e8a98c","crc32":"a832ef23","sha1":"ef09a612ba6de7274e2c21ee3012ea44c70fe70b","format":"Metadata"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_meta.xml","source":"original","mtime":"1783445922","size":"3823","md5":"dc8b50645211d83d35428dce93865030","crc32":"a8baf3a6","sha1":"c6f79479403d2ee5aeda8367305d1b8c88600980","format":"Metadata"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_hocr.html","mtime":"1696500060","size":"8644","md5":"4c7f1b69a5c127c02c9a63edd991591c","crc32":"1bae8bf5","sha1":"ab150c9e2ce15e10dc9e1f4cab8abb62337b0070"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_rotations.json","source":"original","mtime":"1695869346","size":"4722","md5":"9081b5d337e57a02dd56126f55f0009b","crc32":"bed99495","sha1":"7f8213881c3a22b3f840557f1b27928f74192c30","format":"JSON"},{"name":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_scandata.xml","source":"derivative","format":"Scandata","original":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_djvu.xml","mtime":"1696500060","size":"16309","md5":"df04e9aba1e5add6c700b27720e8731f","crc32":"b1182eaf","sha1":"66dba743f88295018d4cd9068f703a45a6e6fcc0"},{"name":"header\/header_0000.jp2","source":"original","mtime":"1695869363","size":"833130","md5":"e846552f3e924888ee5c4d07e3a61401","crc32":"b8d886da","sha1":"1b744828b0adf7c80b3c4b80d000f8985f6edf0f","format":"JPEG 2000"},{"name":"header\/header_0001.jp2","source":"original","mtime":"1695869359","size":"3542764","md5":"1d5ba63a03064a5a0714af4b27efa790","crc32":"84805957","sha1":"a7448f65a6d42e9c7696f83161428533a2586d59","format":"JPEG 2000"},{"name":"header\/header_0002.jp2","source":"original","mtime":"1695869361","size":"3528658","md5":"244e93f09c1c599c675b5f35192409e1","crc32":"9c83ad6d","sha1":"48793ba196678418ff8b5274c41008af72c398ee","format":"JPEG 2000"},{"name":"header\/header_0003.jp2","source":"original","mtime":"1695869358","size":"3497963","md5":"274b93c839013f74f39bd6b3937eac13","crc32":"85aa5458","sha1":"5ce5e228016dd58f8bd77f14c9cda955976c97aa","format":"JPEG 2000"},{"name":"header\/header_0004.jp2","source":"original","mtime":"1695869352","size":"3533470","md5":"d45eda823956ccaa3f23fcd81732909c","crc32":"3c7b69de","sha1":"2b6fa945d4ddea7d400fa7027e9ba73b9c7e36ca","format":"JPEG 2000"},{"name":"header\/header_0005.jp2","source":"original","mtime":"1695869354","size":"3287773","md5":"710409c398e27aee945c452a5a9cbb74","crc32":"892c5a47","sha1":"8a618ba6947d2bafa525419ab555617f3c83eb81","format":"JPEG 2000"},{"name":"header\/header_0006.jp2","source":"original","mtime":"1695869356","size":"3120203","md5":"0cd0a565a7117330253882e85c768b49","crc32":"e225a277","sha1":"0af34149374c1365fb760fd6815e0ba018708b6b","format":"JPEG 2000"}],"files_count":25,"frame-md":{"header": {"right_to_left": null, "frame_start": 1, "frame_end": 7}, "issue": {"right_to_left": null, "frame_start": 1001, "frame_cover": 1001, "frame_end": 1026, "cover_reverse_handedness": false, "split_start_frame": false}},"item_last_updated":1783445930,"item_size":311647438,"metadata":{"identifier":"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741","adaptive_ocr":"true","auditor":"associate-russelpamela-maglasang@archive.org","betterpdf":"true","boxid":"IA40310305","canister":"IA40310305-86","collection":["pub_eighteenth-century","bim_microfilm","microfilm"],"collection-catalog-number":"t047282","contrast_max":"108","contrast_min":"16","contributor":"Internet Archive","copies":"2","creator":"Dodsley, Robert","date":"1741","derive_version":"0.0.22","description":"The second book of The chronicle of the Kings of England, from the reign of Queen Elizabeth unto the present time. Written in the manner of the ancient Jewish historians. By Nathan Ben Saddi, a priest of the Jews. 1741..<br />Digitized from <a href=\"https://archive.org/details/sim_raw_scan_IA40310305-86/page/n533\" rel=\"ugc nofollow\">IA40310305-86</a>.<br />Previous issue: <a href=\"https://archive.org/details/bim_eighteenth-century_a-fragment-of-the-chroni_1753\" rel=\"ugc nofollow\">bim_eighteenth-century_a-fragment-of-the-chroni_1753</a>.<br />Next issue: <a href=\"https://archive.org/details/bim_eighteenth-century_reflections-on-the-oppos_christian_1780\" rel=\"ugc nofollow\">bim_eighteenth-century_reflections-on-the-oppos_christian_1780</a>.","language":"English","mediatype":"texts","metadata_operator":"associate-jerald-capanay@archive.org","next_item":"bim_eighteenth-century_reflections-on-the-oppos_christian_1780","ppi":"800","previous_item":"bim_eighteenth-century_a-fragment-of-the-chroni_1753","pub_type":"Books","scanner":"microfilm03.cebu.archive.org","scanningcenter":"cebu","sim_pubid":"24073","software_version":"nextStar 4.5.0.20626","source":["IA40310305-86","microfilm"],"subject":["Language & Literature","Literary And Political Reviews","General Interest Periodicals--United Kingdom","Law","Philosophy & Religion","Fine & Performing Arts","Social Sciences","History","History--History of North And South America","Books","microfilm"],"title":"The second book of The chronicle of the Kings of England, from the reign of Queen Elizabeth unto the present time. Written in the manner of the ancient Jewish historians. By Nathan Ben Saddi, a priest of the Jews.  1741","uploader":"merlijn+microfilmderiver@archive.org","publicdate":"2023-09-28 02:49:06","addeddate":"2023-09-28 02:49:06","identifier-access":"http://archive.org/details/bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741","identifier-ark":"ark:/13960/s2km96rmbj1","imagecount":"50","ocr":"tesseract 5.3.0-3-g9920","ocr_parameters":"-l enm+Fraktur","ocr_module_version":"0.0.21","ocr_detected_script":"Latin","ocr_detected_script_conf":"1.0000","ocr_detected_lang":"en","ocr_detected_lang_conf":"1.0000","page_number_confidence":"0","page_number_module_version":"1.0.3","pdf_module_version":"0.0.23"},"page_numbers":{
+    "identifier": "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 0,
+    "pages": [
+        {
+            "leafNum": 0,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 19,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 20,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 21,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 22,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 23,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 24,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 25,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 26,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 27,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 28,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 29,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 30,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 31,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 32,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 33,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 34,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 35,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 36,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 37,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 38,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 39,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 40,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 41,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 42,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 43,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 44,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 45,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 46,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 47,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 48,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 49,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"rotations":{"issue": {"mean": -0.4077625714285714, "std": 0.6033833623291519, "lh_mean": -0.2612853333333333, "lh_std": 0.6360028260050989, "rh_mean": -0.54838072, "rh_std": 0.5337505709208765}, "pages": {"bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0000.jp2": -0.85311, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0001.jp2": null, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0002.jp2": -1.008827, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0003.jp2": -0.860536, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0004.jp2": 0.353282, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0005.jp2": -1.465085, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0006.jp2": -0.579095, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0007.jp2": -0.378247, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0008.jp2": -0.673745, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0009.jp2": -0.452972, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0010.jp2": -0.827567, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0011.jp2": -0.662875, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0012.jp2": -0.441619, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0013.jp2": -0.520174, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0014.jp2": -0.170027, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0015.jp2": -0.506382, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0016.jp2": -1.214695, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0017.jp2": 0.372438, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0018.jp2": 0.132076, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0019.jp2": -0.987317, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0020.jp2": -0.450585, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0021.jp2": -0.223884, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0022.jp2": -0.121152, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0023.jp2": -0.618906, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0024.jp2": -0.342612, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0025.jp2": -0.491436, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0026.jp2": -0.15548, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0027.jp2": -0.812789, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0028.jp2": -0.031045, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0029.jp2": -0.702758, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0030.jp2": 0.52106, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0031.jp2": -0.583233, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0032.jp2": -1.080208, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0033.jp2": 0.658756, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0034.jp2": 0.186708, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0035.jp2": -0.721828, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0036.jp2": -1.00071, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0037.jp2": 0.360333, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0038.jp2": -1.525184, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0039.jp2": 0.51417, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0040.jp2": -0.876795, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0041.jp2": 0.390434, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0042.jp2": -0.991846, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0043.jp2": 0.908955, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0044.jp2": -0.300519, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0045.jp2": -0.706873, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0046.jp2": -1.243276, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0047.jp2": 0.991152, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0048.jp2": -1.014547, "bim_eighteenth-century_the-second-book-of-the-c_dodsley-robert_1741_0049.jp2": 0.228209}},"server":"ia800505.us.archive.org","uniq":1141351077,"workable_servers":["ia800505.us.archive.org","ia600505.us.archive.org"]}

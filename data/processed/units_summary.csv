@@ -1,0 +1,39 @@
+klass,role,documents,units,chunks,dev_units,audit_units,kind
+KJV,class,66,61,722,45,16,ranked
+Sidney Rigdon,class,67,56,113,46,10,ranked
+Hamilton,class,51,50,84,37,13,ranked
+Joseph Smith,class,48,26,31,21,5,ranked
+Oliver Cowdery,class,24,18,32,18,0,descriptive
+Madison,class,15,15,33,15,0,descriptive
+Parley P. Pratt,class,3,3,222,3,0,descriptive
+Campbell-edited periodicals,class,2,2,528,2,0,descriptive
+Lucy Mack Smith,class,1,1,90,1,0,descriptive
+David Whitmer,class,1,1,35,1,0,descriptive
+Ethan Smith,class,1,1,50,1,0,descriptive
+Solomon Spalding,class,1,1,39,1,0,descriptive
+Joseph Smith (joint or by others),other_control,30,20,33,18,2,control
+Federalist disputed (Hamilton or Madison),other_control,11,11,17,0,11,control
+KJV (quoted in BoM),other_control,25,9,11,9,0,control
+Jay,other_control,5,5,6,5,0,control
+Federalist joint (Hamilton and Madison),other_control,3,3,5,3,0,control
+"Lectures on Faith (mixed, Rigdon-dominant)",other_control,1,1,20,1,0,control
+Alexander Campbell,other_control,1,1,8,1,0,control
+Levi H. Dowling,pseudo_biblical,1,1,128,0,1,control
+John Ballou Newbrough,pseudo_biblical,1,1,88,1,0,control
+Richard Snowden,pseudo_biblical,1,1,56,1,0,control
+'Eliakim the Scribe' (pseud.),pseudo_biblical,1,1,20,1,0,control
+Gilbert J. Hunt,pseudo_biblical,1,1,49,0,1,control
+Philemon Stewart (Shaker),pseudo_biblical,1,1,71,1,0,control
+"Sidney Rigdon (revelations, 1856-76)",rigdon_late,70,38,50,29,9,control
+"Sidney Rigdon (letters, 1863-76)",rigdon_late,24,8,8,8,0,control
+Joseph Smith (revelations),smith_revelations,140,62,89,45,17,control
+Christopher G. Memminger,two_register,5,5,38,5,0,control
+Jacob Ilive,two_register,4,4,120,4,0,control
+James J. Strang,two_register,3,3,65,3,0,control
+Richard Grant White,two_register,2,2,285,2,0,control
+Charles B. Thompson,two_register,1,1,30,1,0,control
+Christopher G. Memminger (scripture),two_register,1,1,14,1,0,control
+Richard Grant White (scripture),two_register,1,1,60,1,0,control
+James J. Strang (scripture),two_register,1,1,17,1,0,control
+Jacob Ilive (scripture),two_register,1,1,22,1,0,control
+Charles B. Thompson (scripture),two_register,1,1,21,1,0,control

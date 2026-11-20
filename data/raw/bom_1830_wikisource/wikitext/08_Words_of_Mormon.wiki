@@ -1,0 +1,17 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = Words of Mormon
+ | previous    = [[Book of Mormon (1830)/Omni|Omni]]
+ | next        = [[Book of Mormon (1830)/Mosiah|Mosiah]]
+ | year        = 1830 
+ | notes       = <br>{{engine|The Book of Mormon|work=Book of Mormon (1830)}}
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" include="155" onlysection="TITLE" />
+
+{{AuxTOC|title=Chapters:|{{TOC begin}}
+{{TOC row 2dot-1|[[Book of Mormon (1830)/Words of Mormon/Chapter 1|Chapter I]]|151}}
+{{TOC end}}}}
+
+{{dhr}}

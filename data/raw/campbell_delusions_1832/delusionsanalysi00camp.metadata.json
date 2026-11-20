@@ -1,0 +1,274 @@
+{"alternate_locations":{"servers":[{"server":"dn720003.ca.archive.org","dir":"/0/items/delusionsanalysi00camp"},{"server":"dn760005.eu.archive.org","dir":"/0/items/delusionsanalysi00camp"}],"workable":[{"server":"dn720003.ca.archive.org","dir":"/0/items/delusionsanalysi00camp"},{"server":"dn760005.eu.archive.org","dir":"/0/items/delusionsanalysi00camp"}]},"created":1794489226,"d1":"ia903101.us.archive.org","d2":"ia803101.us.archive.org","dir":"/18/items/delusionsanalysi00camp","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1699462167","size":"11477","md5":"3efba99464371efc57d5e406011ebdeb","crc32":"ac1485d1","sha1":"036f28d9534b1843e4eae4148354768c4c99435d","format":"Item Tile","rotation":"0"},{"name":"delusionsanalysi00camp.djvu","source":"derivative","format":"DjVu","original":"delusionsanalysi00camp_djvu.xml","md5":"f0b3f1408a87b5c3cf7e3cd23869dcbf","mtime":"1204362802","size":"869242","crc32":"2ab82221","sha1":"76212d5564bc3d9c3ab03ba4588014288e5c0e14"},{"name":"delusionsanalysi00camp.gif","source":"derivative","format":"Animated GIF","original":"delusionsanalysi00camp_jp2.zip","md5":"8043e79e442b8fb6646c227eee451e08","mtime":"1204355916","size":"270897","crc32":"ce4fab99","sha1":"221ccd7d2bc4de3445cb96347c77c165571ad721"},{"name":"delusionsanalysi00camp.pdf","source":"derivative","format":"Text PDF","original":"delusionsanalysi00camp_page_numbers.json","mtime":"1699462198","size":"1292895","md5":"f18c7f66871cfd3425578ea3dfb4e45b","crc32":"f568bbb2","sha1":"93fc2c2f6040cdabca8c2a855ae20417361f5fe5"},{"name":"delusionsanalysi00camp_abbyy.gz","source":"derivative","format":"Abbyy GZ","original":"delusionsanalysi00camp_jp2.zip","md5":"4345d47ce6e3e94c5b2971049d2afac8","mtime":"1204362448","size":"887974","crc32":"29818cb6","sha1":"e74aae1b9dad3154ba2e2909f6c04f4733fd2209"},{"name":"delusionsanalysi00camp_archive.torrent","source":"metadata","btih":"86ffd2b511fdd9220c9a7dc2bd36c5be51eb8994","mtime":"1719684623","size":"5893","md5":"a3f6dda35ffae03121132b1818b7cc80","crc32":"e79357f6","sha1":"980781d1a0ab0e0e48a9b4cf4fb3551ccb4c8cf9","format":"Archive BitTorrent"},{"name":"delusionsanalysi00camp_bw.pdf","source":"derivative","format":"Grayscale PDF","original":"delusionsanalysi00camp_page_numbers.json","mtime":"1699462198","size":"1357753","md5":"b1dd7f0c8a1a13a61d74d3a95eadafd4","crc32":"637c4e79","sha1":"d4bbda379d000e47a251969560c59a3bda0e5162"},{"name":"delusionsanalysi00camp_chocr.html.gz","source":"derivative","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","format":"chOCR","original":"delusionsanalysi00camp_abbyy.gz","mtime":"1699462089","size":"721595","md5":"851179417bffd6533e242a612e236d0a","crc32":"c39c4ceb","sha1":"574830305b8c650e899a0b322641f52f4c9d4fa5"},{"name":"delusionsanalysi00camp_cloth_detection.log","source":"derivative","cloth_cover_detection_module_version":"1.2","format":"Cloth Cover Detection Log","original":"delusionsanalysi00camp_scandata.xml","mtime":"1699462751","size":"779","md5":"97a610db3828e83a3662bff7d82ca9cb","crc32":"5d20b7db","sha1":"a028c5d22e02d5a2d560345b8d154d389b0a1bca"},{"name":"delusionsanalysi00camp_dc.xml","source":"original","format":"Dublin Core","md5":"8dddea0f1c73365539b2f8078164d330","mtime":"1648290579","size":"1021","crc32":"8db17f79","sha1":"d6eac1d3a9ea802811bfb74633ff8d613b14c68d"},{"name":"delusionsanalysi00camp_djvu.txt","source":"derivative","format":"DjVuTXT","original":"delusionsanalysi00camp_djvu.xml","mtime":"1699462162","size":"65644","md5":"13faf7c1f8445a398aa99fb699f90851","crc32":"26f2454f","sha1":"5487f6444bf8b55cb55f50c56ac91171a041c823"},{"name":"delusionsanalysi00camp_djvu.xml","source":"derivative","format":"Djvu XML","original":"delusionsanalysi00camp_hocr.html","mtime":"1699462118","size":"771884","md5":"34714cffc2943106f5bc8288b8a4f789","crc32":"45266d3e","sha1":"ee15a14b0def0c6f7a23ff883608a29a7bf6474d"},{"name":"delusionsanalysi00camp_files.xml","source":"original","format":"Metadata","md5":"8775bbe9046f2f39692da4587bc64118","summation":"md5"},{"name":"delusionsanalysi00camp_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","format":"hOCR","original":"delusionsanalysi00camp_chocr.html.gz","mtime":"1699462111","size":"1407966","md5":"4ec0f9b7e4bb5160314810a702ffde87","crc32":"09411bb7","sha1":"2cc53e4696d6b7a23051effec5cf7423faa71e23"},{"name":"delusionsanalysi00camp_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"delusionsanalysi00camp_hocr.html","mtime":"1699462121","size":"424","md5":"84cee20c03760d85a76b0c6c765b0a5b","crc32":"c7f1bb56","sha1":"841c681bb075885d342bc8163c2fbb77906a7305"},{"name":"delusionsanalysi00camp_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"1371","word_conf_11_20":"1596","word_conf_21_30":"1465","word_conf_31_40":"1665","word_conf_41_50":"1768","word_conf_51_60":"1174","word_conf_61_70":"632","word_conf_71_80":"163","word_conf_81_90":"61","word_conf_91_100":"94","format":"OCR Search Text","original":"delusionsanalysi00camp_hocr.html","mtime":"1699462133","size":"24407","md5":"5513fd912ba047099de69b270fadbbf0","crc32":"0574c598","sha1":"c800c773afe1f45701b93a6aa120c50fb692f681"},{"name":"delusionsanalysi00camp_jp2.zip","source":"derivative","format":"Single Page Processed JP2 ZIP","original":"delusionsanalysi00camp_orig_jp2.tar","md5":"cec283b2e9227265087229fa914f45a5","mtime":"1204355874","size":"13233197","crc32":"e0696369","sha1":"4e92c691c4339f4368e3b7227aae44e03426ca89","filecount":"44"},{"name":"delusionsanalysi00camp_marc.xml","source":"original","format":"MARC","md5":"0f5468c4d7db4f77255cc04fba5fc1ed","mtime":"1204236197","size":"2691","crc32":"addaca6","sha1":"5b6ac2412df8d20a6496618d0f529f968b76491b"},{"name":"delusionsanalysi00camp_meta.mrc","source":"original","md5":"67e768e0b305dc4e38e03ec00cdcc7e9","format":"MARC Binary","mtime":"1204236197","size":"934","crc32":"ccde8103","sha1":"3487eb00dd7912f7ef4794cc9b8171830ea2d7cb"},{"name":"delusionsanalysi00camp_meta.xml","source":"original","format":"Metadata","mtime":"1719684617","size":"2511","md5":"720112e7b742b8a87f8fce804684eb5f","crc32":"18a2a872","sha1":"adf8ad9d72fca13a73d40d6d2cdfcf90f1b2e51c"},{"name":"delusionsanalysi00camp_metasource.xml","source":"original","format":"MARC Source","md5":"02d07339bb50c9c79a017de96086d42a","mtime":"1204236197","size":"444","crc32":"a4712890","sha1":"44382c75adf50ec4af735c850e5174e18f465151"},{"name":"delusionsanalysi00camp_orig_jp2.tar","source":"original","format":"Single Page Original JP2 Tar","md5":"87d7be9b7664157ebd8065e5e6377f87","mtime":"1204345352","size":"29511680","crc32":"de56a583","sha1":"8ae4ff16f79fc3da0b504755ae80dabb1b328f95","filecount":"44"},{"name":"delusionsanalysi00camp_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"38","format":"Page Numbers JSON","original":"delusionsanalysi00camp_hocr.html","mtime":"1699462143","size":"6550","md5":"f7d5b0e8eb6c1566fba982062f7ea6ec","crc32":"890a5714","sha1":"83061bda188bdf1784c01def9f638f70a5e0ba5b"},{"name":"delusionsanalysi00camp_scandata.xml","source":"original","format":"Scandata","md5":"38ab3f6d6ebc21e99e691af55bdce5f1","mtime":"1699462751","size":"22438","crc32":"66663899","sha1":"4abd7aaa3742509cd3d748c55ff441f0d5eed4bf"}],"files_count":24,"item_last_updated":1719684623,"item_size":50470296,"metadata":{"title":"Delusions : an analysis of the Book of Mormon ; with an examination of its internal and external evidences, and a refutation of its pretences to divine authority","creator":["Campbell, Alexander, 1788-1866","Himes, Joshua V. (Joshua Vaughan), 1805-1895"],"subject":["Church of Jesus Christ of Latter-Day Saints","Book of Mormon","Mormons"],"description":"Flake","publisher":"Boston, Benjamin H. Greene","date":"1832","language":"eng","possible-copyright-status":"NOT_IN_COPYRIGHT","sponsor":"University of Illinois Urbana-Champaign","contributor":"University of Illinois Urbana-Champaign","scanningcenter":"il","mediatype":"texts","collection":"americana","call_number":"4655624","repub_state":"4","updatedate":"2008-02-28 22:03:17","updater":"scanner-tricia-leonard","identifier":"delusionsanalysi00camp","uploader":"tleonar4@uiuc.edu","addeddate":"2008-02-28 21:59:13","publicdate":"2008-02-28 22:01:30","imagecount":"42","ppi":"400","camera":"Canon 5D","operator":"scanner-craig-johnson@archive.org","scanner":"scribe1","scandate":"20080301041503","identifier-access":"http://www.archive.org/details/delusionsanalysi00camp","identifier-ark":"ark:/13960/t00004r9n","curation":"[curator]jae@archive.org[/curator][date]20080527222728[/date][state]approved[/state]","sponsordate":"20080531","filesxml":["Tue Aug 18 16:33:31 UTC 2009","Wed Dec 23 23:45:34 UTC 2020"],"backup_location":"ia903601_25","openlibrary_edition":"OL22865323M","openlibrary_work":"OL4619238W","external-identifier":"urn:oclc:record:1042904750","oclc-id":"21703514","references":"Flake 1107","associated-names":"Himes, Joshua V. (Joshua Vaughan), 1805-1895","foldoutcount":"0","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","page_number_confidence":"38","page_number_module_version":"1.0.3"},"page_numbers":{
+    "identifier": "delusionsanalysi00camp",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 38,
+    "pages": [
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 13,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 14,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 15,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 16,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 17,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 18,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 19,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 20,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 21,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 22,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 23,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 24,
+            "confidence": 87,
+            "pageNumber": "8",
+            "pageProb": 77,
+            "wordConf": 9
+        },
+        {
+            "leafNum": 25,
+            "confidence": null,
+            "pageNumber": "9",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 26,
+            "confidence": 100,
+            "pageNumber": "10",
+            "pageProb": 94,
+            "wordConf": 16
+        },
+        {
+            "leafNum": 27,
+            "confidence": null,
+            "pageNumber": "11",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 28,
+            "confidence": 100,
+            "pageNumber": "12",
+            "pageProb": 97,
+            "wordConf": 3
+        },
+        {
+            "leafNum": 29,
+            "confidence": 100,
+            "pageNumber": "13",
+            "pageProb": 97,
+            "wordConf": 30
+        },
+        {
+            "leafNum": 30,
+            "confidence": 100,
+            "pageNumber": "14",
+            "pageProb": 97,
+            "wordConf": 4
+        },
+        {
+            "leafNum": 31,
+            "confidence": 100,
+            "pageNumber": "15",
+            "pageProb": 97,
+            "wordConf": 18
+        },
+        {
+            "leafNum": 32,
+            "confidence": 100,
+            "pageNumber": "16",
+            "pageProb": 97,
+            "wordConf": 33
+        },
+        {
+            "leafNum": 33,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 34,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 35,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 36,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 37,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 38,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"server":"ia803101.us.archive.org","uniq":334581309,"workable_servers":["ia803101.us.archive.org","ia903101.us.archive.org"]}

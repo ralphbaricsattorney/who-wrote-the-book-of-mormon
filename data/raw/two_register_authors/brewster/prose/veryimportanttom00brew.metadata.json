@@ -1,0 +1,92 @@
+{"alternate_locations":{"servers":[{"server":"dn720504.ca.archive.org","dir":"/0/items/veryimportanttom00brew"},{"server":"dn760007.eu.archive.org","dir":"/0/items/veryimportanttom00brew"}],"workable":[{"server":"dn720504.ca.archive.org","dir":"/0/items/veryimportanttom00brew"},{"server":"dn760007.eu.archive.org","dir":"/0/items/veryimportanttom00brew"}]},"created":1794778312,"d1":"ia600508.us.archive.org","d2":"ia800508.us.archive.org","dir":"/8/items/veryimportanttom00brew","files":[{"name":"__ia_thumb.jpg","source":"original","mtime":"1693108333","size":"20695","md5":"2cc28f3dbfbf91b70f9993ce7ac5cabe","crc32":"c842c2d4","sha1":"e8d38c2118e27208733bad4dcabbb0e33768762d","format":"Item Tile","rotation":"0"},{"name":"veryimportanttom00brew.djvu","source":"derivative","format":"DjVu","original":"veryimportanttom00brew_djvu.xml","mtime":"1306359072","size":"559281","md5":"a2bb0fef7f90d5b6f5b07a8c079f6907","crc32":"98b4f885","sha1":"a87a8a9c4fbfac4c9b5386999db6313b53f02089"},{"name":"veryimportanttom00brew.gif","source":"derivative","format":"Animated GIF","original":"veryimportanttom00brew_jp2.zip","mtime":"1306338034","size":"169522","md5":"be3a9b597da971cf0d1bd4fdde281431","crc32":"3e2fb011","sha1":"9f3aac22e3233c5ab18987223fa7a190f4e24aff"},{"name":"veryimportanttom00brew.pdf","source":"derivative","format":"Text PDF","original":"veryimportanttom00brew_page_numbers.json","mtime":"1703318351","size":"750449","md5":"a5415104e68ef928750b81d376cf07b3","crc32":"dccdb7f3","sha1":"1e9a1c4b4eb7cfe1739e7dee9b5e4dc848be12b4"},{"name":"veryimportanttom00brew_abbyy.gz","source":"derivative","format":"Abbyy GZ","original":"veryimportanttom00brew_jp2.zip","mtime":"1306359018","size":"462704","md5":"140faf42ef7d399beb98e6b828c9fada","crc32":"6f7973b","sha1":"606ab52725162be2e88a34ecbfb0e884c3a1c6e6"},{"name":"veryimportanttom00brew_archive.torrent","source":"metadata","btih":"52cc6cfe9cd86424d1f8eef61d189947fe7b6c90","mtime":"1726405482","size":"5319","md5":"b286054f756cf1a6632ce42a966c291a","crc32":"e6a643ff","sha1":"9711c71ad63232a07d8c8ba1ed1dc56e9e58fd18","format":"Archive BitTorrent"},{"name":"veryimportanttom00brew_bw.pdf","source":"derivative","format":"Grayscale PDF","original":"veryimportanttom00brew_page_numbers.json","mtime":"1703318351","size":"652513","md5":"7d9e021c54d31635e5e74b5608a9afe8","crc32":"a65eae2e","sha1":"72771782a26ef69ca40f43136e3ff8a19370c094"},{"name":"veryimportanttom00brew_chocr.html.gz","source":"derivative","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","format":"chOCR","original":"veryimportanttom00brew_abbyy.gz","mtime":"1703318218","size":"361040","md5":"d215d4916a0ebcad8cd963917413d8f9","crc32":"bbadc782","sha1":"040db0e1bc0f905ef51eb4fb0c8b5c7e43e8286b"},{"name":"veryimportanttom00brew_cloth_detection.log","source":"derivative","cloth_cover_detection_module_version":"2.1","format":"Cloth Cover Detection Log","original":"veryimportanttom00brew_scandata.xml","mtime":"1703318435","size":"1487","md5":"12d2d896196e29cfc92b048b3c22e17a","crc32":"d358c4e3","sha1":"6f4902935773034bfe93834dd5f3f219980360b9"},{"name":"veryimportanttom00brew_djvu.txt","source":"derivative","format":"DjVuTXT","original":"veryimportanttom00brew_djvu.xml","mtime":"1703318274","size":"31752","md5":"44b96ec4b844e1cb6eaab33377d64c29","crc32":"bac6c73c","sha1":"b4a21f5767115e63a2ea016784f9ca7c6c8e9dca"},{"name":"veryimportanttom00brew_djvu.xml","source":"derivative","format":"Djvu XML","original":"veryimportanttom00brew_hocr.html","mtime":"1703318236","size":"368816","md5":"34becaf56ff2591534b56581c4184be3","crc32":"6380d695","sha1":"3c89002c2d9ddb2a0bba96b3fadf273a9cf1aba0"},{"name":"veryimportanttom00brew_files.xml","source":"original","format":"Metadata","md5":"83fe451307819365022cd58fb3a87101","summation":"md5"},{"name":"veryimportanttom00brew_hocr.html","source":"derivative","hocr_char_to_word_module_version":"1.2.0","hocr_char_to_word_hocr_version":"1.1.45","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","format":"hOCR","original":"veryimportanttom00brew_chocr.html.gz","mtime":"1703318228","size":"685134","md5":"a66247c0b2d81085e196713e86e0257a","crc32":"5a7a36fc","sha1":"62970adc555863395cefafdb3b84ef682c786be1"},{"name":"veryimportanttom00brew_hocr_pageindex.json.gz","source":"derivative","hocr_pageindex_module_version":"1.0.0","hocr_pageindex_hocr_version":"1.1.15","format":"OCR Page Index","original":"veryimportanttom00brew_hocr.html","mtime":"1703318246","size":"198","md5":"f03877772dfdb301d6152b3819ac6daf","crc32":"e8a98691","sha1":"eff81200fedd3b54f15ab23d37c0bf23eb54f82f"},{"name":"veryimportanttom00brew_hocr_searchtext.txt.gz","source":"derivative","hocr_fts_text_module_version":"1.1.0","hocr_fts_text_hocr_version":"1.1.15","word_conf_0_10":"1884","word_conf_11_20":"1129","word_conf_21_30":"751","word_conf_31_40":"503","word_conf_41_50":"305","word_conf_51_60":"132","word_conf_61_70":"47","word_conf_71_80":"12","word_conf_81_90":"2","word_conf_91_100":"8","format":"OCR Search Text","original":"veryimportanttom00brew_hocr.html","mtime":"1703318255","size":"12532","md5":"c66d9d35f2cb5b56d903f20a1eee32d5","crc32":"74e1a484","sha1":"55665d933a75362b33b491f6a69178b13b8187b7"},{"name":"veryimportanttom00brew_jp2.zip","source":"derivative","format":"Single Page Processed JP2 ZIP","original":"veryimportanttom00brew_orig_jp2.tar","mtime":"1306337461","size":"6101453","md5":"9f3b9b65c9110801aa4ddba4cab423f1","crc32":"27e66a10","sha1":"e34aa2e11bbddd8c74375c9ed4ea752c4b1d224a","filecount":"16"},{"name":"veryimportanttom00brew_meta.sqlite","source":"original","mtime":"1464703284","size":"6144","format":"Metadata","md5":"1e8ee257b624827715c783a4d2801220","crc32":"ed08511d","sha1":"2aa4bdae784c2efc5502ad745505348f705aa4fc"},{"name":"veryimportanttom00brew_meta.xml","source":"original","format":"Metadata","mtime":"1726405476","size":"2171","md5":"b62f05909ed2f73d74edf70dda7feb73","crc32":"4385c450","sha1":"caee8c5b58a83a4ed477dace8db582eef90c046e"},{"name":"veryimportanttom00brew_metasource.xml","source":"original","format":"MARC Source","mtime":"1306241480","size":"226","md5":"3a00375439449bb43bd45c58ecc712c5","crc32":"885841d9","sha1":"5798092210775aea8b0c4a920fd6b3371f00b141"},{"name":"veryimportanttom00brew_orig_jp2.tar","source":"original","format":"Single Page Original JP2 Tar","mtime":"1306257735","size":"11509760","md5":"bd3f0463b4aae2300440faf98275c797","crc32":"ced2e7b6","sha1":"172bb64d8d645d3bc2cee44b19dce18974835ba8","filecount":"16"},{"name":"veryimportanttom00brew_page_numbers.json","source":"derivative","hocr_pagenumber_module_version":"1.0.3","hocr_pagenumber_hocr_version":"1.1.54","hocr_pagenumber_confidence":"0","format":"Page Numbers JSON","original":"veryimportanttom00brew_hocr.html","mtime":"1703318266","size":"2178","md5":"e21cccee1fb13f7f72e714edb2e0c91d","crc32":"9ae3b218","sha1":"f530bb3d34845eab0f2a597ac9dd56a26b1062cf"},{"name":"veryimportanttom00brew_scandata.xml","source":"original","format":"Scandata","mtime":"1703318435","size":"9963","md5":"b8b20eead6844259eaf524da4b0bb2e9","crc32":"66634b3d","sha1":"334057ec39ccb7203815e1ea5fbf87434c87e619"},{"name":"veryimportanttom00brew_title_detection.log","source":"derivative","format":"Title Page Detection Log","original":"veryimportanttom00brew_djvu.xml","mtime":"1703318415","size":"882","md5":"ce5a084a9aaf9dcf4fae7c9d938e3d29","crc32":"fb0b6abe","sha1":"211390670ae3207800abd10c84b3440294e70bd7"}],"files_count":23,"item_last_updated":1726405483,"item_size":21714219,"metadata":{"title":"Very important! To the Mormon money diggers why do the Mormons rage, and the people imagine a vain thing? by James Colin Brewster","creator":"Brewster, James Colin","subject":["Smith, Joseph 1771-1840","Treasure-trove","California -- Description and travel"],"description":"12 p. 19 cm.","publisher":"Springfield, Ill. s.n.","date":"1843","language":"eng","page-progression":"lr","sponsor":"Corporation of the Presiding Bishop, The Church of Jesus Christ of Latter-day Saints","contributor":"Church History Library, The Church of Jesus Christ of Latter-day Saints","scanningcenter":"saltlakecity","mediatype":"texts","collection":["churchhistorylibrary","americana"],"call_number":"M292.5 B848v 1843","repub_state":"4","updatedate":"2011-05-24 12:51:20","updater":"jim_niderost","identifier":"veryimportanttom00brew","uploader":"jim.n@archive.org","addeddate":"2011-05-24 12:51:22","publicdate":"2011-05-24 12:51:27","scanner":"scribe1.saltlakecity.archive.org","ppi":"400","camera":"Canon 5D","operator":"jim.n@archive.org","scandate":"20110524171643","imagecount":"14","foldoutcount":"0","identifier-access":"http://www.archive.org/details/veryimportanttom00brew","identifier-ark":"ark:/13960/t1qf9kp0g","curation":"[curator]callie@archive.org[/curator][date]20110602183257[/date][state]approved[/state]","scanfee":"25","sponsordate":"20110531","backup_location":"ia903700_10","filesxml":"Sat Dec 26 16:15:03 UTC 2020","ocr_module_version":"0.0.21","ocr_converted":"abbyy-to-hocr 1.1.37","page_number_confidence":"0","page_number_module_version":"1.0.3"},"page_numbers":{
+    "identifier": "veryimportanttom00brew",
+    "format-version": "2",
+    "archive-hocr-tools-version": "1.1.54",
+    "confidence": 0,
+    "pages": [
+        {
+            "leafNum": 1,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 2,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 3,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 4,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 5,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 6,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 7,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 8,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 9,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 10,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 11,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        },
+        {
+            "leafNum": 12,
+            "confidence": null,
+            "pageNumber": "",
+            "pageProb": null,
+            "wordConf": null
+        }
+    ]
+},"server":"ia600508.us.archive.org","uniq":1487768352,"workable_servers":["ia600508.us.archive.org","ia800508.us.archive.org"]}

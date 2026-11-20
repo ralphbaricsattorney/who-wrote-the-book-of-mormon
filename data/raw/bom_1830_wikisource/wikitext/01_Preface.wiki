@@ -1,0 +1,10 @@
+{{header
+ | title       = [[Book of Mormon (1830)|The Book of Mormon]]
+ | author      = Joseph Smith (1805-1844)
+ | section     = Preface
+ | previous    = [[Book of Mormon (1830)|Title Page]]
+ | next        = [[Book of Mormon (1830)/1 Nephi|1 Nephi]] 
+ | notes       = 
+}}
+
+<pages index="Book of Mormon (1830, bookofmormonacco1830smit).pdf" from="7" to="8"/>

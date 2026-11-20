@@ -1,0 +1,7 @@
+# Book of Mormon, first edition (Palmyra: E. B. Grandin, 1830): Wikisource transcription
+Source: https://en.wikisource.org/wiki/Book_of_Mormon_(1830). Proofread against the scan `bookofmormonacco1830smit` (https://archive.org/details/bookofmormonacco1830smit). Fetched 2026-11-12 with `scripts/fetch_bom1830_wikisource.py`.
+- `txt/NN_Book_chMM.txt`: plain text, one file per **1830 chapter** (117 files, ~270k words). The 1830 chapters are much longer than the modern 1879 chapters and match the original dictation's chapter breaks, which Skousen argues Smith dictated as "Chapter" with the numbers added later.
+- `html/`: rendered Wikisource HTML. `wikitext/`: raw wikitext of the book index pages. `manifest.json`: file → book, chapter, word count.
+- Word counts: 1 Nephi 25.4k · 2 Nephi 29.5k · Jacob 9.2k · Enos 1.2k · Jarom 0.7k · Omni 1.4k · Words of Mormon 0.9k · Mosiah 31.3k · Alma 85.7k · Helaman 20.6k · 3 Nephi 28.8k · 4 Nephi 2.0k · Mormon 9.5k · Ether 16.7k · Moroni 6.2k, plus the preface and witness statements.
+Caveats: The 1830 punctuation and paragraphing are the typesetter John Gilbert's, not the dictation's. Remove punctuation-based features or treat them as Gilbert's. Chapter headnotes (book summaries) are part of the 1830 text. The title page is not included (see the main Wikisource page).
+Dictation order (Skousen/Welch consensus): Mosiah → Moroni were dictated first (Apr–Jun 1829), then 1 Nephi → Words of Mormon last ("small plates" replacing the lost 116 pages).

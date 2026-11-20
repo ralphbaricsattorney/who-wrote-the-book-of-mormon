@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SECTION 124 - Doctrine and Covenants</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script src="../../lib/soundmanager/script/soundmanager2.js"></script>
+	<script src="../../js/bar-ui.js"></script>
+	<script src="../../js/sidebar.js"></script>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css'>
+	<link rel="stylesheet" type="text/css" href="../../css/site.css">
+	<link rel="stylesheet" href="../../css/bar-ui.css" />
+	<link rel="stylesheet" href="../../css/bootstrap_5_0_0_sidebar.css">
+	<script src="../js/chapterdata.js"></script>
+	<script src="../js/navscripts.js"></script>
+	<script>document.addEventListener('copy', (event) => {copyAddBook();} );</script>
+	<style>
+html {
+    height: 100%;
+	min-height: 100%;
+    padding: 0px 0px;
+} 
+body {
+    height: 100%;
+	overflow: hidden;
+    padding: 0px 0px;
+    margin: 0px 0px;	
+}
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px; 
+	z-index: 1;
+	background-color: skyblue;
+	text-align: center;
+}
+.header-padding {
+	padding-top: 70px; 
+}
+.content {
+    position: relative;
+    height: 100%;
+    height: -webkit-calc(100% - 60px);
+    height: -moz-calc(100% - 60px);
+    height: calc(100% - 60px);
+	overflow-y: auto;
+	padding: 0px 2px 50px 3px; 
+	margin: 0px 0px 0px 0px; 	
+ }
+	</style>
+</head>
+<body onload="setupNav();">
+<header>
+	<span id="BkName"><b>DC</b></span>&nbsp;
+	<select id="selectedBook" onChange="updateBook()">
+		<option value="../../library/default.asp">Home</option>
+	</select>
+	<select id="selectedChapter" onchange="updateChapter()">
+	</select>
+	<input id="selectedVerse" type="hidden" value="1"><br>
+
+	<div class="sm2-bar-ui">
+	 <div class="bd sm2-main-controls">
+	  <div class="sm2-inline-element sm2-button-element">
+	   <div class="sm2-button-bd">
+		<a href="#play" class="sm2-inline-button sm2-icon-play-pause">Play / pause</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-inline-status">
+	   <div class="sm2-playlist">
+		<div class="sm2-playlist-target">
+		 <!-- playlist <ul> + <li> markup will be injected here -->
+		 <noscript><p>JavaScript is required.</p></noscript>
+		</div>
+	   </div>
+
+	   <div class="sm2-progress">
+		<div class="sm2-row">
+		<div class="sm2-inline-time">0:00</div>
+		 <div class="sm2-progress-bd">
+		  <div class="sm2-progress-track">
+		   <div class="sm2-progress-bar"></div>
+		   <div class="sm2-progress-ball"><div class="icon-overlay"></div></div>
+		  </div>
+		 </div>
+		 <div class="sm2-inline-duration">0:00</div>
+		</div>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-volume">
+	   <div class="sm2-button-bd">
+		<span class="sm2-inline-button sm2-volume-control volume-shade"></span>
+		<a href="#volume" class="sm2-inline-button sm2-volume-control">volume</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-menu">
+	   <div class="sm2-button-bd">
+		<a href="#menu" class="sm2-inline-button sm2-icon-menu">menu</a>
+	   </div>
+	  </div>
+	 </div>
+	 <div class="bd sm2-playlist-drawer sm2-element">
+	  <!-- playlist content is mirrored here -->
+	  <div class="sm2-playlist-wrapper">
+		<ul id="listAudioLinks" class="sm2-playlist-bd">
+		</ul>
+	  </div>
+	 </div>
+	</div>
+</header>
+<div class="header-padding"></div>
+<div class="content">
+<br>
+<h2 class="Book text-center" data-abbr="D&C">Doctrine and Covenants</h2><h3 class="text-center">Section 124</h3>
+<p class="Pcope red">April 8, 1897-Lamoni, Iowa. Revelation through Joseph Smith III, addressed to the leading quorums and to the church in general. The Presidency was temporarily filled; and, for the first time since 1860, the Quorum of Twelve and the office of Presiding Patriarch were filled.</p>
+<p class="Pcope red">Alexander H. Smith called to be Presiding Patriarch-Callings to various offices-Vision of the organization of the quorums of Seventy-Sons of leading officers are admonished to be faithful in the work of the church</p>
+<p class="Pcope red">By the grace of God and the Lord Jesus Christ, I am permitted to write unto you and the church in answer to prayer. On the night of the 7th of April in the year of our Lord 1897, and on the morning of the 8th, I was in the Spirit and was commanded to write and say unto the elders and the church:</p>
+<a name="v1"><p class="Verse">D&C 124:1 Thus saith the Spirit of your Lord and Savior Jesus Christ: Your fasting and your prayers are accepted and have prevailed.</p></a>
+<a name="v2a"><p class="Verse">D&C 124:2a Separate and set apart my servant Alexander Hale Smith to be a counselor to my servant, the President of the church, his brother, and to be patriarch to the church and an evangelical minister to the whole church.</p></a>
+<a name="v2b"><p class="Verse">D&C 124:2b Also, appoint my servant E. L. Kelley, Bishop of the church, to act as counselor to the President of the church for the conference year or until one shall be chosen to succeed my servant W. W. Blair, whom I have taken unto myself-</p></a>
+<a name="v2c"><p class="Verse">D&C 124:2c he to sit in council with his brethren of the Presidency and act with and for them and the church, though he shall still be and act in the office of his calling of Bishop of the church with his brethren of the Bishopric.</p></a>
+<a name="v3"><p class="Verse">D&C 124:3 The Quorum of Twelve, my servants, may choose and appoint one of their number to take the place of my servant Alexander H. Smith; and if they shall choose William H. Kelley from among them for this place, it will be pleasing unto me; nevertheless, if directed by the spirit of revelation and wisdom, they may choose another.</p></a>
+<a name="v4a"><p class="Verse">D&C 124:4a And, that the quorum may be filled and be prepared to stand as a unit in the councils of the church, in equality with the Presidency and the Seventy, choose and set apart to act as apostles in the Quorum of Twelve my servants I. N. White, J. W. Wight, and R. C. Evans, for they are called unto this office and calling.</p></a>
+<a name="v4b"><p class="Verse">D&C 124:4b And, if these will accept this appointment and remain humble, faithful, and diligent, they shall with their brethren be greatly blessed in ministering the word and bringing souls unto me. Let the quorum be not doubting but believing; and I, the Lord, will bless them.</p></a>
+<a name="v5a"><p class="Verse">D&C 124:5a My servants, the presidents of the Seventy, may with the consent and approval of their brethren of the Seventy, sitting in council together, select from their brethren one to take the place of my servant I. N. White, if he accept the appointment to the Quorum of Twelve and his choosing be approved by the church;</p></a>
+<a name="v5b"><p class="Verse">D&C 124:5b and in like manner they may fill any other vacancy that has occurred or may occur, such selection and appointment to be made in the spirit of prayer, and supplication, and wisdom and to be approved by the church.</p></a>
+<a name="v6a"><p class="Verse">D&C 124:6a It is according to the vision that the seven presidents of the Seventy shall preside over the whole number of the Seventy when assembled in council together;</p></a>
+<a name="v6b"><p class="Verse">D&C 124:6b the senior, or chosen president of the seven presidents, shall preside over the six other presidents in their councils as presidents of the Seventy;</p></a>
+<a name="v6c"><p class="Verse">D&C 124:6c and when either quorum is sitting in council, as a quorum, then its chosen president shall preside over its sittings.</p></a>
+<a name="v6d"><p class="Verse">D&C 124:6d When any quorum of the Seventy may be sitting, any one or all of the seven presidents may, at their request or by invitation of such quorum, be present and take part in the deliberations of such council; but the president of such quorum only shall preside, except by consent of the quorum obtained by vote properly taken.</p></a>
+<a name="v7a"><p class="Verse">D&C 124:7a The sons of my servant, the President of the church, the sons of my servant William W. Blair, whom I have taken to myself, the sons of my servant, the Bishop of the church, and the sons of my servants of the leading quorums of the church are admonished-</p></a>
+<a name="v7b"><p class="Verse">D&C 124:7b that upon their fathers is laid a great and onerous burden; and they are called to engage in a great work, which shall bring them honor and glory or shame, contempt, and final great loss and destruction,</p></a>
+<a name="v7c"><p class="Verse">D&C 124:7c as they shall in uprightness, faithfulness, and diligence discharge their duties acceptably to God or shall in carelessness, slothfulness, or wickedness fail in their calling and ministry therein;</p></a>
+<a name="v7d"><p class="Verse">D&C 124:7d and to their sons shall come honor or shame as they shall approve or disapprove themselves to God.</p></a>
+<a name="v7e"><p class="Verse">D&C 124:7e These sons of my servants are called; and, if faithful, shall in time be chosen to places whence their fathers shall fall, or fail, or be removed by honorable release before the Lord and the church.</p></a>
+<a name="v8a"><p class="Verse">D&C 124:8a The Spirit saith further unto the church, Be of good cheer.</p></a>
+<a name="v8b"><p class="Verse">D&C 124:8b It has pleased the Father to accept many of the sacrifices of his people; and, notwithstanding some have fallen while engaged in their work, some have been tried and are still tried; some have been and are afflicted, yet the Lord has seen the affliction and trial and will accept and bless; and no man shall lose his reward. Brethren of the ministry and members of the church: My soul has been cheered, my spirit and body have been strengthened, and my heart made exceeding glad by the blessed and holy influence of the Spirit which was with me and still is with me as I write-causing me to give praise, honor, and glory to God and the Lamb, to whom honor and glory belong and with whom are might, power, and dominion evermore. Amen.</p></a>
+<p class="Pcope red">Your servant for the Christ's sake, </p>
+<p class="Pcope red">Joseph Smith</p>
+<p class="Pcope red">President of the Church</p>
+<p class="Pcope red">Lamoni, Iowa,</p>
+<p class="Pcope red">April 9, 1897</p>
+</div>
+</body>
+</html>

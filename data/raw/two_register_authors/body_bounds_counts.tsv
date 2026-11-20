@@ -1,0 +1,47 @@
+author	side	path	start_line	end_line	words	dict_share	thou_thee_thy_ye	unto	behold_lo	eth_verbs	came_to_pass	label
+strang	scripture	kjv_register_controls/strang_law_1851_strangite_org.html	0	0	19716	0.985	41.9	6.6	0.1	6.9	0.0	Book of the Law of the Lord (1851), HTML incl. site chrome
+strang	prose	two_register_authors/strang/prose/ancientmodernm1885stra.djvu.txt	21	5881	33186	0.946	0.0	0.0	0.0	0.0	0.0	Ancient and Modern Michilimackinac (1854; 1885 reprint, before the 1885 Supplement)
+strang	prose	two_register_authors/strang/prose/diary00stra.djvu.txt	2183	5285	21560	0.969	0.1	0.1	0.1	0.1	0.0	Diary 1831-36 (ed. Mark Strang 1961) incl. editor footnotes
+strang	prose	two_register_authors/strang/prose/propheticcontr1878stra.djvu.txt	6	1585	8510	0.963	1.0	2.6	0.1	0.4	0.0	Prophetic Controversy: letter to Mrs Corey (1854; 1878 reprint) incl. reprint footnotes
+snowden	scripture	two_register_authors/snowden/scripture/americanrevoluti00snow.djvu.txt	404	11174	58024	0.868	3.4	1.7	1.4	1.1	0.15	The American Revolution in scriptural style (1802 Baltimore ed.), before the Columbiad poem
+snowden	scripture_alt	kjv_pastiche_other/bim_eighteenth-century_the-american-revolution_snowden-richard_1793_1.djvu.txt	0	0	32524	0.927	2.8	1.8	1.2	0.9	1.62	1793 vol 1 (already in project)
+snowden	prose	two_register_authors/snowden/prose/historynorthand00snowgoog.djvu.txt	10528	18885	65266	0.889	0.0	0.0	0.2	0.1	0.0	History of North and South America (1805) vol II = North America (own compilation)
+snowden	prose_derivative	two_register_authors/snowden/prose/historynorthand00snowgoog.djvu.txt	386	10512	78036	0.912	0.0	0.0	0.1	0.1	0.0	same, vol I = South America, avowed abridgment of Robertson - do not use as Snowden's style
+white_richard_grant	scripture	two_register_authors/white_richard_grant/scripture/newgospelpeace00white.djvu.txt	891	13382	79983	0.939	4.5	7.4	1.4	3.6	0.52	New Gospel of Peace, Books 1-4 (1863-66; 1866 collected ed.) incl. author's mock-exegetical footnotes
+white_richard_grant	prose	two_register_authors/white_richard_grant/prose/wordsandthieruses00whitrich.djvu.txt	688	17623	127913	0.957	0.6	0.1	0.0	0.2	0.01	Words and Their Uses (1870; 1872 printing), chapters I-Conclusion
+white_richard_grant	prose	two_register_authors/white_richard_grant/prose/englandwithoutwi01whit.djvu.txt	441	24045	193432	0.961	0.2	0.0	0.0	0.1	0.01	England Without and Within (1881; later printing)
+newbrough	scripture	kjv_register_controls/oahspe0001john.djvu.txt	0	0	93276	0.948	16.6	1.6	2.5	4.9	0.33	Oahspe (1882)
+newbrough	prose	two_register_authors/newbrough/prose/ladyofwestorgold00newb.djvu.txt	388	27596	215831	0.978	1.3	0.0	0.2	0.0	0.0	The Lady of the West (1855 novel), preface + chapters
+newbrough	prose	two_register_authors/newbrough/prose/101203274.nlm.nih.gov.djvu.txt	0	0	5833	0.971	0.0	0.0	0.0	0.2	0.0	A Catechism on Human Teeth (1872), whole pamphlet incl. adverts
+oconnor_roger	scripture	two_register_authors/oconnor_roger/scripture_and_prose/chroniclesoferib01ocon.djvu.txt	19990	24098	26299	0.926	4.6	5.1	0.5	2.2	0.19	Chronicles of Eri vol 1, Part the First (Writings of Eolus) incl. interleaved Notes to chapters
+oconnor_roger	scripture	two_register_authors/oconnor_roger/scripture/chroniclesoferib02ocon.djvu.txt	47	22900	127914	0.902	2.6	6.2	0.2	4.2	0.02	Chronicles of Eri vol 2, Parts 2-5 incl. interleaved Notes to chapters
+oconnor_roger	prose	two_register_authors/oconnor_roger/scripture_and_prose/chroniclesoferib01ocon.djvu.txt	529	19989	116106	0.912	0.6	0.3	0.1	0.5	0.03	Chronicles of Eri vol 1, the Demonstration (O'Connor's own introduction) incl. long quotations
+oconnor_roger	prose	two_register_authors/oconnor_roger/prose/bim_eighteenth-century_to-the-people-of-great-b_oconnor-roger_1799.djvu.txt	0	0	41279	0.883	0.8	0.0	0.3	0.1	0.0	To the People of Great Britain and Ireland (1799)
+oconnor_roger	prose	two_register_authors/oconnor_roger/prose/bim_eighteenth-century_oconnors-letters-to-ea_oconnor-roger_1797.djvu.txt	0	0	11352	0.890	0.9	0.1	0.5	0.3	0.0	Letters to Earl Camden (1797)
+ilive	scripture	two_register_authors/ilive/scripture/bookofjasherwith00iliv.djvu.txt	758	8553	29638	0.949	16.9	17.5	3.0	2.0	2.37	Book of Jasher (1751; 1829 Bristol reprint), chapters incl. chapter summaries
+ilive	prose	two_register_authors/ilive/prose/bim_eighteenth-century_the-oration-spoke-at-joy_ilive-jacob_1733.djvu.txt	0	0	27193	0.951	3.7	0.7	0.3	1.3	0.0	Oration spoke at Joyners-Hall (1733)
+ilive	prose	two_register_authors/ilive/prose/bim_eighteenth-century_the-oration-spoke-at-tri_ilive-jacob_1738.djvu.txt	0	0	12570	0.950	2.7	1.3	0.2	1.5	0.09	Oration spoke at Trinity-Hall (1738)
+ilive	prose	two_register_authors/ilive/prose/bim_eighteenth-century_reasons-offered-for-the-_ilive-jacob_1757.djvu.txt	0	0	23073	0.928	0.1	0.0	0.0	0.3	0.0	Reasons offered for the reformation of the House of Correction (1757)
+ilive	prose	two_register_authors/ilive/prose/bim_eighteenth-century_the-laymans-vindication_ilive-jacob_1730.djvu.txt	0	0	100767	0.932	3.4	2.6	0.4	1.1	0.01	The Layman's Vindication of the Christian Religion (1730)
+thompson_charles_b	scripture	two_register_authors/thompson_charles_b/scripture/lawscovenantsofi00thom.djvu.txt	298	8201	34492	0.947	8.7	8.1	2.7	1.3	0.0	Laws and Covenants of Israel + Ephraim and Baneemy's Proclamations (1857)
+thompson_charles_b	prose	two_register_authors/thompson_charles_b/prose/evidencesinproof00thom_0.djvu.txt	244	10037	60298	0.977	5.0	6.1	1.2	1.4	0.1	Evidences in Proof of the Book of Mormon (1841)
+memminger	scripture	two_register_authors/memminger/scripture/bookofnullificat00char.djvu.txt	48	1940	15335	0.960	6.9	5.4	2.0	0.4	1.08	The Book of Nullification (1830)
+memminger	prose	two_register_authors/memminger/prose/addressofhoncgme00memm.djvu.txt	117	1880	16189	0.987	0.6	0.1	0.0	0.1	0.0	Address before the assembled authorities of Virginia (1860)
+smith_joseph_iii	scripture	two_register_authors/smith_joseph_iii/scripture/rlds_dc_section*.htm	0	0	17833	0.984	1.6	2.9	0.3	0.6	0.0	RLDS D&C sections 114-131 (1861-1914), HTML incl. site chrome and headnotes
+smith_joseph_iii	prose	two_register_authors/smith_joseph_iii/prose/pluralmarriagein00smitrich.djvu.txt	32	2041	14208	0.977	1.7	2.3	0.5	0.9	0.0	Plural Marriage in America (1903)
+dunsany	scripture	two_register_authors/dunsany/scripture/pg8395.txt	29	2197	15724	0.950	9.4	0.6	0.4	10.2	0.0	The Gods of Pegana (1905)
+dunsany	scripture	two_register_authors/dunsany/scripture/pg8183.txt	28	4355	40805	0.966	8.7	0.1	0.4	1.5	0.0	Time and the Gods (1906)
+dunsany	prose	two_register_authors/dunsany/prose/pg5713.txt	28	2828	25784	0.978	0.0	0.0	0.0	0.0	0.0	Tales of War (1918)
+dunsany	prose	two_register_authors/dunsany/prose/pg13820.txt	28	1310	12291	0.984	0.4	0.1	0.0	0.2	0.0	Unhappy Far-Off Things (1919)
+macpherson	scripture	two_register_authors/macpherson/scripture/poemsofossiantrb00macp.djvu.txt	2160	11476	72233	0.938	17.1	0.0	1.4	0.1	0.0	Poems of Ossian (1880 ed.), poems incl. Macpherson's arguments/footnotes and possibly trailing dissertations
+macpherson	prose	two_register_authors/macpherson/prose/bim_eighteenth-century_an-introduction-to-the-h_macpherson-james_1773.djvu.txt	0	0	113267	0.864	0.2	0.0	0.1	0.1	0.0	Introduction to the History of Great Britain and Ireland (1773 ed.)
+morris_joseph	mixed	two_register_authors/morris_joseph/scripture_and_prose/spiritprevails00morrrich.djvu.txt	0	0	290782	0.989	0.9	8.3	1.8	0.2	0.0	The Spirit Prevails (1886): revelations + letters, unsegmented
+brewster	scripture	two_register_authors/brewster/scripture/wordsofrighteous00brew.djvu.txt	0	0	19566	0.956	6.0	6.4	0.6	6.1	0.05	Words of Righteousness (1842)
+brewster	prose	two_register_authors/brewster/prose/veryimportanttom00brew.djvu.txt	0	0	4805	0.880	0.4	0.8	0.4	0.6	0.0	Very Important! To the Mormon Money Diggers (1843)
+scott_allen_m	scripture	two_register_authors/scott_allen_m/scripture/chroniclesofgrea01scot.djvu.txt	0	0	51753	0.957	4.1	5.8	1.7	2.3	1.41	Chronicles of the Great Rebellion (1863; 14th ed. 1864)
+dodsley	scripture	two_register_authors/dodsley/scripture/bim_eighteenth-century_the-chronicle-of-the-kin_dodsley-robert_1742.djvu.txt	0	0	18335	0.930	4.9	6.9	1.1	1.7	1.18	Chronicle of the Kings of England (1742 ed.)
+dodsley	scripture	two_register_authors/dodsley/scripture/conomyofhumanlif00dodsrich.djvu.txt	0	0	10588	0.967	34.7	2.2	0.8	38.1	0.0	Oeconomy of Human Life (1750; 1806 ed.)
+leacock	scripture	two_register_authors/leacock/scripture/firstbookofameri00unse.djvu.txt	0	0	9967	0.846	18.2	8.2	2.8	4.6	0.0	First Book of the American Chronicles of the Times (1775)
+southcott	prose	two_register_authors/southcott/prose/letterscommunica00sout.djvu.txt	0	0	39077	0.963	14.0	1.2	0.1	0.6	0.0	Letters and Communications (1804)
+southcott	scripture	two_register_authors/southcott/scripture/strangeeffectsof00sout.djvu.txt	0	0	231599	0.886	14.2	1.2	0.4	1.1	0.0	Strange Effects of Faith (1801-02)
+brothers	scripture	two_register_authors/brothers/scripture/b30390576.djvu.txt	0	0	34050	0.867	3.9	0.4	0.9	0.5	0.06	A Revealed Knowledge of the Prophecies and Times (1794)

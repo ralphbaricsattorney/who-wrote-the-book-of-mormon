@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SECTION 128 - Doctrine and Covenants</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+	<script src="../../lib/soundmanager/script/soundmanager2.js"></script>
+	<script src="../../js/bar-ui.js"></script>
+	<script src="../../js/sidebar.js"></script>
+	<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css'>
+	<link rel="stylesheet" type="text/css" href="../../css/site.css">
+	<link rel="stylesheet" href="../../css/bar-ui.css" />
+	<link rel="stylesheet" href="../../css/bootstrap_5_0_0_sidebar.css">
+	<script src="../js/chapterdata.js"></script>
+	<script src="../js/navscripts.js"></script>
+	<script>document.addEventListener('copy', (event) => {copyAddBook();} );</script>
+	<style>
+html {
+    height: 100%;
+	min-height: 100%;
+    padding: 0px 0px;
+} 
+body {
+    height: 100%;
+	overflow: hidden;
+    padding: 0px 0px;
+    margin: 0px 0px;	
+}
+header {
+	position: fixed;
+	width: 100%;
+	height: 70px; 
+	z-index: 1;
+	background-color: skyblue;
+	text-align: center;
+}
+.header-padding {
+	padding-top: 70px; 
+}
+.content {
+    position: relative;
+    height: 100%;
+    height: -webkit-calc(100% - 60px);
+    height: -moz-calc(100% - 60px);
+    height: calc(100% - 60px);
+	overflow-y: auto;
+	padding: 0px 2px 50px 3px; 
+	margin: 0px 0px 0px 0px; 	
+ }
+	</style>
+</head>
+<body onload="setupNav();">
+<header>
+	<span id="BkName"><b>DC</b></span>&nbsp;
+	<select id="selectedBook" onChange="updateBook()">
+		<option value="../../library/default.asp">Home</option>
+	</select>
+	<select id="selectedChapter" onchange="updateChapter()">
+	</select>
+	<input id="selectedVerse" type="hidden" value="1"><br>
+
+	<div class="sm2-bar-ui">
+	 <div class="bd sm2-main-controls">
+	  <div class="sm2-inline-element sm2-button-element">
+	   <div class="sm2-button-bd">
+		<a href="#play" class="sm2-inline-button sm2-icon-play-pause">Play / pause</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-inline-status">
+	   <div class="sm2-playlist">
+		<div class="sm2-playlist-target">
+		 <!-- playlist <ul> + <li> markup will be injected here -->
+		 <noscript><p>JavaScript is required.</p></noscript>
+		</div>
+	   </div>
+
+	   <div class="sm2-progress">
+		<div class="sm2-row">
+		<div class="sm2-inline-time">0:00</div>
+		 <div class="sm2-progress-bd">
+		  <div class="sm2-progress-track">
+		   <div class="sm2-progress-bar"></div>
+		   <div class="sm2-progress-ball"><div class="icon-overlay"></div></div>
+		  </div>
+		 </div>
+		 <div class="sm2-inline-duration">0:00</div>
+		</div>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-volume">
+	   <div class="sm2-button-bd">
+		<span class="sm2-inline-button sm2-volume-control volume-shade"></span>
+		<a href="#volume" class="sm2-inline-button sm2-volume-control">volume</a>
+	   </div>
+	  </div>
+	  <div class="sm2-inline-element sm2-button-element sm2-menu">
+	   <div class="sm2-button-bd">
+		<a href="#menu" class="sm2-inline-button sm2-icon-menu">menu</a>
+	   </div>
+	  </div>
+	 </div>
+	 <div class="bd sm2-playlist-drawer sm2-element">
+	  <!-- playlist content is mirrored here -->
+	  <div class="sm2-playlist-wrapper">
+		<ul id="listAudioLinks" class="sm2-playlist-bd">
+		</ul>
+	  </div>
+	 </div>
+	</div>
+</header>
+<div class="header-padding"></div>
+<div class="content">
+<br>
+<h2 class="Book text-center" data-abbr="D&C">Doctrine and Covenants</h2><h3 class="text-center">Section 128</h3>
+<p class="Pcope red">April 18, 1909-Lamoni, Iowa. Inspired counsel given by Joseph Smith III to the elders concerning procedures and organizations for Zionic activities.</p>
+<p class="Pcope red">Authority of the Bishop and his counselors in the work of gathering-Organizations to operate according to laws of the land-Be in the world but not of it</p>
+<p class="Pcope red">To the Eldership:</p>
+<p class="Pcope red">Brethren:</p>
+<p class="Pcope red">So far as the burden of the conference and its peculiar conditions have enabled me to do, I have steadfastly presented the matter stated by the Bishop for our consideration to the Lord for instruction. Whether that which has come to me will bring relief to the situation, I know not; but such as it is, I hereby present it.</p>
+<a name="v1a"><p class="Verse">D&C 128:1a The conditions surrounding the work, the increase of the membership of the church, the increasing desire for gathering together, and the necessity existing for the obtaining places for settlement in the regions round about,</p></a>
+<a name="v1b"><p class="Verse">D&C 128:1b under the existing laws of the United States, and especially the state of Missouri, require that the Bishopric be authorized to take such measures as will bring to pass the organization of those who are desirous and willing to form parts in colonization under terms of association in different localities,</p></a>
+<a name="v1c"><p class="Verse">D&C 128:1c where settlements may be made and may lawfully secure and hold property for the benefit of themselves, and their fellow church members, and the whole body of the church when organized.</p></a>
+<a name="v2a"><p class="Verse">D&C 128:2a The work to be done belongs to those who are by command of God made the custodians of the properties of the church;</p></a>
+<a name="v2b"><p class="Verse">D&C 128:2b and these by their appointment are empowered to prosecute the work of caring for and using such properties as are confided to their care to accomplish the end designed.</p></a>
+<a name="v3a"><p class="Verse">D&C 128:3a The Bishop and his counselors, together with the other bishops of the church and such other officers as the Bishop may call together, with whom he may confer in council, are authorized to devise the methods of procedure;</p></a>
+<a name="v3b"><p class="Verse">D&C 128:3b and they will be guided by the spirit of wisdom and revelation to do the work intrusted to their care.</p></a>
+<a name="v4a"><p class="Verse">D&C 128:4a Counsel has already been given to those gathering into the regions round about to consult with the elders and the bishops before removing into those regions,</p></a>
+<a name="v4b"><p class="Verse">D&C 128:4b that such removal may be accomplished through the having of all things prepared before them who seek to remove and become resident in the regions round about.</p></a>
+<a name="v5"><p class="Verse">D&C 128:5 It is well to understand that the term "regions round about" must mean more than a small area of country round about the central spot and that the necessity of the great majority of the church in gathering together can only be provided for by settling carefully together, as many in one region as may be practicable, and profitable, and in accordance with the feelings of the people under the laws existing in the places where such settlements are to be made.</p></a>
+<a name="v6a"><p class="Verse">D&C 128:6a The great variety of callings, avocations, and professions will present difficulties precluding the practicability of all settling and living in near proximity to each other.</p></a>
+<a name="v6b"><p class="Verse">D&C 128:6b It is therefore within the province of those upon whom the burden of organization may rest to provide for other organizations or associations than those simply pastoral or agricultural.</p></a>
+<a name="v6c"><p class="Verse">D&C 128:6c Under this head there may be placed industrial associations of such sorts as the varied qualifications existing among workmen may demand.</p></a>
+<a name="v7a"><p class="Verse">D&C 128:7a It has been prophesied that the Gentiles shall assist in rebuilding the waste places of Zion.</p></a>
+<a name="v7b"><p class="Verse">D&C 128:7b This cannot refer to the inhabitants of Zion who are the pure in heart, but must refer to the places which have been occupied, or which it may be contemplated to occupy, in the regions round about.</p></a>
+<a name="v7c"><p class="Verse">D&C 128:7c The Saints cannot occupy in any place on the land of Zion which is not under the domination of civil law; and as citizens of the state, holding their liberties under the law, there must be a proper recognition and observance of these laws.</p></a>
+<a name="v7d"><p class="Verse">D&C 128:7d The Lord has said that this condition of obedience to law must continue until he comes, whose right it is to come, and assumes to reign over his people.</p></a>
+<a name="v7e"><p class="Verse">D&C 128:7e Under the provisions of the laws, these organizations or associations must be instituted and carried to completion if they shall be of benefit to those who shall be engaged in them.</p></a>
+<a name="v8a"><p class="Verse">D&C 128:8a The Spirit saith further: That these organizations contemplated in the law may be effected and the benefits to be derived therefrom be enjoyed by the Saints-in such enjoyment they cannot withdraw themselves so completely from a qualified dependence upon their Gentile neighbors surrounding them as to be entirely free from intercommunication with them;</p></a>
+<a name="v8b"><p class="Verse">D&C 128:8b yet it is incumbent upon the Saints, while reaping the benefits of these organizations, to so conduct themselves in the carrying into operation the details of their organizations as to be in the world but not of it,</p></a>
+<a name="v8c"><p class="Verse">D&C 128:8c living and acting honestly and honorably before God and in the sight of all men, using the things of this world in the manner designed of God, that the places where they occupy may shine as Zion, the redeemed of the Lord.</p></a>
+<a name="v9"><p class="Verse">D&C 128:9 The Bishop should be directed and authorized to proceed as soon as it shall be found practicable by consultation with the general authorities of the church, who are made the proper counselors in spiritual and temporal things, to carry out the provisions of the law of organization which are by the law made the duty of the Bishop.</p></a>
+<p class="Pcope red">Joseph Smith</p>
+<p class="Pcope red">Lamoni, Iowa,</p>
+<p class="Pcope red">April 18, 1909</p>
+</div>
+</body>
+</html>

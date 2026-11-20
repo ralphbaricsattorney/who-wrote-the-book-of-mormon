@@ -1,0 +1,73 @@
+{
+  "prose__michilimackinac.txt": {
+    "source": "data/raw/two_register_authors/strang/prose/ancientmodernm1885stra.djvu.txt",
+    "body_lines": [
+      54,
+      5917
+    ],
+    "words_raw_body": 33314,
+    "words_out": 31816,
+    "paragraphs": 390,
+    "garbled_lines_dropped": 0,
+    "removed_words_by_reason": {
+      "heading": 187,
+      "furniture": 231,
+      "quotation": 123,
+      "table": 113
+    }
+  },
+  "prose__diary_1831_36.txt": {
+    "source": "data/raw/two_register_authors/strang/prose/diary00stra.djvu.txt",
+    "body_lines": [
+      2187,
+      5237
+    ],
+    "words_raw_body": 21189,
+    "words_out": 17009,
+    "paragraphs": 235,
+    "garbled_lines_dropped": 0,
+    "removed_words_by_reason": {
+      "footnote": 3200,
+      "furniture": 346,
+      "verse": 103,
+      "list": 16,
+      "heading": 34,
+      "editorial": 3,
+      "quotation": 294
+    }
+  },
+  "prose__prophetic_controversy.txt": {
+    "source": "data/raw/two_register_authors/strang/prose/propheticcontr1878stra.djvu.txt",
+    "body_lines": [
+      12,
+      5170
+    ],
+    "words_raw_body": 28788,
+    "words_out": 17808,
+    "paragraphs": 236,
+    "garbled_lines_dropped": 0,
+    "removed_words_by_reason": {
+      "footnote_or_quotation": 9235,
+      "quotation": 923,
+      "document": 245
+    }
+  },
+  "prose__diamond_epistles.txt": {
+    "source": "data/raw/two_register_authors/strang/prose/diamondbeinglawo02stra.djvu.txt",
+    "body_lines": [
+      496,
+      1071
+    ],
+    "words_raw_body": 5767,
+    "words_out": 4565,
+    "paragraphs": 28,
+    "garbled_lines_dropped": 1,
+    "removed_words_by_reason": {
+      "furniture": 9,
+      "quotation": 437,
+      "excluded": 537,
+      "ocr_garble": 102
+    }
+  },
+  "total_words_prose": 71198
+}
